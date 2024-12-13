@@ -4,7 +4,7 @@ const XLSX = require('xlsx');
 
 // 文件夹路径和输出文件路径
 const folderPath = path.join(__dirname, 'MsbtPlain'); // 存放txt文件的文件夹路径
-const outputFilePath = path.join(__dirname, 'output2.xlsx'); // 输出Excel文件路径
+const outputFilePath = path.join(__dirname, 'readDirectory.xlsx'); // 输出Excel文件路径
 
 // 正则表达式用于匹配键值对，确保键以字母或下划线开头，并且只包含字母、数字和下划线
 const keyValuePairRegex = /^([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)/m;
