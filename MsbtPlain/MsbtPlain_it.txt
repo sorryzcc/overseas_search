@@ -1059,11 +1059,11 @@ Announcement_Version_Update_21663_001 = Prova abbonamento Club Unite senza costo
 Se acquisti per la prima volta l'abbonamento al Club Unite da un dispositivo iOS, puoi ottenere il primo mese dell'abbonamento senza costo. Per ulteriori informazioni sul tuo abbonamento al Club Unite, consulta la schermata "Informazioni sull'abbonamento".
 Announcement_Version_Update_22051_001 = È ora disponibile il fantastico nuovo Holowear  ()! Puoi partecipare alla sfida cofanetto del tesoro per ottenerlo!
 
-Announcement_Version_Update_22240_001 = Galarian Rapidash is headed to Aeos Island!
-Announcement_Version_Update_22241_001 = Additional Battle Pass Rewards: Premium Pass Discount Coupon
-A discount coupon that gives you a discount for the next season’s battle pass has been added to premium pass and premium pass plus rewards!
-As a special bonus, a Season 29 premium pass discount coupon will be sent via mail to players who have obtained a Season 28 Battle Pass! The discount coupon will be sent from 2025-01-16 at 07:00 (UTC) to 2025-01-17 at 12:00 (UTC). Take care to claim it from your mail before obtaining a Season 29 Battle Pass!
-Announcement_Version_Update_22242_001 = New item available! You can now change the appearance of Unite Licenses with License Art. Check it out in the shop!
+Announcement_Version_Update_22240_001 = ガラルギャロップがまもなくエオス島に登場！
+Announcement_Version_Update_22241_001 = バトルパス報酬追加：プレミアムパス割引クーポン
+次のシーズンのバトルパスをお得な価格で購入できる割引クーポンがプレミアムパス/プレミアムパスPlus報酬に追加されました！
+特別特典としてシーズン28のバトルパスを購入された方にシーズン29のプレミアムパス割引クーポンをメールで配布いたします。クーポンは1月16日16:00（JST）～1月17日21:00（JST）の間に順次配布いたしますので、シーズン29のバトルパスご購入前にメールボックスからお受け取りください。
+Announcement_Version_Update_22242_001 = 新アイテム：ライセンスの絵柄を変更できるライセンスアートが登場！ショップで購入しよう！
 Announcement_Version_Updav__19303_001 = Lotte competitive
 I giocatori che fanno parte del rango mega: classe 5, ultra: classe 5 ed élite: classe 5 non scenderanno di classe neppure perdendo.
 Announcement_VersionUpdate_12541_001 = Aggiunte nuove missioni traguardo.
@@ -2223,7 +2223,7 @@ Battle_Mode_Name_18613_001 = 苍响大挑战：初级
 Battle_Mode_Name_18614_001 = 苍响大挑战：中级
 Battle_Mode_Name_18615_001 = 苍响大挑战：高级
 Battle_Mode_Name_19558_001 = Lotta prorompente: adunata dei draghi
-Battle_Mode_Name_22005_001 = Lotta competitiva: Stadio Pelago
+Battle_Mode_Name_22005_001 = Ranked Match: Remoat Stadium
 Battle_Mode_Name_7585_001 = Lotta accelerata allo Stadio Mare
 Battle_Mode_Name_7585_lowcase = Lotta accelerata allo Stadio Mare
 Battle_Mode_Name_9944_001 = Pikafesta
@@ -2233,19 +2233,16 @@ Battle_Mode_Tab_22006_001 = NOVITÀ
 Battle_Mode_Tips_13641_001 = Per partecipare devi prima selezionare una squadra. Vuoi procedere alla schermata dell'evento?
 Battle_Mode_Tips_13642_001 = Impossibile partecipare perché {0} non fa parte di una squadra nell'evento "Scontro accelerato di squadra".
 Battle_Mode_Tips_18524_001 = 此地图玩法还未到开启时间
-Battle_Mode_Tips_Decs_21997_001 = Durata evento: 
-Battle_Mode_Tips_Decs_21998_001 = dalle ore {2}:00 (UTC) del giorno {0}/{1}/2025 alle ore {5}:59 (UTC) del giorno {3}/{4}/2025
-Battle_Mode_Tips_Decs_21999_001 = La mappa "Stadio Pelago" per un periodo limitato non è più disponibile.
-Battle_Mode_Tips_Decs_22000_001 = Lotta competitiva: Stadio Pelago in corso
-Battle_Mode_Tips_Decs_22001_001 = Disponibile per
-Battle_Mode_Tips_Decs_22002_001 = {0} g {1} h
-Battle_Mode_Tips_Decs_22003_001 = {0} h {1} m
+Battle_Mode_Tips_Decs_21997_001 = Event Duration:
+Battle_Mode_Tips_Decs_21998_001 = From {2}:00 (UTC) on 2025-{0}-{1} to {5}:59 UTC on 2025-{3}-{4}
+
+Battle_Mode_Tips_Decs_21999_001 = The limited-time Remoat Stadium battle map is no longer available.
+Battle_Mode_Tips_Decs_22000_001 = Ranked Match: Remoat Stadium Underway
+Battle_Mode_Tips_Decs_22001_001 = Available for
+Battle_Mode_Tips_Decs_22002_001 = {0}d {1}h
+Battle_Mode_Tips_Decs_22003_001 = {0}h {1}m
 Battle_Mode_Tips_Decs_22004_001 = {0}:{1}
-Battle_Mode_Tips_Title_21996_001 = Lotta competitiva: lo Stadio Pelago è nuovamente disponibile!
-
-Lotta competitiva: torna lo Stadio Pelago!
-
-
+Battle_Mode_Tips_Title_21996_001 = Ranked Match: Remoat Stadium Returns!
 Battle_Network_Error_Tips_6110_001 = La lotta è già terminata o si è verificato un errore. Riprova più tardi.
 Battle_Notice_Boss_Defeated_14773_001 = Ottenete 15 punti e segnate istantaneamente!
 Battle_Notice_Boss_Defeated_14774_001 = Gli avversari ottengono 15 punti e segnano istantaneamente!
@@ -2260,72 +2257,64 @@ Battle_Notice_Team_Level_Up_14768_001 = La tua squadra può segnare istantaneame
 Battle_Notice_Team_Level_Up_14769_001 = La squadra avversaria può segnare istantaneamente!
 Battle_Notice_Team_Task_Complete_14771_001 = Avete completato la missione esibizione!
 Battle_Notice_Team_Task_Complete_14772_001 = Gli avversari hanno completato la missione esibizione!
-Battle_Notify_Decs_21841_001 = Minuti 0 - 2 della lotta: mentre sali di livello, preparati a sconfiggere , che comparirà al minuto {0}.
-Usa le pedane supersalto che appariranno nella zona superiore e inferiore della mappa al {1}m {2}s della sfida per [] supportare i tuoi alleati nella lotta!
+Battle_Notify_Decs_21841_001 = 0 to 2m into the Battle: While leveling up, prepare to defeat  when they appear at the {0}m mark. Use the superjump springboards that appear at the top and bottom of the map {1}m {2}s into the match to rush to support your allies in battle!
 
-Minuti 2 - 8 della lotta: manda KO  o  quando appare nell'area centrale della mappa dopo il minuto {3} per portare la tua squadra in vantaggio e distruggere le aree goal avversarie.
+2 to 8m into the Battle: Defeat  or  when they appear in the central area of the map after the {3}m mark to turn the battle in your team’s favor and destroy opposing goal zones.
 
-Minuto 8 della lotta: manda KO  quando appare nell'area centrale della mappa per portare la tua squadra in vantaggio. Quando al minuto 10 apparirà , sarà molto potente e renderà le aree goal avversarie vulnerabili, dandoti una buona possibilità di segnare.
-Battle_Notify_Decs_21843_001 = [La tecnologia Heos] è un sistema esclusivo per/di questa modalità. Sarai in grado di selezionare una [tecnologia Heos] tra tre disponibili in modo casuale all'inizio della lotta, e un'altra quando la tua squadra ottiene un totale di 50, 100, 200 e 350 punti. Tieni a mente la compabilità tra i Pokémon scelti e il modo in cui procede la lotta quando scegli quale [tecnologia Heos] usare!
-Battle_Notify_Decs_21844_001 = Lo Stadio Pelago è composto da tre percorsi: il percorso superiore, l'area centrale e il percorso inferiore.
-Sconfiggi i Pokémon selvatici e i Pokémon avversari per accumulare energia Heos e distruggere le aree goal avversarie.
-La mappa contiene vari [stratagemmi?] che, se usati strategicamente, ti porteranno alla vittoria!
-Battle_Notify_Decs_21845_001 = Pokémon consigliati: Versatili, Difensori, Corto raggio
-Ruoli di Pokémon consigliati: Versatili, Difensori, Corto raggio
-Consigliati: Pokémon Versatili, Pokémon Difensori, Pokémon Corto raggio
-Battle_Notify_Decs_21846_001 = Il percorso superiore ha aree goal distruttibili utilizzando meno energia, quindi aspettati [] lotte all'inizio della sfida.
-Quando appare Rotom nel percorso superiore, userà Schermoluce per ridurre i danni inflitti dagli attacchi a lungo raggio, quindi consigliamo gli attacchi a corto raggio.
-Battle_Notify_Decs_21847_001 = Pokémon consigliati: Versatili, Velocisti, Corto raggio
-Ruoli di Pokémon consigliati: Versatili, Velocisti, Corto raggio
-Consigliati: Pokémon Versatili, Pokémon Velocisti, Pokémon Corto raggio
-Battle_Notify_Decs_21848_001 = Giocare in modo indipendente è fondamentale nella area centrale, tanto quanto lo è cambiare tattica in base alla situazione in evoluzione in ogni percorso. In quest'area sono consigliati i Pokémon con mobilità elevata, visto che è necessario prestare attenzione anche ai Pokémon selvatici che appaiono.
-Battle_Notify_Decs_21849_001 = Pokémon consigliati: Attaccanti, Supporto, Lungo raggio
-Ruoli di Pokémon consigliati: Attaccanti, Supporto, Lungo raggio
-Consigliati: Pokémon Attaccanti, Pokémon Supporto, Pokémon Lungo raggio
-Battle_Notify_Decs_21850_001 = Il percorso inferiore è ricco di energia, di cui si ha bisogno per distruggere le aree goal. I Pokémon possono salire di livello in sicurezza in questo percorso.
-Quando Rotom appare nel percorso inferiore, userà Scarica per infliggere danni intorno a sé, quindi è consigliato usare attacchi a lungo raggio.
-Battle_Notify_Decs_21851_001 = Quando un'area goal mediana di una delle due squadre viene distrutta, una pedana supersalto apparirà accando alla base della tua squadra. Usandola, puoi saltare rapidamente nell'area centrale della mappa, e la tua velocità di movimento aumenterà per un po'.
-Al {0}[°] minuto di lotta, appariranno delle pedane supersalto vicino all'area centrale della mappa. Usandole, salterai nell'area centrale della mappa. [... ma come?]
-Al {1} minutes {2} seconds, appariranno delle pedane supersalto nella parte superiore e inferiore della mappa. Usandole, salterai rapidamente fino all'area centrale della mappa.
-Battle_Notify_Decs_21852_001 = I Pokémon come  e possono rendere le aree goal alleate vulnerabili. Quando le aree goal alleate sono vulnerabili, non permettono di recuperare PS e non conferiscono uno scudo ai Pokémon. Inoltre, quando sono vulnerabili, i Pokémon della squadra avversaria possono fare goal instantaneamente nelle aree goal alleate.
-Battle_Notify_Decs_21853_001 = I Pokémon come  e possono rendere le aree goal avversarie vulnerabili. Quando le aree goal avversarie sono vulnerabili, non permettono di recuperare PS e non conferiscono uno scudo ai Pokémon. Inoltre, i Pokémon della tua squadra possono fare goal instantaneamente nelle aree goal avversarie vulnerabili.
-Battle_Notify_Decs_21854_001 = Puoi depositare l'energia Heos accumulata nelle aree goal avversarie.
-Un'area goal viene distrutta una volta superato il limite massimo di punti che puoi segnare nella suddetta.
-La velocità dei goal diminuisce mentre procedi dall'area goal frontale, area goal mediana e area goal finale (diminuirà rispettivamente di {0}s, {1}s e {2}s). / Mentre avanzi a partire dall'area goal frontale, 
-Meno energia hai accumulato, maggiore sarà la tua velocità dei goal!
-Inoltre, la velocità dei goal aumenterà per i goal segnati nelle aree goal frontali al minuto 4, e nelle aree goal mediane al minuto 6.
-Battle_Notify_Decs_21855_001 =  appare nel percorso inferiore e nel percorso superiore al minuto {0} dall'inizio della lotta. <color=#ff9966>Quando  appare nel percorso superiore</color>, userà Schermoluce per ridurre i danni inflitti dagli attacchi a lungo raggio.
-<color=#ff9966>Quando  appare nel percorso inferiore</color>, userà Scarica per infliggere danni ai Pokémon nelle sue vicinanze.
-Quando  viene mandato KO, avanzerà verso una delle aree goal avversarie e la renderà vulnerabile.  ricomparirà sulla mappa {1} second[Grm:Qty S="o" P="i" Idx="1" ] dopo essere stato mandato KO.
-Battle_Notify_Decs_21856_001 = Mandare KO  ridurrà i tempi di ricarica delle mosse del tuo Pokémon. Inoltre, l'attacco base del tuo Pokémon infliggerà danni continui per {0} secondi.
-Battle_Notify_Decs_21857_001 =  o  appariranno nel percorso superiore. Mandandoli KO, aumenterai i PS massimi, la Difesa e la Difesa Speciale del tuo Pokémon.
-Battle_Notify_Decs_21858_001 = Quando entrambe le <color=#ff9966>aree goal frontali</color> della tua squadra vengono distrutte, apparirà un  dotato di [un campo visivo ristretto].
-Quando una delle <color=#ff9966>aree goal mediane</color> della tua squadra viene distrutta, apparirà un  dotato di un [campo visivo ampio].
- ricomparirà sulla mappa dopo {0} second[Grm:Qty S="o" P="i" Idx="0" ].
-Battle_Notify_Decs_21859_001 =  o  appariranno nell'area centrale della mappa al minuto {0} dall'inizio della lotta. Il Pokémon della tua squadra che lo manderà KO diventerà inarrestabile e la sua velocità dei goal aumenterà.
-Il Pokémon ricomparirà sulla mappa {1} second[Grm:Qty S="o" P="i" Idx="1" ] dopo essere stato mandato KO.
-Battle_Notify_Decs_21860_001 =  o  apparirà nell'area centrale della mappa {0} minuti nella lotta. Quando viene sconfitto, avanza verso una delle aree goal della squadra avversaria e vi deposita una grande quantità di energia Heos. Se viene mandato KO mentre avanza verso una delle aree goal della squadra avversaria, ricomparirà sulla mappa una volta trascors[Grm:Qty S="o" P="i" Idx="1" ] {1} second[Grm:Qty S="o" P="i" Idx="1" ].
-Battle_Notify_Decs_21861_001 =  apparirà nel percorso inferiore. Se lo mandi KO, la velocità di attacco, l'Attacco e l'Attacco Speciale del tuo Pokémon aumenteranno.
-Ricomparirà sulla mappa {1} second[Grm:Qty S="o" P="i" Idx="1" ]. dopo essere stato mandato KO.
-Battle_Notify_Decs_21862_001 =  apparirà nell'area centrale della mappa otto minuti dopo l'inizio della lotta.
-Quando  viene sconfitto, avanza verso una delle aree goal della squadra avversaria e la rende vulnerabile dopo aver accumulato energia per un certo lasso di tempo. <color=#ffd061>Mentre accumula energia,  è protetto da uno scudo. Se lo scudo viene distrutto o se viene ostacolato (ad esempio se viene reso incapace di agire), l'accumulo di energia può venire annullato.</color>
-Ricomparirà sulla mappa {0} second[Grm:Qty S="o" P="i" Idx="0" ]. dopo essere stato mandato KO.
-Battle_Notify_Decs_21863_001 = Sono apparse delle pedane supersalto nella parte superiore e inferiore della mappa!
-Battle_Notify_Decs_21864_001 = Sono apparse delle pedane supersalto nella parte centrale della mappa!
-Battle_Notify_Decs_21865_001 = È apparsa una pedana supersalto vicino alla base!
-Battle_Notify_Decs_21866_001 = La velocità dei goal è aumentata per le aree goal frontali!
-Battle_Notify_Decs_21867_001 = La velocità dei goal è aumentata per le aree goal mediane!
-Battle_Notify_Decs_21868_001 = La velocità dei goal è aumentata per le aree goal finali!
-Battle_Notify_Decs_21869_001 = Poiché nel percorso superiore è presente più erba alta, vi si svolgeranno più scontri ravvicinati. Questo percorso è quindi solitamente consigliato per i Pokémon col ruolo di Versatile e Difensore.
+8m into the Battle: Defeat  when it appears in the central area of the map to swing the battle in your team’s favor. When  appears at the 10m mark, it will be extremely powerful as it will make opposing goal zones defenseless, giving you a chance to score.
+Battle_Notify_Decs_21843_001 = Aeos Technology is a system exclusive to this mode. You will be able to select one out of three randomly offered Aeos Technologies at the start of a battle, and when your team scores a total of 50, 100, 200, and 350 points. Carefully consider compatibility to the Pokémon you have picked and the progression of the battle when choosing Aeos Technology!
+Battle_Notify_Decs_21844_001 = Remoat Stadium has three paths: Top Path, Central Area, and Bottom Path.
+Defeat wild Pokémon and opposing Pokémon to collect Aeos energy and destroy opponents’ goal zones.
+The map contains various gimmicks that you can use strategically to achieve victory!
+Battle_Notify_Decs_21845_001 = Recommended types of Pokémon: All-Rounder, Defender, Melee
+Battle_Notify_Decs_21846_001 = The top path has goal zones that require less energy to destroy, so fierce battles are expected from the beginning of the match.
+When Rotom appears on the top path, it will use Light Screen to reduce damage from ranged attacks, so melee attacks are recommended.
+Battle_Notify_Decs_21847_001 = Recommended types of Pokémon: All-Rounder, Speedster, Melee
+Battle_Notify_Decs_21848_001 = Independent play is key to the central area, as well as shifting tactics according to the situation unfolding on each path. Pokémon with high mobility are recommended, as players must also be wary of the wild Pokémon that appear in the central area.
+Battle_Notify_Decs_21849_001 = Recommended types of Pokémon: Attacker, Supporter, Ranged
+Battle_Notify_Decs_21850_001 = There is more energy on the bottom path, which is needed to destroy goal zones. Pokémon can safely level up on this path.
+When Rotom appears on the bottom path, it will use Discharge to deal damage around itself, so ranged attacks are recommended.
+Battle_Notify_Decs_21851_001 = When either one of your team’s middle goal zones are destroyed, a superjump springboard will appear near your team’s base. When used, you can quickly jump to the central area of the map, and your movement speed will increase for a short time.
+{0} minutes into the battle, superjump springboards will appear near the central area of the map. When used, you can jump to the central area of the map.
+{1} minutes {2} seconds into the battle, superjump springboards will appear at the top and bottom of the map. When used, you can quickly jump to the central area of the map.
+Battle_Notify_Decs_21852_001 = Pokémon like  and  can make ally goal zones defenseless. Ally goal zones will not provide HP recovery or grant Pokémon a shield when they are defenseless. Pokémon from the opposing team can also score instantly on defenseless ally goal zones.
+Battle_Notify_Decs_21853_001 = Pokémon like  and  can make opposing goal zones defenseless. Opposing goal zones will not provide HP recovery or grant Pokémon a shield when they are defenseless. Pokémon from your team can also score instantly on defenseless opposing goal zones.
+Battle_Notify_Decs_21854_001 = You can deposit Aeos energy you have collected into opposing goal zones.
+A goal zone is destructed when its maximum point limit is reached.
+Goal-scoring speed decreases as you progress from front goal zones, middle goal zones to base goal zones. ({0}s, {1}s, and {2}s respectively)
+The less energy you have collected, the faster your goal-scoring speed!
+In addition, goal-scoring speed will increase for front goal zones at the four-minute mark, and middle goal zones at the six-minute mark.
+Battle_Notify_Decs_21855_001 =  appears on the top and bottom path {0} minutes into the match. <color=#ff9966>When  appears on the top path</color>, it will use Light Screen to reduce damage from ranged attacks.
+<color=#ff9966>When  appears on the bottom path</color>, it will use Discharge to deal damage to nearby Pokémon.
+When  is defeated, it will advance toward one of the opposing goal zones and make it defenseless.  will reappear on the map {1} [Grm:Qty S="second" P="seconds" Idx="1" ] after being knocked out.
+Battle_Notify_Decs_21856_001 = Defeating  will reduce your Pokémon’s move cooldowns. Your Pokémon’s basic attacks will also deal damage over time for {0} seconds.
+Battle_Notify_Decs_21857_001 =  or  will appear on the top path. Defeating them will increase your Pokémon’s max HP, Defense, and Sp. Def.
+Battle_Notify_Decs_21858_001 = When both of your team’s <color=#ff9966>front goal zones</color> are destroyed,  with a narrow field of vision appears.
+When either of your team’s <color=#ff9966>middle goal zones</color> is destroyed,  with a wide field of vision appears.
+ will reappear after {0} [Grm:Qty S="second" P="seconds" Idx="0" ].
+Battle_Notify_Decs_21859_001 =  or  will appear in the central area of the map {0} minutes into the match. The Pokémon on the team that defeats  will be unstoppable and gain an increased goal-scoring speed.
+It will reappear {1} [Grm:Qty S="second" P="seconds" Idx="1" ] after being knocked out.
+Battle_Notify_Decs_21860_001 =  or  will appear in the central area of the map {0} minutes into the match. When  is defeated, it will advance towards one of the opposing team’s goal zones and deposit a large amount of Aeos energy. If it is knocked out while advancing towards opposing team’s goal zones, it will reappear after {1} [Grm:Qty S="second" P="seconds" Idx="1" ].
+Battle_Notify_Decs_21861_001 =  will appear on the bottom path. When defeated, your Pokémon gains increased attack speed, Attack, and Sp. Atk.
+It will reappear {0} [Grm:Qty S="second" P="seconds" Idx="0" ] after being knocked out.
+Battle_Notify_Decs_21862_001 =  will appear in the central area of the map eight minutes into the match.
+When  is defeated, it will advance towards one of the opposing team’s goal zones and make it defenseless after it charges for a set amount of time. <color=#ffd061> gains a shield when it begins charging. The charging can be canceled if the shield is destroyed or hindrances like incapacitation are inflicted.</color>
+It will reappear {0} [Grm:Qty S="second" P="seconds" Idx="0" ] after being knocked out.
+Battle_Notify_Decs_21863_001 = Superjump springboards have appeared at the top and bottom of the map!
+Battle_Notify_Decs_21864_001 = Superjump springboards have appeared near the center of the map!
+Battle_Notify_Decs_21865_001 = A superjump springboard has appeared near the base!
+Battle_Notify_Decs_21866_001 = Goal-scoring speed increased for forward goal zones!
+Battle_Notify_Decs_21867_001 = Goal-scoring speed increased for middle goal zones!
+Battle_Notify_Decs_21868_001 = Goal-scoring speed increased for base goal zones!
+Battle_Notify_Decs_21869_001 = There is more tall grass on the top path, which means there will be more close-quarters battles. All-Rounder or Defender Pokémon will prove useful here.
 Battle_Notify_Decs_22258_001 = は上ルートに出現します。KOすると、最大HPと、防御や特防を上げる効果を獲得できます。このポケモンがKOされた{0}秒後に再びランダムで出現します。
 Battle_Notify_Decs_22259_001 = は下ルートに出現します。KOすると、攻撃、特攻、攻撃速度を上げる効果を獲得できます。出現の位置は該当チームの下のルートのゴールエリアの破壊によって後ろの方に移動します。このポケモンはKOした{0}秒後に再び出現します。
 Battle_Notify_Decs_22260_001 = かは、バトル開始後{0}分にマップの中央に出現します。KOしたチームのポケモンは妨害無効、ゴール速度アップの効果（KOされた場合は無効になります）を獲得し、{1}～{2}のエオスエナジーも獲得できます。
 KOされると{3}秒後にかは再びランダムで出現します。
-Battle_Notify_Rules_21839_001 = Vince la prima squadra che ottiene 500 punti.
-La quantità di Punti Esperienza guadagnati, il tempo che il tuo Pokémon impiega a recuperare le forze e la quantità di energia Heos persa/lasciata cadere dopo essere andati KO varierà a seconda della differenza di livello e punteggio di entrambe le squadre.
-Battle_Notify_Tab_21840_001 = Fasi della lotta
-Battle_Notify_Tab_21842_001 = Tecnologia Heos
-Sistema Heos
+Battle_Notify_Rules_21839_001 = The first team to score 500 points wins.
+The amount of Exp. Points gained, the time a Pokémon takes to revive, and the amount of Aeos energy lost after being knocked out will change based on the difference in level and scores of both teams.
+Battle_Notify_Tab_21840_001 = Battle Phases
+Battle_Notify_Tab_21842_001 = Aeos Technology System
 Battle_Offline_BtnNote_6829_001 = Metti in pausa la lotta
 Battle_Offline_Continue_Btn_6831_001 = Riprendi
 Battle_Offline_Paused_Title_6830_001 = Lotta in pausa
@@ -3758,10 +3747,10 @@ Tuttavia, un Pokémon non può evolversi solamente grazie ai Punti Esperienza gu
 Una volta raggiunto il livello necessario per l'evoluzione, i Punti Esperienza guadagnati con il passare del tempo verranno temporaneamente messi da parte, per poi essere attribuiti al Pokémon a evoluzione avvenuta. Attenzione: il Pokémon non può guadagnare ulteriori livelli fino a evoluzione avvenuta.
 BattleMap_Help_Tips_Desc_6094_001 = Potrai sferrare la mossa Unite quando l'indicatore Unite è pieno al 100%. L'indicatore Unite si riempie automaticamente con il passare del tempo, ma la sua percentuale di riempimento aumenta anche quando si segnano punti o si mandano KO Pokémon selvatici e Pokémon avversari.
 BattleNotify_Buff_Avalugg_001 = Una parte dei danni subiti può essere annullata. Vengono inflitti danni ai Pokémon avversari nei dintorni, e la loro velocità di movimento è ridotta per un po'.
-BattleNotify_Buff_Decs_22052_001 = Attacco e Attacco Speciale +10%. velocità di attacco +20%
-BattleNotify_Buff_Decs_22053_001 = PS massimi +10%, Difesa +25%
-BattleNotify_Buff_Decs_22054_001 = PS massimi +10%, Difesa Speciale +25%
-BattleNotify_Buff_Decs_22055_001 = Tempo di ricarica delle mosse -10%, attacchi base infliggono danni continui per 3s
+BattleNotify_Buff_Decs_22052_001 = Attack and Sp. Atk +10%, basic attack speed +20%
+BattleNotify_Buff_Decs_22053_001 = Max HP +10%, Defense +25%
+BattleNotify_Buff_Decs_22054_001 = Max HP +10%, Sp. Def +25%
+BattleNotify_Buff_Decs_22055_001 = Move cooldowns -10%, basic attacks now deal damage over time (3s)
 BattleNotify_Buff_Decs_22183_001 = Ally  is advancing!
 BattleNotify_Buff_Decs_22184_001 = Opposing  is advancing!
 BattleNotify_Buff_Decs_22185_001 = Left team’s  is advancing!
@@ -7867,20 +7856,20 @@ OpsEvents_Event_Decs_21818_001 = Avanza nelle mappe durante l'evento e ottieni g
 Puoi possedere soltanto un dado ottenuto tramite l'accesso per volta.
 
 2. Se non ti soddisfa il numero uscito, puoi tirare di nuovo il dado usando delle monete Heos. Se lo farai, il risultato sarà un numero maggiore del precedente.
-Puoi lanciare nuovamente ciascun dado un massimo di {1} volt[Grm:Qty S="a" P="e" Idx="1" ] .
+Puoi lanciare nuovamente ciascun dado un massimo di {1} volt[Grm:Qty S="a" P="e" Idx="0" ] .
 
-3. Ogni volta che raggiungerai una casella, sbloccherai missioni casella. Potrai lanciare un altro dado solo una volta completata una delle missioni della suddetta casella. Puoi anche completare immediatamente le missioni casella usando {2} gemm[Grm:Qty S="a" P="e" Idx="2" ] Heos.
+3. Ogni volta che raggiungerai una casella, sbloccherai missioni casella. Potrai lanciare un altro dado solo una volta completata una delle missioni della suddetta casella. Puoi anche completare immediatamente le missioni casella usando {2} gemm[Grm:Qty S="a" P="e" Idx="0" ] Heos.
 
 4. Puoi ottenere un numero casuale di gettoni ruscello gelato completando ogni mappa:
-{3} getton[Grm:Qty S="a" P="e" Idx="3" ] ruscello gelato: {4}%
-{5} getton[Grm:Qty S="a" P="e" Idx="5" ] ruscello gelato: {6}%
+{3} getton[Grm:Qty S="a" P="e" Idx="0" ] ruscello gelato: {4}%
+{5} getton[Grm:Qty S="a" P="e" Idx="0" ] ruscello gelato: {6}%
 
 5. Se raggiungi una casella bonus, potrai avanzare ulteriormente di un numero di caselle casuale compreso tra {7} e {8}.
 
 6. Se hai più di un dado, lancerai per primo quello ottenuto effettuando l'accesso.
 
-7. Oltre ad accedere giornalmente, puoi ottenere {9} ulteriori dad[Grm:Qty S="o" P="i" Idx="9" ] da "Ruscello gelato - Bonus accesso di supporto" e "Sfida di raccolta dei gettoni ruscello gelato"!
-OpsEvents_Event_Decs_21829_001 = Durante l'evento puoi completare missioni e accumulare gettoni Pelago per ottenere ricompense!
+7. Oltre ad accedere giornalmente, puoi ottenere 10 ulteriori dadi da "Ruscello gelato - Bonus accesso di supporto" e "Sfida di raccolta dei gettoni ruscello gelato"!
+OpsEvents_Event_Decs_21829_001 = During the event, you can complete missions and collect Remoat coins to obtain rewards.
 OpsEvents_Event_Decs_22037_001 = Puoi ottenere tre tipi di Spray effetto Holowear effettuando l'accesso durante l'evento. Se partecipi a una lotta utilizzando un Holowear sul quale è stato applicato uno Spray effetto Holowear, puoi ottenere ricompense bonus! Provalo!
 OpsEvents_Event_Decs_22039_001 = Saldi!
 OpsEvents_Event_Decs_22044_001 = Il pass di lotta permette di completare le missioni pass di lotta nel corso di una stagione per aumentare il livello del pass di lotta e ricevere le ricompense corrispondenti a quel livello.
@@ -8746,7 +8735,7 @@ OpsEvents_Event_Tab_21824_001 = Evento sfida Pelago
 OpsEvents_Event_Tab_21825_001 = Sfide Pelago
 OpsEvents_Event_Tab_21830_001 = pt500チャレンジイベント
 OpsEvents_Event_Tab_21831_001 = pt500チャレンジプレゼントボックス
-OpsEvents_Event_Tab_21837_001 = Regalo per il Pokémon Day: buono sconto
+OpsEvents_Event_Tab_21837_001 = Pokémon Day commemoration! Discount Coupon Gift
 OpsEvents_Event_Tab_22175_001 = Evento Fairy-Tale
 OpsEvents_Event_Tab_22176_001 = Sfide Fairy-Tale
 OpsEvents_Event_Tab_22177_001 = Scambio Fairy-Tale
@@ -9533,13 +9522,29 @@ OpsEvents_Event_Title_21796_001 = Suicune arriva sull'Isola di Heos!
 OpsEvents_Event_Title_21797_001 = Evento commemorativo di Suicune
 OpsEvents_Event_Title_21797_Common_001 = Evento commemorativo di 
 OpsEvents_Event_Title_21798_001 = Sfida nel ruscello gelato di Suicune
+Sfida nel ruscello glaciale di Suicune
+Sfida flusso glaciale di Suicune
 OpsEvents_Event_Title_21798_Common_001 = Sfida nel ruscello gelato di 
+Sfida nel ruscello glaciale di 
+Sfida flusso glaciale di 
 OpsEvents_Event_Title_21799_001 = Sfida nel ruscello gelato di Suicune
+Sfida nel ruscello glaciale di Suicune
+Sfida flusso glaciale di Suicune
 OpsEvents_Event_Title_21799_Common_001 = Sfida nel ruscello gelato di 
+Sfida nel ruscello glaciale di 
+Sfida flusso glaciale di 
 OpsEvents_Event_Title_21801_001 = Scambio ruscello gelato
+Scambio ruscello glaciale
+Scambio flusso glaciale
 OpsEvents_Event_Title_21802_001 = Scambio ruscello gelato
+Scambio ruscello glaciale
+Scambio flusso glaciale
 OpsEvents_Event_Title_21802_Common_001 = Scambio ruscello gelato
+Scambio ruscello glaciale
+Scambio flusso glaciale
 OpsEvents_Event_Title_21803_Common_001 = Scambio ruscello gelato
+Scambio ruscello glaciale
+Scambio flusso glaciale
 OpsEvents_Event_Title_21811_001 = Evento speciale di Suicune
 OpsEvents_Event_Title_21812_001 = Puoi partecipare all'evento per ottenere la licenza Unite di Suicune!
 OpsEvents_Event_Title_21813_001 = Ruscello gelato - Bonus accesso di supporto
@@ -9549,7 +9554,7 @@ OpsEvents_Event_Title_21816_001 = Prova ad accumulare gettoni ruscello gelato!
 OpsEvents_Event_Title_21817_001 = Ottieni {0} getton[Grm:Qty S="e" P="i" Idx="0" ] ruscello gelato
 OpsEvents_Event_Title_21819_001 = Puoi partecipare alla Sfida nel ruscello gelato di  per ottenere la licenza Unite di  e altre ricompense!
 OpsEvents_Event_Title_21832_001 = エナジーを集めてプレゼントボックスを開けよう！
-OpsEvents_Event_Title_21838_001 = Festeggiamento per il Pokémon Day! Puoi ottenere strumenti scontati usando dei buoni!
+OpsEvents_Event_Title_21838_001 = Pokémon Day commemoration! You can use coupons to obtain items at a discount!
 OpsEvents_Event_Title_22021_001 = Essere in possesso della licenza Unite di Rapidash di Galar durante l'evento ti permetterà di ricevere una ricompensa speciale!
 OpsEvents_Event_Title_22021_Common_001 = Essere in possesso della licenza Unite di  durante l'evento ti permetterà di ricevere una ricompensa speciale!
 OpsEvents_Event_Title_22031_001 = Puoi partecipare alla modalità "tutti contro uno" per ottenere fantastiche ricompense!
@@ -10603,8 +10608,12 @@ OpsEvents_Item_Name_21791_001 = Cornice (stagione 26)
 OpsEvents_Item_Name_21792_001 = Sfondo (stagione 26)
 OpsEvents_Item_Name_21793_001 = Adesivo (stagione 26)
 OpsEvents_Item_Name_21800_001 = Gettone ruscello gelato
+Gettone ruscello glaciale
+Gettone flusso glaciale
 OpsEvents_Item_Name_21800_Common_001 = Gettone ruscello gelato
-OpsEvents_Item_Name_21827_001 = Gettone Pelago
+Gettone ruscello glaciale
+Gettone flusso glaciale
+OpsEvents_Item_Name_21827_001 = Remoat Coin
 OpsEvents_Item_Name_21835_001 = サプライズプレゼントボックス
 OpsEvents_Item_Name_22022_001 = Adesivo (VIP)
 OpsEvents_Item_Name_22023_001 = Adesivo (VIP) 2
@@ -12307,12 +12316,6 @@ OpsSystem_Button_Tips_21707_001 = Pulsanti predefiniti attivi.
 OpsSystem_Button_Tips_21708_001 = Hai ottenuto un pacco personalizzazione pulsanti (esclusiva dispositivi mobili), che ora è attivo.
 OpsSystem_Button_Tips_21709_001 = Il pacco personalizzazione pulsanti (esclusiva per dispositivi mobili) - Stile palcoscenico (Pikachu) si può ottenere e utilizzare soltanto nella versione per dispositivi mobili. Devi possedere Holowear dello stesso stile per usarlo.
 OpsSystem_Button_Tips_21709_Common_001 = Il pacco personalizzazione pulsanti (esclusiva per dispositivi mobili) -  () si può ottenere e utilizzare soltanto nella versione per dispositivi mobili. Devi possedere Holowear dello stesso stile per usarlo.
-OpsSystem_Help_Desc_22262_001 = 【收集特典】规则说明
-1、收集特典分为常驻的大集结主题和定期更新的风格主题。
-2.1、大集结主题中，通过收集某个宝可梦的全部电子服后，即可对该宝可梦的全部电子服使用大集结主题喷雾。
-2.2、大集结主题喷雾仅可对已拥有该宝可梦全部电子服的宝可梦使用，如果中途新增了电子服，则需要重新收集齐该宝可梦的电子服后，才能继续对该宝可梦使用大集结主题喷雾。
-3.1、各个风格主题中将包含该风格主题的不同宝可梦的不同电子服。获得指定电子服后将根据电子服稀有度获得不同数量的收集点数，收集点数达到对应数量后可获得对应奖励。
-3.2、通过提高收集点数获得风格主题喷雾后，即可对该风格下包含的所有电子服使用该风格的主题喷雾。
 OpsSystem_Item_Name_21409_001 = {0} copertin[Grm:Qty S="a" P="e" Idx="0" ] della licenza di Pikachu
 OpsSystem_Item_Name_21409_Common_001 = {0} copertin[Grm:Qty S="a" P="e" Idx="0" ] della licenza di 
 OpsSystem_Item_Name_22049_001 = {0} copertin[Grm:Qty S="a" P="e" Idx="0" ] della licenza di Dragonite
@@ -12321,8 +12324,6 @@ OpsSystem_Shop_Name_21410_001 = Copertina della licenza
 OpsSystem_System_Name_21531_001 = Copertina della licenza
 OpsSystem_System_Name_21533_001 = Predefinita
 OpsSystem_System_Name_22217_001 = Holowear Collection Bonus
-OpsSystem_Tips_Desc_22263_001 = 未选择宝可梦
-OpsSystem_Tips_Desc_22264_001 = 未选择电子服
 OpsSystems_CharacterSprite_Tips_21177_001 = Non puoi ottenerne altre perché hai raggiunto la quantità massima di copertine.
 OpsSystems_CharacterSprite_Tips_21178_001 = Hai già questo strumento.
 OpsSystems_CharacterSprite_Tips_21179_001 = Impossibile ottenerne altri.
@@ -15992,7 +15993,7 @@ Se la mossa è utilizzata di nuovo, il Pokémon fa piombare giù il martello nel
 Pkm_Skill_Desc_21229_001 = Effetto Rompiforma: il martello diventa più forte e l'Attacco aumenta.
 Pkm_Skill_Desc_21230_001 = Effetto Furto: la velocità di movimento aumenta.
 Pkm_Skill_Desc_21231_001 = Effetto Furto: la Difesa e la Difesa Speciale aumentano.
-Pkm_Skill_Desc_21248_001 = Il contatore psichico del Pokémon si riempie in base alla distanza percorsa, e quando il contatore è pieno il Pokémon viene protetto da uno scudo.
+Pkm_Skill_Desc_21248_001 = La barra psichica del Pokémon si riempie in base alla distanza percorsa, e quando la barra è piena il Pokémon viene protetto da uno scudo.
 Mentre lo scudo è attivo, il Pokémon è immune agli ostacoli.
 Il danno inflitto dalle mosse del Pokémon aumenta in base alla sua velocità di movimento.
 Pkm_Skill_Desc_21250_001 = Il Pokémon attacca emettendo energia dal corno.
@@ -16005,7 +16006,7 @@ Se il margine esterno della luce colpisce dei Pokémon della squadra avversaria,
 Pkm_Skill_Desc_21258_001 = Potenziata: riduce ulteriormente il tempo di ricarica di Sottilcorno o Agilità.
 Pkm_Skill_Desc_21260_001 = Il Pokémon infilza l'avversario indicato con il suo corno affilato, infliggendogli danni.
 Dopodiché, il Pokémon balza nella direzione indicata, respingendo l'avversario nella direzione opposta.
-Pkm_Skill_Desc_21262_001 = Potenziata: quando la mossa va a segno, carica di molto il contatore psichico del Pokémon.
+Pkm_Skill_Desc_21262_001 = Potenziata: quando la mossa va a segno, carica di molto la barra psichica del Pokémon.
 Pkm_Skill_Desc_21264_001 = Il Pokémon salta in avanti. Quando atterra, solleva un vento fatato che infligge danni agli avversari nei dintorni.
 La mossa può essere riutilizzata, per un totale di {0} volte aggiuntive.
 Se è utilizzata {0} volte aggiuntive, con l'ultimo utilizzo il Pokémon lancia in aria gli avversari colpiti.
@@ -16021,14 +16022,18 @@ Pkm_Skill_Desc_21274_001 = Effetto Agilità: la velocità di movimento aumenta.
 Pkm_Skill_Desc_21553_001 = Effetto Calmamente: l'Attacco Speciale, la Difesa Speciale e la velocità di movimento aumentano.
 Pkm_Skill_Desc_21554_001 = Effetto Congiura: l'attacco base successivo infligge danni aggiuntivi.
 Pkm_Skill_Desc_21723_001 = Endless Ice Spikes
-Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, the user's next basic attack becomes a boosted attack.
-Boosted attacks have the user shoot water continuously and deal damage. Deals additional damage to frozen opposing Pokémon.
-Pkm_Skill_Desc_21725_001 = When this Pokémon deals damage to frozen Pokémon on the opposing team, when the HP of the Pokémon from the opposing team is below a set percentage—or falls below that percentage, they are instantly knocked out.
-When this Pokémon hits opposing Pokémon with moves, the Pokémon is granted a shield, and its crystal gauge fills up.
-The shield can stack up to {0} [Grm:Qty S="time" P="times" Idx="0" ].
-When this Pokémon uses Whirlpool or Surf, the area it passes during the move will become flooded.
-If a flooded area is frozen, opposing Pokémon in the area will also be frozen.
-Pkm_Skill_Desc_21726_001 = Has the user
+Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, this Pokémon's next basic attack becomes a boosted attack. 
+強化攻撃は水を発射し続けてダメージを与え、こおり状態の相手のポケモンには追加ダメージを与える。
+Boosted attacks shoot water continuously and deals damage.  Deals additional damage to frozen opposing Pokémon.
+Pkm_Skill_Desc_21725_001 = こおり状態の相手のチームのポケモンにダメージを与えたとき、
+相手のチームのポケモンのHPが一定の割合を下回った場合、即座にKOする。
+わざを命中させるとシールド効果を獲得し、クリスタルゲージがたまる。
+シールド効果は重ねがけが可能。(最大{0}回)
+「うずしお」と「なみのり」を使用すると
+わざが通過した範囲を水で満たされたエリアにする。
+水で満たされたエリアを凍らせたとき、エリアの中にいる相手のポケモンをこおり状態にする。
+Pkm_Skill_Desc_21726_001 = 指定した方向に水の波動を発射して、相手のポケモンにダメージを与えてつきとばす。
+また、相手のポケモンを水で濡らしてマークを付与する。
 Pkm_Skill_Desc_21727_001 = 指定した場所に雪を落とし続けて、ダメージと減速効果を与える。
 最後に、多くの雪を落として相手のポケモンをこおり状態にし、
 水で満たされたエリアを凍らせる。

@@ -1052,12 +1052,11 @@ Announcement_Version_Update_21662_001 = Melhoria no sistema de pareamento
 Announcement_Version_Update_21663_001 = Teste gratuito de primeiro mês da Assinatura do Clube UNITE (exclusivo para iOS)
 Se a primeira vez que fizer uma Assinatura do Clube UNITE for em um dispositivo iOS, você pode ter o primeiro mês da assinatura sem nenhum custo. Confira a página de Informações da sua Assinatura do Clube UNITE para saber mais informações.
 Announcement_Version_Update_22051_001 = O novo e fabuloso Holowear :  já está disponível! Você pode participar do evento de Desafio Baú de Tesouro para consegui-lo!
-Announcement_Version_Update_22240_001 = O Rapidash Galarian está indo para a Ilha de Aeos!
-Announcement_Version_Update_22241_001 = Recompensas adicionais do passe de batalha: cupom de desconto do passe de batalha
-Adicionamos às recompensas dos passes premium e premium plus um cupom que dá a você um desconto no passe de batalha da temporada seguinte.
-Como bônus especial, vamos enviar por correio um cupom de desconto no passe premium da Temporada 29 aos jogadores que tiverem obtido o passe de batalha da Temporada 28! O cupom de desconto será enviado de 16/01/2025, às 7h (UTC) a 17/01/2025, às 12h (UTC). Resgate o seu no seu correio antes de obter um passe de batalha da Temporada 29!
-Announcement_Version_Update_22242_001 = Novo item disponível! Agora você pode mudar a aparência das licenças Unite com Arte Licenciada.
-Confira logo na loja!
+Announcement_Version_Update_22240_001 = ガラルギャロップがまもなくエオス島に登場！
+Announcement_Version_Update_22241_001 = バトルパス報酬追加：プレミアムパス割引クーポン
+次のシーズンのバトルパスをお得な価格で購入できる割引クーポンがプレミアムパス/プレミアムパスPlus報酬に追加されました！
+特別特典としてシーズン28のバトルパスを購入された方にシーズン29のプレミアムパス割引クーポンをメールで配布いたします。クーポンは1月16日16:00（JST）～1月17日21:00（JST）の間に順次配布いたしますので、シーズン29のバトルパスご購入前にメールボックスからお受け取りください。
+Announcement_Version_Update_22242_001 = 新アイテム：ライセンスの絵柄を変更できるライセンスアートが登場！ショップで購入しよう！
 Announcement_Version_Updav__19303_001 = Partidas Ranqueadas
 Jogadores na Classe 5 dos ranques Grande, Expert, Experiente e Ultra não terão redução de classe mesmo se perderem.
 Announcement_VersionUpdate_12541_001 = Adicionamos novas missões de conquista.
@@ -7537,7 +7536,7 @@ OpsEvents_Coupon_Desc_20155_001 = Você pode receber um desconto de {0}% ao troc
 Você pode usar apenas um cupom por item.
 Este cupom não pode ser usado com outros descontos.
 Após este cupom expirar, você não poderá mais usá-lo, e ele será convertido em {1} [Grm:Qty S="cupom" P="cupons" Idx="1" ] Aeos, que serão enviados para o seu correio.
-OpsEvents_Coupon_Name_22040_001 = Cupom de desconto no passe premium
+OpsEvents_Coupon_Name_22040_001 = Cupom de desconto de {0}% em gemas Aeos no passe premium
 OpsEvents_Daily_Task_Btn_14749_001 = Dar uma caminhada
 OpsEvents_Daily_Task_Desc_14750_001 = Você pode concluir missões ocultas para ganhar recompensas
 OpsEvents_Daily_Task_Desc_14751_001 = Participe de uma batalha na qual cinco jogadores escolheram jogar com Evoluções diferentes de 
@@ -8137,13 +8136,13 @@ Baú de Tesouro (Grau 4): {0}%
 Essas probabilidades são válidas apenas nos períodos indicados acima.
 OpsEvents_Event_Desc_22200_001 = Tournament Duration
 OpsEvents_Event_Desc_22201_001 = Entry Period
-OpsEvents_Event_Desc_22208_001 = Durante o evento, de 16/01/2025 às 7h UTC até 19/01/2025 às 23h59 UTC, e no sábado e domingo seguintes, as chances de obter Baús de Tesouro (Grau 3) e Baús de Tesouro (Grau 4) serão muito maiores!
-OpsEvents_Event_Desc_22209_001 = Durante o evento, de 16/01/2025 às 7h UTC até 19/01/2025 às 23h59 UTC, e no sábado e domingo seguintes, as chances de obter Baús de Tesouro (Grau 3) e Baús de Tesouro (Grau 4) serão muito maiores! As probabilidades de obter cada grau de baú são:
-Baú de Tesouro (Grau 1): {3}%
-Baú de Tesouro (Grau 2): {2}%
-Baú de Tesouro (Grau 3): {1}%
-Baú de Tesouro (Grau 4): {0}%
-Essas probabilidades aplicam-se apenas aos períodos indicados acima.
+OpsEvents_Event_Desc_22208_001 = During the event, from 2025-01-16 at 07:00 UTC to 2025-01-19 at 23:59 UTC and the following Saturday and Sunday, the probability of obtaining Treasure Chests (Grade 3) and Treasure Chests (Grade 4) will be greatly increased!
+OpsEvents_Event_Desc_22209_001 = During the event, from 2025-01-16 at 07:00 UTC to 2025-01-19 at 23:59 UTC and the following Saturday and Sunday, the probability of obtaining Treasure Chests (Grade 3) and Treasure Chests (Grade 4) will be greatly increased! The probability of obtaining each grade of treasure chest will be as follows:
+Treasure Chest (Grade 1): {3}%
+Treasure Chest (Grade 2): {2}%
+Treasure Chest (Grade 3): {1}%
+Treasure Chest (Grade 4): {0}%
+These probabilities only apply to the times noted above.
 OpsEvents_Event_Desc_22215_001 = 1. イベント期間中、特別チャレンジイベントミッションをクリアすると、サプライズボックスエネルギーを獲得できます。
 2.サプライズボックスエネルギーを{0}点集めるごとに、サプライズボックスを{1}回開けることができます。
 3. サプライズボックス報酬の獲得確率は以下となります：
@@ -8384,15 +8383,15 @@ OpsEvents_Event_Rule_19702_001 = Conclua missões do passe de evento para poder 
 OpsEvents_Event_Rule_19806_001 = 1. Você pode completar missões para coletar moedas comemorativas de .
 
 2. É possível coletar moedas comemorativas de  para resgatar recompensas com base no número de moedas que tiver obtido.
-OpsEvents_Event_Rule_22212_001 = 1. Durante o evento, você pode concluir missões diárias e missões de desafio para obter pontos do passe de evento.
+OpsEvents_Event_Rule_22212_001 = 1. During the event, you can complete daily missions and challenge missions to obtain event pass points.
 
-2. Assim que você alcançar uma certa quantidade de pontos do passe de evento, pode obter recompensas com base no número de pontos que tiver conseguido. As recompensas são divididas em regulares e premium, sendo que as recompensas premium podem ser obtidas após trocar gemas Aeos por um passe de evento premium.
+2. Once you obtain a certain amount of event pass points, you can obtain rewards based on the number of points you have earned. Rewards are divided into regular rewards and premium rewards. Premium rewards are obtainable after exchanging Aeos gems for a premium event pass.
 
-3. Você pode trocar gemas Aeos por pontos do passe de evento.
+3. You can exchange Aeos gems for event pass points.
 
-4. Os pontos do passe de evento são válidos apenas enquanto durar o evento. Os pontos não serão transferidos para o próximo prazo do passe de minievento.
+4. Event pass points are only valid during this event period. Points cannot be carried over to the next mini event pass period.
 
-5. Observe que somente é possível receber algumas recompensas do passe de evento quando um passe de evento for obtido junto com a troca de gemas Aeos por pontos do passe de evento. 
+5. Please note that there are event pass rewards that can only be received when an event pass is obtained in addition to exchanging Aeos gems for event pass points.
 OpsEvents_Event_Rule_Btn_14992_001 = Regras
 OpsEvents_Event_Rule_Btn_14993_001 = Equipes
 OpsEvents_Event_Rule_Desc_18840_001 = Durante o período do evento, você pode obter {0} [Grm:Qty S="Bola" P="Bolas" Idx="0" ] de Festas todos os dias sem nenhum custo, até o máximo de {1} Bolas de Festas. Você pode usar as Bolas de Festas somente nas coleções designadas e no mesmo dia em que as obtiver, uma vez que elas serão zeradas no dia seguinte após obtê-las.
@@ -9821,7 +9820,7 @@ OpsEvents_Item_Decs_22032_001 = Selecione a licença Unite que preferir como rec
 OpsEvents_Item_Decs_22033_001 = Selecione o Holowear que preferir como recompensa.
 OpsEvents_Item_Decs_22034_001 = Selecione o item fashion de Treinador que preferir como recompensa.
 OpsEvents_Item_Decs_22035_001 = Selecione o item que preferir como recompensa.
-OpsEvents_Item_Decs_22042_001 = Você tem {0}% de desconto ao trocar gemas Aeos por um passe premium e {1}% de desconto ao trocar gemas por um passe premium plus. É possível usar apenas este cupom no passe premium da Temporada {2}.
+OpsEvents_Item_Decs_22042_001 = Você tem {0}% de desconto ao trocar gemas Aeos por um passe premium e pode usar apenas este cupom no passe premium da Temporada {1}.
 Quando esse item expirar ele será convertido em 100 cupons Aeos, a serem enviados para o seu correio.
 OpsEvents_Item_Decs_22046_001 = Você pode obter este Holowear como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
 OpsEvents_Item_Desc_10223_001 = Você pode juntar pontos para ganhar recompensas!
@@ -11228,7 +11227,7 @@ Para conseguir baús de tesouro
 É possível obter {0} [Grm:Qty S="baú" P="baús" Idx="0" ] de tesouro ao fazer login todos os dias e {2} [Grm:Qty S="baú" P="baús" Idx="2" ] de tesouro ao participar de {1} [Grm:Qty S="batalha" P="batalhas" Idx="1" ]. Você pode ter até {3} [Grm:Qty S="baú" P="baús" Idx="3" ] de tesouro de uma vez.
 
 Taxas de obtenção de baús de tesouro
-Há diferentes probabilidades de obter cada tipo de baú de tesouro. Você pode obter um dos quatro tipos de baú a seguir:
+Há diferentes probabilidades de obter cada tipo de baú de tesouro. Ao obter um baú, você pode obter um dos quatro tipos a seguir:
 Baú de Tesouro (Grau 4): {4}%
 Baú de Tesouro (Grau 3): {5}%
 Baú de Tesouro (Grau 2): {6}%
@@ -11262,40 +11261,46 @@ Recompensa garantida: {12} ×{13}
 {47} ×{48}: {49}%
 {50} ×{51}: {52}%
 
-Se os Baús de Tesouro (Grau 4) tiverem sido abertos {53} vezes no total e não tiver saído {54}, as recompensas e as chances de conseguir cada recompensa ao abrir o próximo Baú de Tesouro (Grau 4) vão mudar.
-{55} ×{56}: {57}%
-
-Baú de Tesouro (Grau 3)
-Recompensa garantida: {58} ×{59}
+Se os baús de tesouro (Grau 4) tiverem sido abertos {53} vezes no total e o jogador não tiver conseguido {54}, as recompensas e as chances de conseguir cada recompensa ao abrir um baú de tesouro (Grau 4) vão mudar.
+Recompensa garantida: {55} ×{56}
+{57} ×{58}: {59}%
 {60} ×{61}: {62}%
 {63} ×{64}: {65}%
 {66} ×{67}: {68}%
 {69} ×{70}: {71}%
-{72} ×{73}: {74}%
+Assim que você conseguir {72}, as recompensas e as chances de obter cada recompensa vão voltar ao normal.
+
+Baú de Tesouro (Grau 3)
+Recompensa garantida: {73} ×{74}
 {75} ×{76}: {77}%
 {78} ×{79}: {80}%
 {81} ×{82}: {83}%
 {84} ×{85}: {86}%
 {87} ×{88}: {89}%
+{90} ×{91}: {92}%
+{93} ×{94}: {95}%
+{96} ×{97}: {98}%
+{99} ×{100}: {101}%
+{102} ×{103}: {104}%
 
 Baú de Tesouro (Grau 2)
-Recompensa garantida: {90} ×{91}
-{92} ×{93}: {94}%
-{95} ×{96}: {97}%
-{98} ×{99}: {100}%
-{101} ×{102}: {103}%
-{104} ×{105}: {106}%
+Recompensa garantida: {105} ×{106}
 {107} ×{108}: {109}%
 {110} ×{111}: {112}%
 {113} ×{114}: {115}%
+{116} ×{117}: {118}%
+{119} ×{120}: {121}%
+{122} ×{123}: {124}%
+{125} ×{126}: {127}%
+{128} ×{129}: {130}%
 
 Baú de Tesouro (Grau 1)
-Recompensa garantida: {116} ×{117}
-{118} ×{119}: {120}%
-{121} ×{122}: {123}%
-{124} ×{125}: {126}%
-{127} ×{128}: {129}%
-{130} ×{131}: {132}%
+Recompensa garantida: {131} ×{132}
+{133} ×{134}: {135}%
+{136} ×{137}: {138}%
+{139} ×{140}: {141}%
+{142} ×{143}: {144}%
+{145} ×{146}: {147}%
 OpsEvents_Rule_Decs_21684_001 = Começou o Evento Picolé da Sorte!
 Conclua missões específicas durante o evento para obter uma certa quantidade de Picolés da Sorte. Você pode comer os Picolés da Sorte para obter recompensas aleatórias. Recompensas adicionais estarão disponíveis com base na quantidade de recompensas já recebidas.
 (Os Picolés da Sorte não serão perdidos após o evento terminar e podem ser usados no evento seguinte.)
@@ -11317,7 +11322,7 @@ Para conseguir baús de tesouro
 É possível obter {0} [Grm:Qty S="baú" P="baús" Idx="0" ] de tesouro ao fazer login todos os dias e {2} [Grm:Qty S="baú" P="baús" Idx="2" ] de tesouro ao participar de {1} [Grm:Qty S="batalha" P="batalhas" Idx="1" ]. Você pode ter até {3} [Grm:Qty S="baú" P="baús" Idx="3" ] de tesouro de uma vez.
 
 Taxas de obtenção de baús de tesouro
-Há diferentes probabilidades de obter cada tipo de baú de tesouro. Você pode obter um dos quatro tipos de baú a seguir:
+Há diferentes probabilidades de obter cada tipo de baú de tesouro. Ao obter um baú, você pode obter um dos quatro tipos a seguir:
 Baú de Tesouro (Grau 4): {4}%
 Baú de Tesouro (Grau 3): {5}%
 Baú de Tesouro (Grau 2): {6}%
@@ -11351,40 +11356,46 @@ Recompensa garantida: {12} ×{13}
 {47} ×{48}: {49}%
 {50} ×{51}: {52}%
 
-Se os Baús de Tesouro (Grau 4) tiverem sido abertos {53} vezes no total e não tiver saído {54}, as recompensas e as chances de conseguir cada recompensa ao abrir o próximo Baú de Tesouro (Grau 4) vão mudar.
-{55} ×{56}: {57}%
-
-Baú de Tesouro (Grau 3)
-Recompensa garantida: {58} ×{59}
+Se os baús de tesouro (Grau 4) tiverem sido abertos {53} vezes no total e o jogador não tiver conseguido {54}, as recompensas e as chances de conseguir cada recompensa ao abrir um baú de tesouro (Grau 4) vão mudar.
+Recompensa garantida: {55} ×{56}
+{57} ×{58}: {59}%
 {60} ×{61}: {62}%
 {63} ×{64}: {65}%
 {66} ×{67}: {68}%
 {69} ×{70}: {71}%
-{72} ×{73}: {74}%
+Assim que você conseguir {72}, as recompensas e as chances de obter cada recompensa vão voltar ao normal.
+
+Baú de Tesouro (Grau 3)
+Recompensa garantida: {73} ×{74}
 {75} ×{76}: {77}%
 {78} ×{79}: {80}%
 {81} ×{82}: {83}%
 {84} ×{85}: {86}%
 {87} ×{88}: {89}%
+{90} ×{91}: {92}%
+{93} ×{94}: {95}%
+{96} ×{97}: {98}%
+{99} ×{100}: {101}%
+{102} ×{103}: {104}%
 
 Baú de Tesouro (Grau 2)
-Recompensa garantida: {90} ×{91}
-{92} ×{93}: {94}%
-{95} ×{96}: {97}%
-{98} ×{99}: {100}%
-{101} ×{102}: {103}%
-{104} ×{105}: {106}%
+Recompensa garantida: {105} ×{106}
 {107} ×{108}: {109}%
 {110} ×{111}: {112}%
 {113} ×{114}: {115}%
+{116} ×{117}: {118}%
+{119} ×{120}: {121}%
+{122} ×{123}: {124}%
+{125} ×{126}: {127}%
+{128} ×{129}: {130}%
 
 Baú de Tesouro (Grau 1)
-Recompensa garantida: {116} ×{117}
-{118} ×{119}: {120}%
-{121} ×{122}: {123}%
-{124} ×{125}: {126}%
-{127} ×{128}: {129}%
-{130} ×{131}: {132}%
+Recompensa garantida: {131} ×{132}
+{133} ×{134}: {135}%
+{136} ×{137}: {138}%
+{139} ×{140}: {141}%
+{142} ×{143}: {144}%
+{145} ×{146}: {147}%
 OpsEvents_Season_Desc_14457_001 = Fase {0}
 OpsEvents_Share_Slogan_6229_001 = Colete flocos de neve para completar a foto!
 OpsEvents_Shop_Btn_13170_001 = Conferir oferta especial
@@ -12311,12 +12322,6 @@ OpsSystem_Button_Tips_21707_001 = Botões padrão aplicados
 OpsSystem_Button_Tips_21708_001 = Obteve o pacote de personalização de botões (exclusivo da versão para dispositivos móveis). Atualmente aplicado.
 OpsSystem_Button_Tips_21709_001 = É possível obter e usar o pacote de personalização de botões Pikachu: Estilo Palco (exclusivo da versão para dispositivos móveis) somente na versão para dispositivos móveis. Você precisa ter o Holowear do mesmo estilo para usá-lo.
 OpsSystem_Button_Tips_21709_Common_001 = É possível obter e usar o pacote de personalização de botões :  (exclusivo da versão para dispositivos móveis) somente na versão para dispositivos móveis. Você precisa ter o Holowear do mesmo estilo para usá-lo.
-OpsSystem_Help_Desc_22262_001 = 【收集特典】规则说明
-1、收集特典分为常驻的大集结主题和定期更新的风格主题。
-2.1、大集结主题中，通过收集某个宝可梦的全部电子服后，即可对该宝可梦的全部电子服使用大集结主题喷雾。
-2.2、大集结主题喷雾仅可对已拥有该宝可梦全部电子服的宝可梦使用，如果中途新增了电子服，则需要重新收集齐该宝可梦的电子服后，才能继续对该宝可梦使用大集结主题喷雾。
-3.1、各个风格主题中将包含该风格主题的不同宝可梦的不同电子服。获得指定电子服后将根据电子服稀有度获得不同数量的收集点数，收集点数达到对应数量后可获得对应奖励。
-3.2、通过提高收集点数获得风格主题喷雾后，即可对该风格下包含的所有电子服使用该风格的主题喷雾。
 OpsSystem_Item_Name_21409_001 = Arte de licença {0} de Pikachu
 OpsSystem_Item_Name_21409_Common_001 = Arte de licença {0} de 
 OpsSystem_Item_Name_22049_001 = Arte de licença {0} de Dragonite
@@ -12325,8 +12330,6 @@ OpsSystem_Shop_Name_21410_001 = Arte licenciada
 OpsSystem_System_Name_21531_001 = Arte licenciada
 OpsSystem_System_Name_21533_001 = Padrão
 OpsSystem_System_Name_22217_001 = Holowear Collection Bonus
-OpsSystem_Tips_Desc_22263_001 = 未选择宝可梦
-OpsSystem_Tips_Desc_22264_001 = 未选择电子服
 OpsSystems_CharacterSprite_Tips_21177_001 = Você não pode obter mais porque alcançou a quantidade máxima de arte licenciada que pode ter.
 OpsSystems_CharacterSprite_Tips_21178_001 = Você já possui esse item.
 OpsSystems_CharacterSprite_Tips_21179_001 = Você não pode obter mais deste item.
@@ -16041,14 +16044,18 @@ Pkm_Skill_Desc_21274_001 = Efeito Agilidade: aumento na velocidade de movimento.
 Pkm_Skill_Desc_21553_001 = Efeito Mente Calma: aumento no Ataque Especial, na Defesa Especial e na velocidade de movimento.
 Pkm_Skill_Desc_21554_001 = Efeito Trama Maldosa: o próximo ataque básico causa dano adicional.
 Pkm_Skill_Desc_21723_001 = Endless Ice Spikes
-Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, the user's next basic attack becomes a boosted attack.
-Boosted attacks have the user shoot water continuously and deal damage. Deals additional damage to frozen opposing Pokémon.
-Pkm_Skill_Desc_21725_001 = When this Pokémon deals damage to frozen Pokémon on the opposing team, when the HP of the Pokémon from the opposing team is below a set percentage—or falls below that percentage, they are instantly knocked out.
-When this Pokémon hits opposing Pokémon with moves, the Pokémon is granted a shield, and its crystal gauge fills up.
-The shield can stack up to {0} [Grm:Qty S="time" P="times" Idx="0" ].
-When this Pokémon uses Whirlpool or Surf, the area it passes during the move will become flooded.
-If a flooded area is frozen, opposing Pokémon in the area will also be frozen.
-Pkm_Skill_Desc_21726_001 = Has the user
+Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, this Pokémon's next basic attack becomes a boosted attack. 
+強化攻撃は水を発射し続けてダメージを与え、こおり状態の相手のポケモンには追加ダメージを与える。
+Boosted attacks shoot water continuously and deals damage.  Deals additional damage to frozen opposing Pokémon.
+Pkm_Skill_Desc_21725_001 = こおり状態の相手のチームのポケモンにダメージを与えたとき、
+相手のチームのポケモンのHPが一定の割合を下回った場合、即座にKOする。
+わざを命中させるとシールド効果を獲得し、クリスタルゲージがたまる。
+シールド効果は重ねがけが可能。(最大{0}回)
+「うずしお」と「なみのり」を使用すると
+わざが通過した範囲を水で満たされたエリアにする。
+水で満たされたエリアを凍らせたとき、エリアの中にいる相手のポケモンをこおり状態にする。
+Pkm_Skill_Desc_21726_001 = 指定した方向に水の波動を発射して、相手のポケモンにダメージを与えてつきとばす。
+また、相手のポケモンを水で濡らしてマークを付与する。
 Pkm_Skill_Desc_21727_001 = 指定した場所に雪を落とし続けて、ダメージと減速効果を与える。
 最後に、多くの雪を落として相手のポケモンをこおり状態にし、
 水で満たされたエリアを凍らせる。

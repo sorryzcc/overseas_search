@@ -219,11 +219,8 @@ AeosTech_Notify_Tab_21913_001 = Für Sprinter und Unterstützer.
 Alt.:
 Empf.: Sprinter + Unterstützer.
 AeosTech_Notify_Tab_21914_001 = Störungsstopper
-AeosTech_Notify_Tab_21915_001 = Anw.-Störungsaufhebung alle {0} Sek. und {1} Sek. lang Störungsschutz.
-AeosTech_Notify_Tab_21916_001 = Für Angreifer und Sprinter.
-
-Alt.:
-Empf.: Angreifer + Sprinter.
+AeosTech_Notify_Tab_21915_001 = 自分にかかっている妨害効果を{0}秒ごとに解除して、{1}秒間の妨害無効を獲得する。
+AeosTech_Notify_Tab_21916_001 = 妨害が致命傷になりやすい、耐久力の低いアタック型やスピード型のポケモンにおすすめ。
 AeosTech_Notify_Tab_21917_001 = Punktehüter
 AeosTech_Notify_Tab_21918_001 = 自分のゴールエリアにいるときに獲得できるシールド効果が{0}%増える。
 AeosTech_Notify_Tab_21919_001 = ゴールを守ることが多いディフェンス型やサポート型のポケモンにおすすめ。
@@ -12706,12 +12703,6 @@ OpsSystem_Button_Tips_21707_001 = Standard-Schaltflächen angewandt
 OpsSystem_Button_Tips_21708_001 = Knöpfe-Anpassungs-Set für die Mobilgerät-Version erhalten. Wird derzeit angewandt.
 OpsSystem_Button_Tips_21709_001 = Das Theaterstück-Knöpfe-Anpassungs-Set (Pikachu) für die Mobilgerät-Version kann ausschließlich in besagter Version erhalten und angewandt werden. Es ist nur dann anwendbar, wenn sich die zugehörige Holowear in deinem Besitz befindet.
 OpsSystem_Button_Tips_21709_Common_001 = Das -Knöpfe-Anpassungs-Set () für die Mobilgerät-Version kann ausschließlich in besagter Version erhalten und angewandt werden. Es ist nur dann anwendbar, wenn sich die zugehörige Holowear in deinem Besitz befindet.
-OpsSystem_Help_Desc_22262_001 = 【收集特典】规则说明
-1、收集特典分为常驻的大集结主题和定期更新的风格主题。
-2.1、大集结主题中，通过收集某个宝可梦的全部电子服后，即可对该宝可梦的全部电子服使用大集结主题喷雾。
-2.2、大集结主题喷雾仅可对已拥有该宝可梦全部电子服的宝可梦使用，如果中途新增了电子服，则需要重新收集齐该宝可梦的电子服后，才能继续对该宝可梦使用大集结主题喷雾。
-3.1、各个风格主题中将包含该风格主题的不同宝可梦的不同电子服。获得指定电子服后将根据电子服稀有度获得不同数量的收集点数，收集点数达到对应数量后可获得对应奖励。
-3.2、通过提高收集点数获得风格主题喷雾后，即可对该风格下包含的所有电子服使用该风格的主题喷雾。
 OpsSystem_Item_Name_21409_001 = Lizenz-Design {0} für Pikachu
 OpsSystem_Item_Name_21409_Common_001 = Lizenz-Design {0} für 
 OpsSystem_Item_Name_22049_001 = Lizenz-Design {0} für Dragoran
@@ -12720,8 +12711,6 @@ OpsSystem_Shop_Name_21410_001 = Lizenz-Design
 OpsSystem_System_Name_21531_001 = Lizenz-Design
 OpsSystem_System_Name_21533_001 = Standard
 OpsSystem_System_Name_22217_001 = ホロウェア収集特典
-OpsSystem_Tips_Desc_22263_001 = 未选择宝可梦
-OpsSystem_Tips_Desc_22264_001 = 未选择电子服
 OpsSystems_CharacterSprite_Tips_21177_001 = Du hast die maximale Anzahl an Lizenz-Designs erreicht, die sich in deinem Besitz befinden können, und kannst deshalb keine weiteren erhalten.
 OpsSystems_CharacterSprite_Tips_21178_001 = Du besitzt dieses Item bereits.
 OpsSystems_CharacterSprite_Tips_21179_001 = Du kannst keine weiteren Exemplare dieses Items erhalten.
@@ -17070,29 +17059,29 @@ Pkm_Skill_Name_21265_001 = Feenbrise+
 Pkm_Skill_Name_21267_001 = Agilität
 Pkm_Skill_Name_21269_001 = Agilität+
 Pkm_Skill_Name_21271_001 = Unite-Attacke: Triadengalopp
-Pkm_Skill_Name_21712_001 = Erzwinger
-Pkm_Skill_Name_21713_001 = Aquawelle
-Pkm_Skill_Name_21714_001 = Lawine
-Pkm_Skill_Name_21715_001 = Whirlpool
-Pkm_Skill_Name_21716_001 = Whirlpool+
-Pkm_Skill_Name_21717_001 = Eisstrahl
-Pkm_Skill_Name_21718_001 = Eisstrahl+
-Pkm_Skill_Name_21719_001 = Surfer
-Pkm_Skill_Name_21720_001 = Surfer+
-Pkm_Skill_Name_21721_001 = Eissturm
-Pkm_Skill_Name_21722_001 = Eissturm+
-Pkm_Skill_Name_21738_001 = Surf-Schweif
-Pkm_Skill_Name_21740_001 = Statik
-Pkm_Skill_Name_21743_001 = Donnerschock
-Pkm_Skill_Name_21745_001 = Donnerwelle
-Pkm_Skill_Name_21747_001 = Kraftvorrat
-Pkm_Skill_Name_21749_001 = Kraftvorrat+
-Pkm_Skill_Name_21751_001 = Donnerblitz
-Pkm_Skill_Name_21753_001 = Donnerblitz+
-Pkm_Skill_Name_21755_001 = Elektroball
-Pkm_Skill_Name_21757_001 = Elektroball+
-Pkm_Skill_Name_21759_001 = Psychokinese
-Pkm_Skill_Name_21761_001 = Psychokinese+
+Pkm_Skill_Name_21712_001 = プレッシャー
+Pkm_Skill_Name_21713_001 = みずのはどう
+Pkm_Skill_Name_21714_001 = ゆきなだれ
+Pkm_Skill_Name_21715_001 = うずしお
+Pkm_Skill_Name_21716_001 = うずしお+
+Pkm_Skill_Name_21717_001 = れいとうビーム
+Pkm_Skill_Name_21718_001 = れいとうビーム+
+Pkm_Skill_Name_21719_001 = なみのり
+Pkm_Skill_Name_21720_001 = なみのり+
+Pkm_Skill_Name_21721_001 = こごえるかぜ
+Pkm_Skill_Name_21722_001 = こごえるかぜ+
+Pkm_Skill_Name_21738_001 = サーフテール
+Pkm_Skill_Name_21740_001 = せいでんき
+Pkm_Skill_Name_21743_001 = でんきショック
+Pkm_Skill_Name_21745_001 = でんじは
+Pkm_Skill_Name_21747_001 = アシストパワー
+Pkm_Skill_Name_21749_001 = アシストパワー+
+Pkm_Skill_Name_21751_001 = １０まんボルト
+Pkm_Skill_Name_21753_001 = １０まんボルト+
+Pkm_Skill_Name_21755_001 = エレキボール
+Pkm_Skill_Name_21757_001 = エレキボール+
+Pkm_Skill_Name_21759_001 = サイコキネシス
+Pkm_Skill_Name_21761_001 = サイコキネシス+
 Pkm_Skill_Name_21763_001 = フルボルトエアリアル
 Pkm_Skill_Name_7303_001 = Irrlicht
 Pkm_Skill_Name_7304_001 = Holzhammer

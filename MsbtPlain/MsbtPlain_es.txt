@@ -12404,12 +12404,6 @@ OpsSystem_Button_Tips_21707_001 = Botones por defecto aplicados
 OpsSystem_Button_Tips_21708_001 = Has adquirido un paquete de personalización de botones (exclusivo de la versión móvil). Aplicado actualmente.
 OpsSystem_Button_Tips_21709_001 = El paquete de personalización de botones (exclusivo de la versión móvil) para Pikachu Drama solamente se puede conseguir y utilizar en la versión para dispositivos móviles. Además, debes tener en tu posesión el holoatuendo correspondiente.
 OpsSystem_Button_Tips_21709_Common_001 = El paquete de personalización de botones (exclusivo de la versión móvil) para   solamente se puede conseguir y utilizar en la versión para dispositivos móviles. Además, debes tener en tu posesión el holoatuendo correspondiente.
-OpsSystem_Help_Desc_22262_001 = 【收集特典】规则说明
-1、收集特典分为常驻的大集结主题和定期更新的风格主题。
-2.1、大集结主题中，通过收集某个宝可梦的全部电子服后，即可对该宝可梦的全部电子服使用大集结主题喷雾。
-2.2、大集结主题喷雾仅可对已拥有该宝可梦全部电子服的宝可梦使用，如果中途新增了电子服，则需要重新收集齐该宝可梦的电子服后，才能继续对该宝可梦使用大集结主题喷雾。
-3.1、各个风格主题中将包含该风格主题的不同宝可梦的不同电子服。获得指定电子服后将根据电子服稀有度获得不同数量的收集点数，收集点数达到对应数量后可获得对应奖励。
-3.2、通过提高收集点数获得风格主题喷雾后，即可对该风格下包含的所有电子服使用该风格的主题喷雾。
 OpsSystem_Item_Name_21409_001 = {0} diseño[Grm:Qty S="" P="s" Idx="0" ] de la licencia de Pikachu
 OpsSystem_Item_Name_21409_Common_001 = {0} diseño[Grm:Qty S="" P="s" Idx="0" ] de la licencia de 
 OpsSystem_Item_Name_22049_001 = {0} diseño[Grm:Qty S="" P="s" Idx="0" ] de la licencia de Dragonite
@@ -12418,8 +12412,6 @@ OpsSystem_Shop_Name_21410_001 = Diseño de licencia
 OpsSystem_System_Name_21531_001 = Diseño de licencia
 OpsSystem_System_Name_21533_001 = Por defecto
 OpsSystem_System_Name_22217_001 = ホロウェア収集特典
-OpsSystem_Tips_Desc_22263_001 = 未选择宝可梦
-OpsSystem_Tips_Desc_22264_001 = 未选择电子服
 OpsSystems_CharacterSprite_Tips_21177_001 = No puedes adquirir más diseños de licencias porque has alcanzado el máximo permitido.
 OpsSystems_CharacterSprite_Tips_21178_001 = Ya lo tienes.
 OpsSystems_CharacterSprite_Tips_21179_001 = No lo puedes adquirir más veces.

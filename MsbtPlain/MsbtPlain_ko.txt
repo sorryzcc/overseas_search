@@ -1106,11 +1106,11 @@ Announcement_Version_Update_21663_001 = iOS 한정 "UNITE 멤버십 초회 1개�
 Announcement_Version_Update_22051_001 = 호화 홀로웨어 가 등장! 보물상자 챌린지 이벤트에 참가하고 얻어 보자!
 이번 배틀 패스부터 배틀 패스 레벨에 상한 레벨이 개설됩니다.
 상한 레벨인 레벨 150에 도달한 이후에는 배틀 패스 레벨이 오르지 않으며 BP 미션 화면으로 이동할 수 없으니 주의해 주시기 바랍니다.
-Announcement_Version_Update_22240_001 = 가라르 날쌩마가 곧 에오스섬에 등장!
-Announcement_Version_Update_22241_001 = 배틀 패스 보상 추가: 프리미엄 패스 할인 쿠폰
-다음 시즌 배틀 패스를 저렴한 가격으로 구입할 수 있는 할인 쿠폰이 프리미엄 패스/프리미엄 패스 Plus 보상에 추가되었습니다!
-특별 특전으로 제28시즌 배틀 패스를 구입한 분들에게 제29시즌 프리미엄 패스 할인 쿠폰을 메일로 전달드립니다. 쿠폰은 1월 16일 16:00(KST ~ 1월 17일 21:00(KST) 동안 순차적으로 전달되니 제29시즌 배틀 패스를 구입하기 전에 메일 박스에서 수령해 주십시오.
-Announcement_Version_Update_22242_001 = 새로운 아이템: 라이선스 이미지를 변경할 수 있는 라이선스 아트가 등장! 숍에서 구입하자!
+Announcement_Version_Update_22240_001 = ガラルギャロップがまもなくエオス島に登場！
+Announcement_Version_Update_22241_001 = バトルパス報酬追加：プレミアムパス割引クーポン
+次のシーズンのバトルパスをお得な価格で購入できる割引クーポンがプレミアムパス/プレミアムパスPlus報酬に追加されました！
+特別特典としてシーズン28のバトルパスを購入された方にシーズン29のプレミアムパス割引クーポンをメールで配布いたします。クーポンは1月16日16:00（JST）～1月17日21:00（JST）の間に順次配布いたしますので、シーズン29のバトルパスご購入前にメールボックスからお受け取りください。
+Announcement_Version_Update_22242_001 = 新アイテム：ライセンスの絵柄を変更できるライセンスアートが登場！ショップで購入しよう！
 Announcement_Version_Updav__19303_001 = 랭크매치:
 슈퍼컵: 클래스5, 하이퍼컵: 클래스5, 엘리트컵: 클래스5, 엑스퍼트컵: 클래스5의 플레이어는 패배하더라도 현재 클래스보다 아래로 떨어지지 않습니다.
 Announcement_VersionUpdate_12541_001 = 새로운 업적 미션이 갱신되었습니다. 꼭 도전해 보세요!
@@ -8653,7 +8653,7 @@ OpsEvents_Banner_Title_21648_001 = 스위트스타일
 OpsEvents_Banner_Title_21649_001 = 신성스타일
 OpsEvents_Banner_Title_21675_001 = 브론즈스타일
 OpsEvents_Banner_Title_21678_001 = 신년스타일
-OpsEvents_Banner_Title_21769_001 = 동화스타일
+OpsEvents_Banner_Title_21769_001 = おとぎスタイル
 OpsEvents_Banner_Title_7617_001 = 에너지 업
 캠페인 시작!
 OpsEvents_Banner_Title_8913_001 = 설날 로그인 이벤트 개시!
@@ -9155,13 +9155,16 @@ OpsEvents_Event_Decs_21624_001 = 1. 미션을 클리어하면 가라르 날쌩�
 2. 가라르 날쌩마 등장 기념 코인을 모으면 모은 코인에 따라 보상을 획득할 수 있습니다.
 OpsEvents_Event_Decs_21628_001 = 이벤트 기간 중에 가라르 날쌩마 유나이트 라이선스를 보유하고 있다
 OpsEvents_Event_Decs_21628_Common_001 = 이벤트 기간 중에  유나이트 라이선스를 보유하고 있다
-OpsEvents_Event_Decs_21711_001 = 이벤트 기간 중에 지정된 포켓몬으로 배틀(커스텀 배틀, 보스러시, 패닉 퍼레이드 제외)에 참가하고 {0}번 승리하면 챌린지를 클리어할 수 있습니다. 합계 {1}마리의 포켓몬으로 챌린지를 클리어하면 모든 보상을 획득할 수 있습니다.
-OpsEvents_Event_Decs_21803_001 = 주사위를 굴려서 맵을 나아가 보상을 획득하자!
-OpsEvents_Event_Decs_21804_001 = 1. 의 빙원의 청류 챌린지에 참가하고 빙원의 청류 코인을 획득하면 빙원의 청류 교환소에서 보상으로 교환할 수 있습니다.
+OpsEvents_Event_Decs_21711_001 = イベント期間中に指定されたポケモンでバトル（カスタムバトル、ボスラッシュ、パニックパレードを除く）に参加して{0}回勝利するとチャレンジクリアとなります。累計{1}匹のポケモンでチャレンジをクリアすればすべての報酬を獲得できます。
+OpsEvents_Event_Decs_21803_001 = サイコロを振ってマップを進んで報酬を獲得しよう！
+OpsEvents_Event_Decs_21804_001 = 1.の氷原の清流チャレンジに参加して
+氷原の清流コインを獲得すると、氷原の清流引換所で報酬と
+引き換えられます。
 
-2. 빙원의 청류 코인은 유효 기한이 있으며 기한이 지나면 자동으로 에오스 티켓으로 교환됩니다.
-OpsEvents_Event_Decs_21805_001 = 빙원의 청류 코인이 부족하여 교환할 수 없습니다.
-OpsEvents_Event_Decs_21806_001 = 빙원의 청류 코인을 {0}개 사용해서 {1}[Kor:Particle char="gwa_wa" ] 교환하겠습니까?
+2.氷原の清流コインには有効期限があり、期限を過ぎると自動でエオスチケットに変換されます。
+OpsEvents_Event_Decs_21805_001 = 氷原の清流コインが足りないため、
+引き換えられません。
+OpsEvents_Event_Decs_21806_001 = {0}個の氷原の清流コインを使って{1}と引き換えますか？
 OpsEvents_Event_Decs_21807_001 = {0}ジェムを使って、マス目ミッションをクリアしますか？
 OpsEvents_Event_Decs_21808_001 = 以下のミッションのいずれか1つをクリアすると、報酬を受け取れるようになり、次のマスへ進めます。
 OpsEvents_Event_Decs_21809_001 = の氷原の清流チャレンジを進めると獲得でき、氷原の清流引換所で報酬と引き換えられます。
@@ -9197,7 +9200,7 @@ OpsEvents_Event_Decs_21818_001 = イベント期間中にマップを進んで�
 
 7.毎日のログイン以外に、氷原の清流応援ログインボーナスと氷原の清流コイン収集チャレンジに参加することで、最大サイコロ{9}個を獲得できます。
 OpsEvents_Event_Decs_21829_001 = イベント期間中にミッションをクリアして、レモータコインを集めると報酬を獲得できます。
-OpsEvents_Event_Decs_22037_001 = 이벤트 기간 중에 로그인하면 3종류의 홀로웨어 이펙트 스프레이를 획득할 수 있습니다. 홀로웨어 이펙트 스프레이를 사용한 홀로웨어로 배틀에 참가하면 보너스 보상을 획득할 수 있습니다. 어서 시험해 보세요!
+OpsEvents_Event_Decs_22037_001 = 이벤트 기간 중에 로그인하면 3종류의 홀로웨어 이펙트 스프레이를 획득할 수 있습니다. 홀로웨이 이펙트 스프레이를 사용한 홀로웨어로 배틀에 참가하면 보너스 보상을 획득할 수 있습니다. 어서 시험해 보세요!
 OpsEvents_Event_Decs_22039_001 = 세일!
 OpsEvents_Event_Decs_22044_001 = 배틀 패스에서는 해당 시즌에 배틀 패스 미션을
 클리어하여 배틀 패스 레벨이 오르면
@@ -11098,16 +11101,16 @@ OpsEvents_Event_Title_21623_001 = 가라르 날쌩마 등장 기념 챌린지 �
 OpsEvents_Event_Title_21629_001 = 가라르 날쌩마가 에오스섬에!
 OpsEvents_Event_Title_21631_001 = 가라르 날쌩마가 곧 에오스섬에 등장!
 OpsEvents_Event_Title_21796_001 = 스이쿤이 에오스섬에!
-OpsEvents_Event_Title_21797_001 = 스이쿤 등장 기념 이벤트 패스
-OpsEvents_Event_Title_21797_Common_001 =  등장 기념 이벤트 패스
-OpsEvents_Event_Title_21798_001 = 스이쿤의 빙원의 청류 챌린지
-OpsEvents_Event_Title_21798_Common_001 = 의 빙원의 청류 챌린지
-OpsEvents_Event_Title_21799_001 = 스이쿤의 빙원의 청류 챌린지
-OpsEvents_Event_Title_21799_Common_001 = 의 빙원의 청류 챌린지
-OpsEvents_Event_Title_21801_001 = 빙원의 청류 교환소
-OpsEvents_Event_Title_21802_001 = 빙원의 청류 교환소
-OpsEvents_Event_Title_21802_Common_001 = 빙원의 청류 교환소
-OpsEvents_Event_Title_21803_Common_001 = 빙원의 청류 교환소
+OpsEvents_Event_Title_21797_001 = 스이쿤登場記念イベント
+OpsEvents_Event_Title_21797_Common_001 = 登場記念イベント
+OpsEvents_Event_Title_21798_001 = 스이쿤の氷原の清流チャレンジ
+OpsEvents_Event_Title_21798_Common_001 = の氷原の清流チャレンジ
+OpsEvents_Event_Title_21799_001 = 스이쿤の氷原の清流チャレンジ
+OpsEvents_Event_Title_21799_Common_001 = の氷原の清流チャレンジ
+OpsEvents_Event_Title_21801_001 = 氷原の清流引換所
+OpsEvents_Event_Title_21802_001 = 氷原の清流引換所
+OpsEvents_Event_Title_21802_Common_001 = 氷原の清流引換所
+OpsEvents_Event_Title_21803_Common_001 = 氷原の清流引換所
 OpsEvents_Event_Title_21811_001 = 스이쿤 스페셜 이벤트
 OpsEvents_Event_Title_21812_001 = 이벤트에 참가하고 스이쿤 유나이트 라이선스를 획득하자!
 OpsEvents_Event_Title_21813_001 = 氷原の清流
@@ -11232,8 +11235,8 @@ OpsEvents_Friends_Invite_Rules_13927_001 = 1. 트레이너 레벨이 {0}에 도�
 뮤의 브론즈 메달을 1개, 최대 {5}개까지 획득할 수 있습니다.
 4. 게스트 어카운트인 트레이너라도 초대 코드를 연동할 수
 있습니다만 친구 초대 미션의 진척도는 계산되지 않습니다.
-OpsEvents_GemSales_Tab_21794_001 = "포켓몬 유나이트 데이" 에오스 젬 스페셜 세일
-OpsEvents_GemSales_Title_21795_001 = 유용한 에오스 젬 상품 판매 중!
+OpsEvents_GemSales_Tab_21794_001 = 「ポケモンユナイトの日」ジェムスペシャルセール
+OpsEvents_GemSales_Title_21795_001 = お得なジェム商品販売中！
 OpsEvents_Gfit_Tips_12840_001 = 친구의 게임 버전이 오래되어 보낼 수 없습니다.
 OpsEvents_Gift_Give_Btn_12979_001 = 선물하기
 OpsEvents_Giftbox_Tips_6237_001 = 선물을 선택해 주십시오.
@@ -12380,11 +12383,11 @@ OpsEvents_Item_Name_21694_001 = 프레임(신년스타일)2
 OpsEvents_Item_Name_21695_001 = 배경(신년스타일)
 OpsEvents_Item_Name_21696_001 = 프레임(신년스타일)
 OpsEvents_Item_Name_21697_001 = 실(신년스타일)
-OpsEvents_Item_Name_21791_001 = 프레임(시리즈26)
-OpsEvents_Item_Name_21792_001 = 배경(시리즈26)
-OpsEvents_Item_Name_21793_001 = 실(시리즈26)
-OpsEvents_Item_Name_21800_001 = 빙원의 청류 코인
-OpsEvents_Item_Name_21800_Common_001 = 빙원의 청류 코인
+OpsEvents_Item_Name_21791_001 = フレーム（シリーズ26）
+OpsEvents_Item_Name_21792_001 = 背景（シリーズ26）
+OpsEvents_Item_Name_21793_001 = シール（シリーズ26）
+OpsEvents_Item_Name_21800_001 = 氷原の清流コイン
+OpsEvents_Item_Name_21800_Common_001 = 氷原の清流コイン
 OpsEvents_Item_Name_21827_001 = レモータコイン
 OpsEvents_Item_Name_21835_001 = サプライズプレゼントボックス
 OpsEvents_Item_Name_22022_001 = 실(VIP)
@@ -14233,12 +14236,6 @@ OpsSystem_Button_Tips_21707_001 = 기본 버튼 적용 완료
 OpsSystem_Button_Tips_21708_001 = 버튼 바꾸기 팩(스마트폰 버전 전용)을 구입했습니다. 현재 적용 완료되었습니다.
 OpsSystem_Button_Tips_21709_001 = 버튼 바꾸기 팩(스마트폰 버전 전용) 무대스타일피카츄는 스마트폰 버전에서만 판매하고 있으며 스마트폰 버전에서만 이용할 수 있습니다. 이용하기 위해서는 세트가 되는 특정 홀로웨어를 보유하고 있어야 합니다.
 OpsSystem_Button_Tips_21709_Common_001 = 버튼 바꾸기 팩(스마트폰 버전 전용) 는 스마트폰 버전에서만 판매하고 있으며 스마트폰 버전에서만 이용할 수 있습니다. 이용하기 위해서는 세트가 되는 특정 홀로웨어를 보유하고 있어야 합니다.
-OpsSystem_Help_Desc_22262_001 = 【收集特典】规则说明
-1、收集特典分为常驻的大集结主题和定期更新的风格主题。
-2.1、大集结主题中，通过收集某个宝可梦的全部电子服后，即可对该宝可梦的全部电子服使用大集结主题喷雾。
-2.2、大集结主题喷雾仅可对已拥有该宝可梦全部电子服的宝可梦使用，如果中途新增了电子服，则需要重新收集齐该宝可梦的电子服后，才能继续对该宝可梦使用大集结主题喷雾。
-3.1、各个风格主题中将包含该风格主题的不同宝可梦的不同电子服。获得指定电子服后将根据电子服稀有度获得不同数量的收集点数，收集点数达到对应数量后可获得对应奖励。
-3.2、通过提高收集点数获得风格主题喷雾后，即可对该风格下包含的所有电子服使用该风格的主题喷雾。
 OpsSystem_Item_Name_21409_001 = 피카츄 라이선스 아트{0}
 OpsSystem_Item_Name_21409_Common_001 =  라이선스 아트{0}
 OpsSystem_Item_Name_22049_001 = 망나뇽 라이선스 아트{0}
@@ -14247,8 +14244,6 @@ OpsSystem_Shop_Name_21410_001 = 라이선스 아트
 OpsSystem_System_Name_21531_001 = 라이선스 아트
 OpsSystem_System_Name_21533_001 = 기본
 OpsSystem_System_Name_22217_001 = ホロウェア収集特典
-OpsSystem_Tips_Desc_22263_001 = 未选择宝可梦
-OpsSystem_Tips_Desc_22264_001 = 未选择电子服
 OpsSystems_CharacterSprite_Tips_21177_001 = 라이선스 아트의 보유 상한에 도달하여 구입할 수 없습니다.
 OpsSystems_CharacterSprite_Tips_21178_001 = 이미 보유 중인 아이템입니다.
 OpsSystems_CharacterSprite_Tips_21179_001 = 아이템을 늘릴 수 없습니다.
@@ -14383,15 +14378,15 @@ Pkm_Avatar_Name_21674_001 = 브론즈스타일: 미라이돈
 Pkm_Avatar_Name_21674_Common_001 = 브론즈스타일: 
 Pkm_Avatar_Name_21677_001 = 신년스타일: 거북왕
 Pkm_Avatar_Name_21677_Common_001 = 신년스타일: 
-Pkm_Avatar_Name_21765_001 = 동화스타일:
+Pkm_Avatar_Name_21765_001 = おとぎスタイル
 칠색조
-Pkm_Avatar_Name_21765_Common_001 = 동화스타일:
+Pkm_Avatar_Name_21765_Common_001 = おとぎスタイル
 
-Pkm_Avatar_Name_21766_001 = 동화스타일:
+Pkm_Avatar_Name_21766_001 = おとぎスタイル
 스이쿤
-Pkm_Avatar_Name_21767_001 = 동화스타일:
+Pkm_Avatar_Name_21767_001 = おとぎスタイル
 핫삼
-Pkm_Avatar_Name_21768_001 = 동화스타일:
+Pkm_Avatar_Name_21768_001 = おとぎスタイル
 에브이
 Pkm_Avatar_Name_6360_001 = 복면스타일:
 팬텀
@@ -29655,10 +29650,10 @@ Trainner_AvatarFrame_Desc_21679_001 = 신년스타일: 거북왕에
 포함됩니다
 Trainner_AvatarFrame_Desc_21679_Common_001 = 신년스타일: 에
 포함됩니다
-Trainner_AvatarFrame_Desc_21770_001 = 동화스타일: 칠색조에
-포함됩니다
-Trainner_AvatarFrame_Desc_21770_Common_001 = 동화스타일: 에
-포함됩니다
+Trainner_AvatarFrame_Desc_21770_001 = おとぎスタイル칠색조に
+含まれます
+Trainner_AvatarFrame_Desc_21770_Common_001 = おとぎスタイルに
+含まれます
 Trainner_Background_15064_001 = 홈 배경(전망대)
 Trainner_Background_Name_15063_001 = 홈 배경( 페스티벌 2023)
 Trainner_Background_Name_20960_001 = 홈 배경(핼러윈2024)
@@ -30174,33 +30169,33 @@ Trainner_Suit_Decs_21673_001 = 네오스트리트세트(파라블레이즈)(로�
 슈즈
 Trainner_Suit_Decs_21673_Common_001 = 네오스트리트세트()(로즈레드):
 슈즈
-Trainner_Suit_Decs_21771_001 = 동화세트()
-Trainner_Suit_Decs_21772_001 = 동화세트():
-헤어 액세서리
-Trainner_Suit_Decs_21773_001 = 동화세트():
-상의&보텀스
-Trainner_Suit_Decs_21774_001 = 동화세트():
-액세서리
-Trainner_Suit_Decs_21775_001 = 동화세트()(레드)
-Trainner_Suit_Decs_21776_001 = 동화세트()(레드):
-헤어 액세서리
-Trainner_Suit_Decs_21777_001 = 동화세트()(레드):
-상의&보텀스
-Trainner_Suit_Decs_21778_001 = 동화세트()(레드):
-액세서리
-Trainner_Suit_Decs_21779_001 = 동화세트()(아쿠아그린)
-Trainner_Suit_Decs_21780_001 = 동화세트()(아쿠아그린):
-헤어 액세서리
-Trainner_Suit_Decs_21781_001 = 동화세트()(아쿠아그린):
-상의&보텀스
-Trainner_Suit_Decs_21782_001 = 동화세트()(아쿠아그린):
-액세서리
-Trainner_Suit_Decs_21783_001 = 컬러 콘택트
-(리프그린)
-Trainner_Suit_Decs_21784_001 = 헤어 컬러
-(자수정)
-Trainner_Suit_Decs_21785_001 = 컬러 콘택트
-(Pokémon Day 2025)
+Trainner_Suit_Decs_21771_001 = おとぎセット（）
+Trainner_Suit_Decs_21772_001 = おとぎセット（）：
+ヘアアクセサリー
+Trainner_Suit_Decs_21773_001 = おとぎセット（）：
+上下
+Trainner_Suit_Decs_21774_001 = おとぎセット（）：
+アクセサリー
+Trainner_Suit_Decs_21775_001 = おとぎセット（）（レッド）
+Trainner_Suit_Decs_21776_001 = おとぎセット（）（レッド）：
+ヘアアクセサリー
+Trainner_Suit_Decs_21777_001 = おとぎセット（）（レッド）：
+上下
+Trainner_Suit_Decs_21778_001 = おとぎセット（）（レッド）：
+アクセサリー
+Trainner_Suit_Decs_21779_001 = おとぎセット（）（アクアグリーン）
+Trainner_Suit_Decs_21780_001 = おとぎセット（）（アクアグリーン）：
+ヘアアクセサリー
+Trainner_Suit_Decs_21781_001 = おとぎセット（）（アクアグリーン）：
+上下
+Trainner_Suit_Decs_21782_001 = おとぎセット（）（アクアグリーン）：
+アクセサリー
+Trainner_Suit_Decs_21783_001 = カラーコンタクト
+（リーフグリーン）
+Trainner_Suit_Decs_21784_001 = ヘアカラー
+（アメジスト）
+Trainner_Suit_Decs_21785_001 = カラーコンタクト
+（ポケモンデー2025）
 Trainner_Suit_Desc_14863_001 = 괴이세트
 Trainner_Suit_Desc_14864_001 = 괴이세트:
 상의&보텀스
@@ -30921,15 +30916,16 @@ Trainner_Suit_Name_21506_001 = 브론즈세트(미라이돈):
 상의&보텀스
 Trainner_Suit_Name_21506_Common_001 = 브론즈세트():
 상의&보텀스
-Trainner_Suit_Name_21786_001 = 유나이트랭커세트(시리즈26)
-Trainner_Suit_Name_21787_001 = 유나이트랭커세트(시리즈26):
-헤어 액세서리
-Trainner_Suit_Name_21788_001 = 유나이트랭커세트(시리즈26):
-상의&보텀스
-Trainner_Suit_Name_21789_001 = 유나이트랭커세트(시리즈26):
-액세서리
-Trainner_Suit_Name_21790_001 = 유나이트랭커세트(시리즈26):
-슈즈
+Trainner_Suit_Name_21786_001 = ユナイトランカーセット
+（シリーズ26）
+Trainner_Suit_Name_21787_001 = ユナイトランカーセット
+（シリーズ26）：ヘアアクセサリー
+Trainner_Suit_Name_21788_001 = ユナイトランカーセット
+（シリーズ26）：上下
+Trainner_Suit_Name_21789_001 = ユナイトランカーセット
+（シリーズ26）：アクセサリー
+Trainner_Suit_Name_21790_001 = ユナイトランカーセット
+（シリーズ26）：シューズ
 Trainner_Suit_Name_22187_001 = ユナイトランカーセット
 （シリーズ27）
 Trainner_Suit_Name_22188_001 = ユナイトランカーセット

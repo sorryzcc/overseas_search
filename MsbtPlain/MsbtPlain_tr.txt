@@ -1052,11 +1052,11 @@ Announcement_Version_Update_21662_001 = Eşleştirme Sistemi Geliştirildi
 Announcement_Version_Update_21663_001 = UNITE Kulübü Üyeliği İlk Ay Ücretsiz Denemesi (iOS'a özel)
 İlk UNITE Kulübü üyeliğinizi iOS üzerinden satın alırsanız üyeliğinizin ilk ayını ücretsiz olarak edinebilirsiniz. Ayrıntılı bilgi için lütfen UNITE Kulübü üyeliğinizin Üyelik Bilgileri sayfasına göz atın.
 Announcement_Version_Update_22051_001 = Harika yeni Hologiysi :  çıktı! Almak için hazine sandığı mücadelesine katılın!
-Announcement_Version_Update_22240_001 = Galarian Rapidash is headed to Aeos Island!
-Announcement_Version_Update_22241_001 = Additional Battle Pass Rewards: Premium Pass Discount Coupon
-A discount coupon that gives you a discount for the next season’s battle pass has been added to premium pass and premium pass plus rewards!
-As a special bonus, a Season 29 premium pass discount coupon will be sent via mail to players who have obtained a Season 28 Battle Pass! The discount coupon will be sent from 2025-01-16 at 07:00 (UTC) to 2025-01-17 at 12:00 (UTC). Take care to claim it from your mail before obtaining a Season 29 Battle Pass!
-Announcement_Version_Update_22242_001 = New item available! You can now change the appearance of Unite Licenses with License Art. Check it out in the shop!
+Announcement_Version_Update_22240_001 = ガラルギャロップがまもなくエオス島に登場！
+Announcement_Version_Update_22241_001 = バトルパス報酬追加：プレミアムパス割引クーポン
+次のシーズンのバトルパスをお得な価格で購入できる割引クーポンがプレミアムパス/プレミアムパスPlus報酬に追加されました！
+特別特典としてシーズン28のバトルパスを購入された方にシーズン29のプレミアムパス割引クーポンをメールで配布いたします。クーポンは1月16日16:00（JST）～1月17日21:00（JST）の間に順次配布いたしますので、シーズン29のバトルパスご購入前にメールボックスからお受け取りください。
+Announcement_Version_Update_22242_001 = 新アイテム：ライセンスの絵柄を変更できるライセンスアートが登場！ショップで購入しよう！
 Announcement_Version_Updav__19303_001 = Dereceli Maçlar
 Rütbeleri Süper: 5. Sınıf, Uzman: 5. Sınıf, Kıdemli: 5. Sınıf ve Ultra: 5. Sınıf olan oyuncular maçı kaybetseler bile sınıf düşmezler.
 Announcement_VersionUpdate_12541_001 = Yeni başarım görevleri eklendi.
@@ -12303,12 +12303,6 @@ OpsSystem_Button_Tips_21707_001 = Varsayılan düğmeler uygulandı
 OpsSystem_Button_Tips_21708_001 = Düğme kişiselleştirme paketleri (mobil sürüme özel) edinildi. Şu anda uygulanmış durumda.
 OpsSystem_Button_Tips_21709_001 = Sahne Tarzı: Pikachu düğme kişiselleştirme paketi (mobil sürüme özel) yalnızca mobil sürümde edinilip kullanılabilir. Kullanmak için aynı tarzda Hologiysiye sahip olmanız gerekir.
 OpsSystem_Button_Tips_21709_Common_001 = :  düğme kişiselleştirme paketi (mobil sürüme özel) yalnızca mobil sürümde edinilip kullanılabilir. Kullanmak için aynı tarzda Hologiysiye sahip olmanız gerekir.
-OpsSystem_Help_Desc_22262_001 = 【收集特典】规则说明
-1、收集特典分为常驻的大集结主题和定期更新的风格主题。
-2.1、大集结主题中，通过收集某个宝可梦的全部电子服后，即可对该宝可梦的全部电子服使用大集结主题喷雾。
-2.2、大集结主题喷雾仅可对已拥有该宝可梦全部电子服的宝可梦使用，如果中途新增了电子服，则需要重新收集齐该宝可梦的电子服后，才能继续对该宝可梦使用大集结主题喷雾。
-3.1、各个风格主题中将包含该风格主题的不同宝可梦的不同电子服。获得指定电子服后将根据电子服稀有度获得不同数量的收集点数，收集点数达到对应数量后可获得对应奖励。
-3.2、通过提高收集点数获得风格主题喷雾后，即可对该风格下包含的所有电子服使用该风格的主题喷雾。
 OpsSystem_Item_Name_21409_001 = Pikachu Lisanslı Çizim {0}
 OpsSystem_Item_Name_21409_Common_001 =  Lisanslı Çizim {0}
 OpsSystem_Item_Name_22049_001 = Dragonite Lisanslı Çizim {0}
@@ -12317,8 +12311,6 @@ OpsSystem_Shop_Name_21410_001 = Lisanslı Çizim
 OpsSystem_System_Name_21531_001 = Lisans Görseli
 OpsSystem_System_Name_21533_001 = Varsayılan
 OpsSystem_System_Name_22217_001 = Holowear Collection Bonus
-OpsSystem_Tips_Desc_22263_001 = 未选择宝可梦
-OpsSystem_Tips_Desc_22264_001 = 未选择电子服
 OpsSystems_CharacterSprite_Tips_21177_001 = Sahip olunabilecek maksimum lisanslı görsel miktarına ulaştığınızdan daha fazla edinemezsiniz.
 OpsSystems_CharacterSprite_Tips_21178_001 = Bu eşya sizde zaten var.
 OpsSystems_CharacterSprite_Tips_21179_001 = Bu eşyadan daha fazla edinemezsiniz.
@@ -16030,14 +16022,18 @@ Pkm_Skill_Desc_21274_001 = Çeviklik Etkisi: Hareket hızı artar.
 Pkm_Skill_Desc_21553_001 = Sakin Zihin Etkisi: Öz. Sld. Öz. Sav. ve hareket hızı artırıldı.
 Pkm_Skill_Desc_21554_001 = Entrika Etkisi: Bir sonraki temel saldırı ek hasar verir.
 Pkm_Skill_Desc_21723_001 = Endless Ice Spikes
-Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, the user's next basic attack becomes a boosted attack.
-Boosted attacks have the user shoot water continuously and deal damage. Deals additional damage to frozen opposing Pokémon.
-Pkm_Skill_Desc_21725_001 = When this Pokémon deals damage to frozen Pokémon on the opposing team, when the HP of the Pokémon from the opposing team is below a set percentage—or falls below that percentage, they are instantly knocked out.
-When this Pokémon hits opposing Pokémon with moves, the Pokémon is granted a shield, and its crystal gauge fills up.
-The shield can stack up to {0} [Grm:Qty S="time" P="times" Idx="0" ].
-When this Pokémon uses Whirlpool or Surf, the area it passes during the move will become flooded.
-If a flooded area is frozen, opposing Pokémon in the area will also be frozen.
-Pkm_Skill_Desc_21726_001 = Has the user
+Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, this Pokémon's next basic attack becomes a boosted attack. 
+強化攻撃は水を発射し続けてダメージを与え、こおり状態の相手のポケモンには追加ダメージを与える。
+Boosted attacks shoot water continuously and deals damage.  Deals additional damage to frozen opposing Pokémon.
+Pkm_Skill_Desc_21725_001 = こおり状態の相手のチームのポケモンにダメージを与えたとき、
+相手のチームのポケモンのHPが一定の割合を下回った場合、即座にKOする。
+わざを命中させるとシールド効果を獲得し、クリスタルゲージがたまる。
+シールド効果は重ねがけが可能。(最大{0}回)
+「うずしお」と「なみのり」を使用すると
+わざが通過した範囲を水で満たされたエリアにする。
+水で満たされたエリアを凍らせたとき、エリアの中にいる相手のポケモンをこおり状態にする。
+Pkm_Skill_Desc_21726_001 = 指定した方向に水の波動を発射して、相手のポケモンにダメージを与えてつきとばす。
+また、相手のポケモンを水で濡らしてマークを付与する。
 Pkm_Skill_Desc_21727_001 = 指定した場所に雪を落とし続けて、ダメージと減速効果を与える。
 最後に、多くの雪を落として相手のポケモンをこおり状態にし、
 水で満たされたエリアを凍らせる。
