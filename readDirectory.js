@@ -6,44 +6,28 @@ const XLSX = require('xlsx');
 const folderPath = path.join(__dirname, 'MsbtPlain'); // 存放txt文件的文件夹路径
 const outputFilePath = path.join(__dirname, 'readDirectory.xlsx'); // 输出Excel文件路径
 
-// 正则表达式用于匹配键值对，确保键以字母或下划线开头，并且只包含字母、数字和下划线
-const keyValuePairRegex = /^([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)/m;
+// 正则表达式用于匹配键值对，确保键以"Shop-"开头，并且只包含字母、数字、下划线和连字符
+const keyValuePairRegex = /^([A-Za-z_\-][A-Za-z0-9_\-\.]*)\s*=\s*(.*)/m;
 
 // 最大允许的字符数
 const MAX_CHARACTERS = 32767;
 
 function parseKeyValuePairs(content) {
-    let lines = content.split('\n');
-    let currentKey = null;
-    let currentValue = '';
     let keyValuePairs = new Map();
+    let lines = content.split('\n');
 
     for (let line of lines) {
         line = line.trim();
 
         if (!line || line.startsWith('#')) continue; // 忽略空行和注释行
 
-        // 检查是否为新键值对的开始
         const match = keyValuePairRegex.exec(line);
         if (match) {
-            if (currentKey !== null) {
-                // 处理并保存当前键值对
-                finalizeKeyValuePair(keyValuePairs, currentKey, currentValue);
-            }
-            [_, currentKey, currentValue] = match;
+            const [_, key, value] = match;
+            finalizeKeyValuePair(keyValuePairs, key, value);
         } else {
-            // 如果当前行不是以等号开头，则认为是上一行值的延续
-            if (currentKey !== null) {
-                currentValue += '\n' + line;
-            } else {
-                console.warn(`Unexpected line format: ${line}`);
-            }
+            console.warn(`Unexpected line format: ${line}`);
         }
-    }
-
-    // 处理最后一个键值对
-    if (currentKey !== null) {
-        finalizeKeyValuePair(keyValuePairs, currentKey, currentValue);
     }
 
     return keyValuePairs;
