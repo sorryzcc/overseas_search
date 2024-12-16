@@ -6,7 +6,7 @@ const XLSX = require('xlsx');
 const folderPath = path.join(__dirname, 'MsbtPlain'); // 存放txt文件的文件夹路径
 const outputFilePath = path.join(__dirname, 'readDirectory.xlsx'); // 输出Excel文件路径
 
-// 正则表达式用于匹配键值对，确保键以"Shop-"开头，并且只包含字母、数字、下划线和连字符
+// 正则表达式用于匹配键值对，确保键以"Shop-"或类似的特定格式开头
 const keyValuePairRegex = /^([A-Za-z_\-][A-Za-z0-9_\-\.]*)\s*=\s*(.*)/m;
 
 // 最大允许的字符数
@@ -15,6 +15,8 @@ const MAX_CHARACTERS = 32767;
 function parseKeyValuePairs(content) {
     let keyValuePairs = new Map();
     let lines = content.split('\n');
+    let currentKey = null;
+    let currentValue = '';
 
     for (let line of lines) {
         line = line.trim();
@@ -23,11 +25,21 @@ function parseKeyValuePairs(content) {
 
         const match = keyValuePairRegex.exec(line);
         if (match) {
-            const [_, key, value] = match;
-            finalizeKeyValuePair(keyValuePairs, key, value);
+            if (currentKey !== null) {
+                finalizeKeyValuePair(keyValuePairs, currentKey, currentValue);
+            }
+            [_, currentKey, currentValue] = match;
+        } else if (currentKey !== null) {
+            // 如果当前行不是以等号开头，则认为是上一行值的延续
+            currentValue += '\n' + line.trim();
         } else {
             console.warn(`Unexpected line format: ${line}`);
         }
+    }
+
+    // 处理最后一个键值对
+    if (currentKey !== null) {
+        finalizeKeyValuePair(keyValuePairs, currentKey, currentValue);
     }
 
     return keyValuePairs;
