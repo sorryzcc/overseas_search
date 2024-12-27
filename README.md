@@ -1,2 +1,2 @@
 # readDirectory
-readDirectory
+node readDirectory.js
