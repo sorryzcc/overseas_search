@@ -38,7 +38,7 @@ Activity_Task_WinLiMoTe_001 = Vença uma batalha padrão (Estádio Mar Remoto) {
 Activity_Task_WinRank_001 = Ganhe uma partida ranqueada {0} [Grm:Qty S="vez" P="vezes" Idx="0" ]
 Activity_Task_WinTimes_001 = Vença {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ]
 Activity_TimeFormat = {0}-{1}-{2}
-Activity_TimeInfo_Desc_22239_001 = Duração do evento: <color=#FFF21A>{0} – {1}</color>
+Activity_TimeInfo_Desc_22239_001 = Duração do evento: {0} – {1}
 Activity_TimeInfoText = Duração do evento: <color=#FFF21A>{0} – {1}</color>
 ActivityBase_Any_Battle_001 = Participe de {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ]
 ActivityBase_challenge_Battle_001 = Desafio de batalha
@@ -106,129 +106,130 @@ Aeosmedal_System_Pokedex_001 = 奖章图鉴
 Aeosmedal_System_Selectmedal_001 = 选择奖章
 Aeosmedal_System_Showmedal_001 = 奖章展示
 Aeosmedal_System_Title_001 = 亿奥斯奖章
-AeosTech_Lock_Tips_21991_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Lock_Tips_21992_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Lock_Tips_21993_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Lock_Tips_21994_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Notify_Tab_21870_001 = +{0}% de Pontos de Exp. quando você derrotar os Pokémon selvagens enquanto os aliados estiverem bem longe.
-AeosTech_Notify_Tab_21871_001 = Recommended for Pokémon in the central area.
-AeosTech_Notify_Tab_21872_001 = Passive Exp. Point Up
-AeosTech_Notify_Tab_21873_001 = Passive Exp. Points +{0}%. +{1}% if your Pokémon has the lowest level.
-AeosTech_Notify_Tab_21874_001 = Recommended for Defender and Supporter Pokémon
-AeosTech_Notify_Tab_21875_001 = Level-Up Goal
-AeosTech_Notify_Tab_21876_001 = Levels up the Pokémon once obtained, and for every goal scored. ({2}s cooldown)
-AeosTech_Notify_Tab_21877_001 = Level up by scoring lots of small goals!
-AeosTech_Notify_Tab_21878_001 = Speed KO
-AeosTech_Notify_Tab_21879_001 = Basic attacks immediately defeat wild Pokémon, +{0}% Exp. Points. ({1}s cooldown)
-AeosTech_Notify_Tab_21880_001 = Recommended to quickly evolve Pokémon.
-AeosTech_Notify_Tab_21881_001 = KO Level-Up
-AeosTech_Notify_Tab_21882_001 = Levels up the Pokémon when obtained, and every time an opposing Pokémon is defeated. ({1}s cooldown)
-AeosTech_Notify_Tab_21883_001 = Recommended for Attacker Pokémon.
-AeosTech_Notify_Tab_21884_001 = Shared Growth
-AeosTech_Notify_Tab_21885_001 = +{0}% Exp. Points when you defeat wild Pokémon with an ally.
-AeosTech_Notify_Tab_21886_001 = Recommended for Pokémon that pair up on the bottom path.
-AeosTech_Notify_Tab_21887_001 = Aeos Energy Up
-AeosTech_Notify_Tab_21888_001 = Aeos energy +{0}% when wild Pokémon are defeated.
-AeosTech_Notify_Tab_21889_001 = Recommended for Attacker and Speedster Pokémon.
-AeosTech_Notify_Tab_21890_001 = Energy Generator
-AeosTech_Notify_Tab_21891_001 = +{1} Aeos energy every {0}s. If less than {2} energy has been collected, {3} Aeos energy every {0}s.
-AeosTech_Notify_Tab_21892_001 = Recommended for Defender and Supporter Pokémon.
-AeosTech_Notify_Tab_21893_001 = Full Energy
-AeosTech_Notify_Tab_21894_001 = Immediately gain the max amount of Aeos energy that can be held.
-AeosTech_Notify_Tab_21895_001 = Allows you to make use of chances to score.
-AeosTech_Notify_Tab_21896_001 = Energy Thief
-AeosTech_Notify_Tab_21897_001 = Basic attacks steal {0}% of Aeos energy from opposing Pokémon ({1}s cooldown)
-AeosTech_Notify_Tab_21898_001 = Recommended for ranged Pokémon.
-AeosTech_Notify_Tab_21899_001 = Aeos Energy Aid
-AeosTech_Notify_Tab_21900_001 = +{0}% Aeos energy if wild Pokémon are defeated at 0 energy.
-AeosTech_Notify_Tab_21901_001 = Look for wild Pokémon with lots of Aeos energy.
-AeosTech_Notify_Tab_21902_001 = Energy Refill
-AeosTech_Notify_Tab_21903_001 = Score a goal within {0}s of defeating opposing team’s Pokémon to obtain the same amount of Aeos energy after scoring.
-AeosTech_Notify_Tab_21904_001 = Allows consecutive goals to be scored.
-AeosTech_Notify_Tab_21905_001 = Energy Magnet
-AeosTech_Notify_Tab_21906_001 = Collect Aeos energy from further away. +{0}% Aeos energy collected from the ground.
-AeosTech_Notify_Tab_21907_001 = Recommended for Speedster and Supporter Pokémon
-AeosTech_Notify_Tab_21908_001 = Energy Insurance
-AeosTech_Notify_Tab_21909_001 = No Aeos energy will be lost when knocked out.
-AeosTech_Notify_Tab_21910_001 = Recommended for Trainers that actively battle.
-AeosTech_Notify_Tab_21911_001 = Map Sprinter
-AeosTech_Notify_Tab_21912_001 = Movement speed + {0}% when leaving combat.
-AeosTech_Notify_Tab_21913_001 = Recommended for Speedster and Supporter Pokémon.
-AeosTech_Notify_Tab_21914_001 = Hindrance Canceler
-AeosTech_Notify_Tab_21915_001 = Removes all hindrances inflicted on the user every {0}s and makes the user unstoppable for {1}s.
-AeosTech_Notify_Tab_21916_001 = Recommended for Speedster and Attacker Pokémon.
-AeosTech_Notify_Tab_21917_001 = Goalkeeper
-AeosTech_Notify_Tab_21918_001 = Shield effect strengthens by {0}% when the user is in an ally goal zone.
-AeosTech_Notify_Tab_21919_001 = Recommended for Defender and Supporter Pokémon.
-AeosTech_Notify_Tab_21920_001 = True Sight
-AeosTech_Notify_Tab_21921_001 = Widens the user’s field of vision. Opposing Pokémon that have entered stealth will be visible every {0}s.
-AeosTech_Notify_Tab_21922_001 = Recommended for Speedster and Defender Pokémon.
-AeosTech_Notify_Tab_21923_001 = Cooldown Boost
-AeosTech_Notify_Tab_21924_001 = Move cooldown -{0}%. Further reduces by {1}% each time a goal is scored. (Max {2}%)
-AeosTech_Notify_Tab_21925_001 = Recommended for Attacker Pokémon.
-AeosTech_Notify_Tab_21926_001 = Battle Item Stock
-AeosTech_Notify_Tab_21927_001 = Battle item stocks {0} uses.
-AeosTech_Notify_Tab_21928_001 = Recommended for Trainers who use battle items often.
-AeosTech_Notify_Tab_21929_001 = Extended Aura
-AeosTech_Notify_Tab_21930_001 = The aura given from defeating wild Pokémon will last longer and is not lost when knocked out.
-AeosTech_Notify_Tab_21931_001 = Recommended for Pokémon in the central area.
-AeosTech_Notify_Tab_21932_001 = Battle Recovery
-AeosTech_Notify_Tab_21933_001 = Recovers {0}% of the Pokémon’s max HP when wild Pokémon are defeated.
-AeosTech_Notify_Tab_21934_001 = Recommended for Attacker Pokémon.
-AeosTech_Notify_Tab_21935_001 = Energy Clash
-AeosTech_Notify_Tab_21936_001 = +{0}% damage dealt to opposing Pokémon when the user has more energy than the opposing Pokémon.
-AeosTech_Notify_Tab_21937_001 = Recommended for Attacker, All-Rounder, and Speedster Pokémon
-AeosTech_Notify_Tab_21938_001 = Energy Shield
-AeosTech_Notify_Tab_21939_001 = For every {0} Aeos energy collected, the user obtains a shield effect of {1}% of their max HP. (Max {2}%)
-AeosTech_Notify_Tab_21940_001 = Recommended for All-Rounder and Speedster Pokémon.
-AeosTech_Notify_Tab_21941_001 = Insta-Goal
-AeosTech_Notify_Tab_21942_001 = The next goal can be scored instantly.
-AeosTech_Notify_Tab_21943_001 = A chance to turn the tide!
-AeosTech_Notify_Tab_21944_001 = Double Points
-AeosTech_Notify_Tab_21945_001 = Double points for the next goal scored.
-AeosTech_Notify_Tab_21946_001 = A chance to turn the tide!
-AeosTech_Notify_Tab_21947_001 = Speedy Scorer
-AeosTech_Notify_Tab_21948_001 = Goal-scoring speed +{0}%.
-AeosTech_Notify_Tab_21949_001 = Recommended if you are undecided.
-AeosTech_Notify_Tab_21950_001 = Goal-Getter
-AeosTech_Notify_Tab_21951_001 = Scoring is not canceled when attacked, and damage received while scoring is reduced by {0}%.
-AeosTech_Notify_Tab_21952_001 = Destroy goal zones amidst fierce combat!
-AeosTech_Notify_Tab_21953_001 = Energy Capacity
-AeosTech_Notify_Tab_21954_001 = Max amount of Aeos energy that can be collected +{0}%.
-AeosTech_Notify_Tab_21955_001 = Recommended for Speedster Pokémon.
-AeosTech_Notify_Tab_21956_001 = Aeos Energy Dash
-AeosTech_Notify_Tab_21957_001 = Successful goals reduce the cooldown for Aeos energy dashes.
-AeosTech_Notify_Tab_21958_001 = Recommended for Pokémon with low mobility.
-AeosTech_Notify_Tab_21959_001 = Overachiever
-AeosTech_Notify_Tab_21960_001 = All collected energy can be scored, even if it exceeds the limit of the goal zone.
-AeosTech_Notify_Tab_21961_001 = Recommended for Speedster Pokémon.
-AeosTech_Notify_Tab_21962_001 = Damage Reduction
-AeosTech_Notify_Tab_21963_001 = Damage received -{0}%. -{1}% for each nearby ally Pokémon.
-AeosTech_Notify_Tab_21964_001 = Recommended for Defender Pokémon.
-AeosTech_Notify_Tab_21965_001 = Emergency Recovery
-AeosTech_Notify_Tab_21966_001 = Recovers HP when on low HP. ({0}s cooldown)
-AeosTech_Notify_Tab_21967_001 = Recommended for Pokémon that will be in combat often.
-AeosTech_Notify_Tab_21968_001 = Turbo Unite Move
-AeosTech_Notify_Tab_21969_001 = Unite Move gauge instantly charges by 50% and can charge an additional {0}%.
-AeosTech_Notify_Tab_21970_001 = Recommended for Pokémon with powerful Unite Moves.
-AeosTech_Notify_Tab_21971_001 = Quick Return
-AeosTech_Notify_Tab_21972_001 = Time required to return to base and revive -{0}%.
-AeosTech_Notify_Tab_21973_001 = Recommended for Pokémon that actively join battles.
-AeosTech_Notify_Tab_21974_001 = HP Recovery Field
-AeosTech_Notify_Tab_21975_001 = Recovers nearby ally Pokémon with the lowest HP and the user’s HP by {0}%.
-AeosTech_Notify_Tab_21976_001 = Recommended for Defender Pokémon.
-AeosTech_Notify_Tab_21977_001 = Full-Power Boost
-AeosTech_Notify_Tab_21978_001 = +{1}% damage dealt when user’s HP is above {0}%.
-AeosTech_Notify_Tab_21979_001 = Recommended for Attacker Pokémon.
+AeosTech_Lock_Tips_21991_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}
+AeosTech_Lock_Tips_21992_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}
+AeosTech_Lock_Tips_21993_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}
+AeosTech_Lock_Tips_21994_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}
+AeosTech_Notify_Tab_21870_001 = +{0}% de Pontos de Exp. por derrotar Pokémon selvagens solo.
+AeosTech_Notify_Tab_21871_001 = Bom para a área central.
+AeosTech_Notify_Tab_21872_001 = Aumento dos Pontos de Exp. passivos
+AeosTech_Notify_Tab_21873_001 = +{0}% de Pontos de Exp. passivos. +{1}% se for o nível mais baixo na equipe.
+AeosTech_Notify_Tab_21874_001 = Bom para Defensores e Suporte.
+AeosTech_Notify_Tab_21875_001 = Nivelador de Gols
+AeosTech_Notify_Tab_21876_001 = Suba de nível imediatamente e sempre que marcar. (recarga de {2} s)
+AeosTech_Notify_Tab_21877_001 = Suba de nível marcando poucos gols!
+AeosTech_Notify_Tab_21878_001 = Nocautes Velozes
+AeosTech_Notify_Tab_21879_001 = Os ataques básicos nocauteiam instantaneamente os Pokémon selvagens, concedendo {0}% Pontos de Exp. (recarga de {1} s)
+AeosTech_Notify_Tab_21880_001 = Bom para evoluir rapidamente.
+AeosTech_Notify_Tab_21881_001 = Nivelador de Nocautes
+AeosTech_Notify_Tab_21882_001 = Suba de nível imediatamente e sempre que derrotar um Pokémon oponente. ({1}s de recarga)
+AeosTech_Notify_Tab_21883_001 = Bom para Atacantes.
+AeosTech_Notify_Tab_21884_001 = Crescimento Compartilhado
+AeosTech_Notify_Tab_21885_001 = +{0}% de Pontos de Exp. ao derrotar Pokémon selvagens com um aliado.
+AeosTech_Notify_Tab_21886_001 = Bom para duplas na rota inferior.
+AeosTech_Notify_Tab_21887_001 = Aumento da energia Aeos
+AeosTech_Notify_Tab_21888_001 = +{0}% de energia Aeos ao derrotar Pokémon selvagens.
+AeosTech_Notify_Tab_21889_001 = Bom para Atacantes e Velozes.
+AeosTech_Notify_Tab_21890_001 = Gerador de Energia
+AeosTech_Notify_Tab_21891_001 = +{1} energia Aeos a cada {0} s. +{3} a cada {0} s se tiver menos de {2}.
+AeosTech_Notify_Tab_21892_001 = Bom para Defensores e Suporte.
+AeosTech_Notify_Tab_21893_001 = Energia total
+AeosTech_Notify_Tab_21894_001 = Maximiza imediatamente a energia Aeos que tiver.
+AeosTech_Notify_Tab_21895_001 = Permite que você marque muitos gols.
+AeosTech_Notify_Tab_21896_001 = Ladrão de Energia
+AeosTech_Notify_Tab_21897_001 = Os ataques básicos roubam {0}% da energia Aeos dos oponentes. ({1}s de recarga)
+AeosTech_Notify_Tab_21898_001 = Bom para Pokémon que atacam à distância.
+AeosTech_Notify_Tab_21899_001 = Ajuda em energia Aeos
+AeosTech_Notify_Tab_21900_001 = Pokémon selvagem deixam +{0}% energia Aeos se você não tiver nenhuma.
+AeosTech_Notify_Tab_21901_001 = Encontre Pokémon selvagens com muita energia Aeos.
+AeosTech_Notify_Tab_21902_001 = Reposição de energia
+AeosTech_Notify_Tab_21903_001 = Marque gols no prazo de {0} s após nocautear um oponente para recobrar a energia Aeos do gol marcado.
+AeosTech_Notify_Tab_21904_001 = Permite pontuação consecutiva.
+AeosTech_Notify_Tab_21905_001 = Ímã de Energia
+AeosTech_Notify_Tab_21906_001 = Colete energia Aeos de mais longe e +{0}% mais do solo.
+AeosTech_Notify_Tab_21907_001 = Bom para Velozes e Suporte.
+AeosTech_Notify_Tab_21908_001 = Garantia de energia
+AeosTech_Notify_Tab_21909_001 = Não perca nenhuma energia Aeos ao sofrer nocaute.
+AeosTech_Notify_Tab_21910_001 = Bom para combatentes ativos.
+AeosTech_Notify_Tab_21911_001 = Velocista do Mapa
+AeosTech_Notify_Tab_21912_001 = Mova {0}% mais rápido ao deixar o combate.
+AeosTech_Notify_Tab_21913_001 = Bom para Velozes e Suporte.
+AeosTech_Notify_Tab_21914_001 = Cancelador de Interferência
+AeosTech_Notify_Tab_21915_001 = Perca todas as interferências a cada {0} s e torne-se imparável por {1} s.
+AeosTech_Notify_Tab_21916_001 = Bom para Velozes e Atacantes.
+AeosTech_Notify_Tab_21917_001 = Goleiro
+AeosTech_Notify_Tab_21918_001 = Os efeitos de escudo em todas as áreas do gol são {0}% mais fortes.
+AeosTech_Notify_Tab_21919_001 = Bom para Defensores e Suporte.
+AeosTech_Notify_Tab_21920_001 = Visão Plena
+AeosTech_Notify_Tab_21921_001 = O campo de visão se amplia. Oponentes em modo furtivo são visíveis a cada {0} s.
+AeosTech_Notify_Tab_21922_001 = Bom para Velozes e Defensores.
+AeosTech_Notify_Tab_21923_001 = Resfriador de Recarga
+AeosTech_Notify_Tab_21924_001 = As recargas de movimento duram −{0}%. Cada vez que você marcar gols são outros −{1}% (máx. −{2}%).
+AeosTech_Notify_Tab_21925_001 = Bom para Atacantes.
+AeosTech_Notify_Tab_21926_001 = Estoque de itens de batalha
+AeosTech_Notify_Tab_21927_001 = Estoque {0} usos de item de batalha.
+AeosTech_Notify_Tab_21928_001 = Bom para quem costuma usar itens de batalha.
+AeosTech_Notify_Tab_21929_001 = Auras Estendidas
+AeosTech_Notify_Tab_21930_001 = As auras dos Pokémon selvagens derrotados duram mais e não se perdem quando nocauteadas.
+AeosTech_Notify_Tab_21931_001 = Bom para a área central.
+AeosTech_Notify_Tab_21932_001 = Recuperação da batalha
+AeosTech_Notify_Tab_21933_001 = {0}% dos PS máx. recuperados por derrotar Pokémon selvagens.
+AeosTech_Notify_Tab_21934_001 = Bom para Atacantes.
+AeosTech_Notify_Tab_21935_001 = Batalha de Energia
+AeosTech_Notify_Tab_21936_001 = +{0}% de danos a oponentes que tenham menos energia que você.
+AeosTech_Notify_Tab_21937_001 = Bom para Atacantes, Versáteis e Velozes.
+AeosTech_Notify_Tab_21938_001 = Escudo de Energia
+AeosTech_Notify_Tab_21939_001 = Por cada {0} energia Aeos que você coletar, ganhe um efeito de escudo com {1}% de PS máx. (máx. de {2}%).
+AeosTech_Notify_Tab_21940_001 = Bom para Versáteis e Velozes.
+AeosTech_Notify_Tab_21941_001 = Insta-gol
+AeosTech_Notify_Tab_21942_001 = Marque o gol seguinte instantaneamente.
+AeosTech_Notify_Tab_21943_001 = Uma chance de virar a maré!
+
+AeosTech_Notify_Tab_21944_001 = Pontos em Dobro
+AeosTech_Notify_Tab_21945_001 = Pontue em dobro ao marcar o próximo gol.
+AeosTech_Notify_Tab_21946_001 = Uma chance de virar a maré!
+AeosTech_Notify_Tab_21947_001 = Artilheiro Veloz
+AeosTech_Notify_Tab_21948_001 = Marque gols {0}% mais rápido.
+AeosTech_Notify_Tab_21949_001 = Bom se você não consegue se decidir.
+AeosTech_Notify_Tab_21950_001 = Gol instalado
+AeosTech_Notify_Tab_21951_001 = Ao marcar gols sofre −{0}% dano e ataca sem interrupções.
+AeosTech_Notify_Tab_21952_001 = Destrua áreas do gol sem medo!
+AeosTech_Notify_Tab_21953_001 = Capacidade de energia
+AeosTech_Notify_Tab_21954_001 = Retenha até {0}% mais energia Aeos.
+AeosTech_Notify_Tab_21955_001 = Bom para Velozes.
+AeosTech_Notify_Tab_21956_001 = Arremetida com energia Aeos
+AeosTech_Notify_Tab_21957_001 = Reduza a recarga rápida da energia Aeos após marcar gols.
+AeosTech_Notify_Tab_21958_001 = Bom para os Pokémon com mobilidade baixa.
+AeosTech_Notify_Tab_21959_001 = Supersucesso
+AeosTech_Notify_Tab_21960_001 = Marcar gols obtém toda a energa coletada, mesmo se estiver acima o limite da área do gol.
+AeosTech_Notify_Tab_21961_001 = Bom para Velozes.
+AeosTech_Notify_Tab_21962_001 = Diminuição de dano
+AeosTech_Notify_Tab_21963_001 = Sofra −{0}% dano, e ainda −{1}% por cada aliado próximo.
+AeosTech_Notify_Tab_21964_001 = Bom para Defensores.
+AeosTech_Notify_Tab_21965_001 = Recuperação de Emergência
+AeosTech_Notify_Tab_21966_001 = Recupere PS quando estiver baixo. (recarga de {0}s)
+AeosTech_Notify_Tab_21967_001 = Bom para combatentes ativos.
+AeosTech_Notify_Tab_21968_001 = Movimento Unite Turbo
+AeosTech_Notify_Tab_21969_001 = O Movimento Unite carrega instantaneamente em 50% e pode carregar {0}% extras.
+AeosTech_Notify_Tab_21970_001 = Bom para Movimentos Unite potentes.
+AeosTech_Notify_Tab_21971_001 = Retorno Rápido
+AeosTech_Notify_Tab_21972_001 = Reviva e retorne à base {0}% mais rápido.
+AeosTech_Notify_Tab_21973_001 = Bom para combatentes ativos.
+AeosTech_Notify_Tab_21974_001 = Campo de recuperação de PV
+AeosTech_Notify_Tab_21975_001 = Você e aliados próximos com PS mais baixo recuperam {0}% dos PS.
+AeosTech_Notify_Tab_21976_001 = Bom para Defensores.
+AeosTech_Notify_Tab_21977_001 = Reforço Potência Total
+AeosTech_Notify_Tab_21978_001 = Causa +{1}% de dano quando PS estiver acima de {0}%.
+AeosTech_Notify_Tab_21979_001 = Bom para Atacantes.
 AeosTech_Notify_Tab_22007_001 = Aumento dos Pontos de Exp. solo
-AeosTech_Tab_Name_21983_001 = Aeos Technology
-AeosTech_Tab_Name_21984_001 = Can be selected at the start of a battle
-AeosTech_Tab_Name_21985_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Tab_Name_21986_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Tab_Name_21987_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Tab_Name_21988_001 = Can be selected when your team has reached a total score of {0}
-AeosTech_Unlock_Tips_21990_001 = Please Select an Aeos Technology
-AeosTech_Unlock_Title_21989_001 = Select Aeos Technology
+AeosTech_Tab_Name_21983_001 = Tecnologia Aeos
+AeosTech_Tab_Name_21984_001 = Seleção possível no início de uma batalha
+AeosTech_Tab_Name_21985_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}
+AeosTech_Tab_Name_21986_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}
+AeosTech_Tab_Name_21987_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}al de {0}
+AeosTech_Tab_Name_21988_001 = Selecionável quando sua equipe alcançar uma pontuação total de {0}
+AeosTech_Unlock_Tips_21990_001 = Selecione um item de Tecnologia Aeos
+AeosTech_Unlock_Title_21989_001 = Selecionar Tecnologia Aeos
 Again_Input = Insira novamente
 AIInfo_AIName_01_001_Male = Treinador 1
 AIInfo_AIName_01_Common_001_Male = Treinador 
@@ -1052,11 +1053,13 @@ Announcement_Version_Update_21662_001 = Melhoria no sistema de pareamento
 Announcement_Version_Update_21663_001 = Teste gratuito de primeiro mês da Assinatura do Clube UNITE (exclusivo para iOS)
 Se a primeira vez que fizer uma Assinatura do Clube UNITE for em um dispositivo iOS, você pode ter o primeiro mês da assinatura sem nenhum custo. Confira a página de Informações da sua Assinatura do Clube UNITE para saber mais informações.
 Announcement_Version_Update_22051_001 = O novo e fabuloso Holowear :  já está disponível! Você pode participar do evento de Desafio Baú de Tesouro para consegui-lo!
-Announcement_Version_Update_22240_001 = ガラルギャロップがまもなくエオス島に登場！
-Announcement_Version_Update_22241_001 = バトルパス報酬追加：プレミアムパス割引クーポン
-次のシーズンのバトルパスをお得な価格で購入できる割引クーポンがプレミアムパス/プレミアムパスPlus報酬に追加されました！
-特別特典としてシーズン28のバトルパスを購入された方にシーズン29のプレミアムパス割引クーポンをメールで配布いたします。クーポンは1月16日16:00（JST）～1月17日21:00（JST）の間に順次配布いたしますので、シーズン29のバトルパスご購入前にメールボックスからお受け取りください。
-Announcement_Version_Update_22242_001 = 新アイテム：ライセンスの絵柄を変更できるライセンスアートが登場！ショップで購入しよう！
+A partir desta temporada do passe de batalha, será adotado um limite nos níveis do passe de batalha.
+Quando você alcançar o nível máximo de 150, seu nível passe de batalha não aumentará, e você não verá mais as missões do passe de batalha.
+Announcement_Version_Update_22240_001 = Rapidash de Galar está indo para a Ilha de Aeos!
+Announcement_Version_Update_22241_001 = Recompensas adicionais do passe de batalha: cupom de desconto do passe de batalha
+As recompensas dos passes premium e premium plus agora incluem um cupom de desconto no passe de batalha da temporada seguinte!
+Como bônus especial, vamos enviar por correio um cupom de desconto no passe premium da Temporada 29 aos jogadores que tiverem obtido o passe de batalha da Temporada 28! O cupom de desconto será enviado de 16/01/2025, às 7h (UTC), a 17/01/2025, às 12h (UTC). Resgate o seu no correio antes de obter um passe de batalha da Temporada 29!
+Announcement_Version_Update_22242_001 = Novo tipo de item disponível! Agora você pode mudar a aparência das licenças Unite usando arte licenciada. Confira na loja!
 Announcement_Version_Updav__19303_001 = Partidas Ranqueadas
 Jogadores na Classe 5 dos ranques Grande, Expert, Experiente e Ultra não terão redução de classe mesmo se perderem.
 Announcement_VersionUpdate_12541_001 = Adicionamos novas missões de conquista.
@@ -1924,8 +1927,8 @@ Battle_Item_Desc_14446_001 = Dizem que um herói usou esta espada para deter um 
 Battle_Item_Desc_19282_001 = A energia é carregada por meio de movimento e ataques básicos.
 Causar dano aos Pokémon oponentes quando a energia estiver completa vai causar dano adicional.
 Battle_Item_Desc_19283_001 = Concede um escudo ao usuário e aos Pokémon aliados próximos quando causar dano aos Pokémon oponentes. Esse efeito entra em recarga após a ativação.
-Battle_Item_Desc_22251_001 = 強者リストラップ--効果説明
-Battle_Item_Desc_22253_001 = 勝者の鏡--効果説明
+Battle_Item_Desc_22251_001 = アクセルリスト-効果説明
+Battle_Item_Desc_22253_001 = ドライブレンズ-効果説明
 Battle_Item_Name_12987_001 = Boneco de Shedinja
 Battle_Item_Name_12990_001 = Capuz de Resgate
 Battle_Item_Name_12992_001 = Lenço de Disparo
@@ -1940,8 +1943,8 @@ Battle_Item_Name_14379_001 = Escudo de Aeos
 Battle_Item_Name_14445_001 = Espada Enferrujada
 Battle_Item_Name_19089_001 = Pingente de Recarga
 Battle_Item_Name_19090_001 = Guarda Ressonante
-Battle_Item_Name_22250_001 = 強者リストラップ
-Battle_Item_Name_22252_001 = 勝者の鏡
+Battle_Item_Name_22250_001 = アクセルリスト
+Battle_Item_Name_22252_001 = ドライブレンズ
 Battle_ItemDesc_8754_002 = Aumenta o Ataque e o Atq. Esp. do seu Pokémon por um curto período.
 Battle_ItemDesc_8755_002 = Efeito de Ataque X: Ataque e Atq. Esp. aumentados.
 Battle_ItemDesc_8756_002 = Cria uma nuvem de fumaça que diminui muito a velocidade de movimento e de ataque básico do Pokémon oponente por um curto período.
@@ -2245,7 +2248,7 @@ Battle_Mode_Name_18613_001 = 苍响大挑战：初级
 Battle_Mode_Name_18614_001 = 苍响大挑战：中级
 Battle_Mode_Name_18615_001 = 苍响大挑战：高级
 Battle_Mode_Name_19558_001 = Batalha Explosiva! Confronto Dracônico
-Battle_Mode_Name_22005_001 = Ranked Match: Remoat Stadium
+Battle_Mode_Name_22005_001 = Partida Ranqueada：Estádio Mar Remoto
 Battle_Mode_Name_7585_001 = Batalha Furiosa no Estádio Mar
 Battle_Mode_Name_7585_lowcase = Batalha Furiosa no Estádio Mar
 Battle_Mode_Name_9944_001 = Festa Pikachu
@@ -2256,16 +2259,16 @@ Battle_Mode_Tips_13641_001 = Para participar, você deve, primeiro, escolher uma
 Quer continuar para a tela do evento?
 Battle_Mode_Tips_13642_001 = Não é possível participar, porque {0} não está participando do evento Batalha Furiosa de equipes.
 Battle_Mode_Tips_18524_001 = 此地图玩法还未到开启时间
-Battle_Mode_Tips_Decs_21997_001 = Duração do evento:
-Battle_Mode_Tips_Decs_21998_001 = From {2}:00 (UTC) on 2025-{0}-{1} to {5}:59 UTC on 2025-{3}-{4}
+Battle_Mode_Tips_Decs_21997_001 = Duração do evento: 
+Battle_Mode_Tips_Decs_21998_001 = De {1}/{0}/2025 às {2}:00 UTC até {4}/{3}/2025 às {5}:59 UTC
 
-Battle_Mode_Tips_Decs_21999_001 = The limited-time Remoat Stadium battle map is no longer available.
-Battle_Mode_Tips_Decs_22000_001 = Ranked Match: Remoat Stadium Underway
-Battle_Mode_Tips_Decs_22001_001 = Disponível por
+Battle_Mode_Tips_Decs_21999_001 = O mapa de batalha por tempo limitado Estádio Mar Remoto não está mais disponível.
+Battle_Mode_Tips_Decs_22000_001 = Partida Ranqueada：Estádio Mar Remoto em andamento
+Battle_Mode_Tips_Decs_22001_001 = Disponível por 
 Battle_Mode_Tips_Decs_22002_001 = {0}d {1}h
 Battle_Mode_Tips_Decs_22003_001 = {0}h {1}min.
 Battle_Mode_Tips_Decs_22004_001 = {0}:{1}
-Battle_Mode_Tips_Title_21996_001 = Ranked Match: Remoat Stadium Returns!
+Battle_Mode_Tips_Title_21996_001 = A Partida Ranqueada：Estádio Mar Remoto está de volta!
 Battle_Network_Error_Tips_6110_001 = A batalha já terminou ou ocorreu um erro. Tente mais tarde.
 Battle_Notice_Boss_Defeated_14773_001 = Sua equipe ganhou 15 pontos e pode marcar pontos instantaneamente!
 Battle_Notice_Boss_Defeated_14774_001 = A equipe oponente ganhou 15 pontos e pode marcar pontos instantaneamente!
@@ -2278,64 +2281,66 @@ Battle_Notice_Team_Level_Up_14768_001 = Sua equipe pode marcar gols instantaneam
 Battle_Notice_Team_Level_Up_14769_001 = A equipe oponente pode marcar gols instantaneamente!
 Battle_Notice_Team_Task_Complete_14771_001 = Sua equipe concluiu a missão de encanto!
 Battle_Notice_Team_Task_Complete_14772_001 = A equipe oponente concluiu a missão de encanto!
-Battle_Notify_Decs_21841_001 = 0 to 2m into the Battle: While leveling up, prepare to defeat  when they appear at the {0}m mark. Use the superjump springboards that appear at the top and bottom of the map {1}m {2}s into the match to rush to support your allies in battle!
+Battle_Notify_Decs_21841_001 = 0:00–2:00: Enquanto sobe de nível, prepare-se para derrotar o  quando ele aparecer aos {0}:00. Use os trampolins de superpulo que aparecem nas partes superior e inferior do mapa aos {1}:{2} para ir correndo socorrer os aliados!
 
-2 to 8m into the Battle: Defeat  or  when they appear in the central area of the map after the {3}m mark to turn the battle in your team’s favor and destroy opposing goal zones.
+2:00–8:00: Derrote o  ou o  quando aparecerem na área central do mapa após os {3}:00 para virar a batalha a favor da sua equipe e destruir as área de gol adversárias.
 
-8m into the Battle: Defeat  when it appears in the central area of the map to swing the battle in your team’s favor. When  appears at the 10m mark, it will be extremely powerful as it will make opposing goal zones defenseless, giving you a chance to score.
-Battle_Notify_Decs_21843_001 = A Tecnologia Aeos é um sistema exclusivo para este modo. Você vai poder selecionar uma entre três Tecnologias Aeos, oferecidas aleatoriamente no início de uma batalha e quando seu time marcar 50, 100, 200 e 350 pontos no total. Avalie muito bem a compatibilidade das Tecnologias Aeos com o Pokémon que tiver escolhido e o progresso da batalha quando fizer sua opção.
-Battle_Notify_Decs_21844_001 = Remoat Stadium has three paths: Top Path, Central Area, and Bottom Path.
-Defeat wild Pokémon and opposing Pokémon to collect Aeos energy and destroy opponents’ goal zones.
-The map contains various gimmicks that you can use strategically to achieve victory!
-Battle_Notify_Decs_21845_001 = Recommended types of Pokémon: All-Rounder, Defender, Melee
-Battle_Notify_Decs_21846_001 = A rota superior tem áreas do gol que exigem menos energia para você destruir, por isso é esperado que ocorram batalhas mais acirradas desde o início da partida.
-Os Rotoms que aparecerem na rota superior vão usar Tela de Luz para reduzir o dano causado por ataques de longo alcance, por isso os ataques corpo a corpo são recomendáveis.
-Battle_Notify_Decs_21847_001 = Recommended types of Pokémon: All-Rounder, Speedster, Melee
-Battle_Notify_Decs_21848_001 = O jogo independente é a chave para a área central, assim como mudar de tática dependendo da situação em cada rota. Os Pokémon com alta mobilidade são recomendáveis, pois os jogadores precisam também estar atentos aos Pokémon selvagens que aparecerem na área central.
-Battle_Notify_Decs_21849_001 = Recommended types of Pokémon: Attacker, Supporter, Ranged
-Battle_Notify_Decs_21850_001 = There is more energy on the bottom path, which is needed to destroy goal zones. Pokémon can safely level up on this path.
-When Rotom appears on the bottom path, it will use Discharge to deal damage around itself, so ranged attacks are recommended.
-Battle_Notify_Decs_21851_001 = When either one of your team’s middle goal zones are destroyed, a superjump springboard will appear near your team’s base. When used, you can quickly jump to the central area of the map, and your movement speed will increase for a short time.
-{0} minutes into the battle, superjump springboards will appear near the central area of the map. When used, you can jump to the central area of the map.
-{1} minutes {2} seconds into the battle, superjump springboards will appear at the top and bottom of the map. When used, you can quickly jump to the central area of the map.
-Battle_Notify_Decs_21852_001 = Pokémon like  and  can make ally goal zones defenseless. Ally goal zones will not provide HP recovery or grant Pokémon a shield when they are defenseless. Pokémon from the opposing team can also score instantly on defenseless ally goal zones.
-Battle_Notify_Decs_21853_001 = Pokémon like  and  can make opposing goal zones defenseless. Opposing goal zones will not provide HP recovery or grant Pokémon a shield when they are defenseless. Pokémon from your team can also score instantly on defenseless opposing goal zones.
-Battle_Notify_Decs_21854_001 = You can deposit Aeos energy you have collected into opposing goal zones.
-A goal zone is destructed when its maximum point limit is reached.
-Goal-scoring speed decreases as you progress from front goal zones, middle goal zones to base goal zones. ({0}s, {1}s, and {2}s respectively)
-The less energy you have collected, the faster your goal-scoring speed!
-In addition, goal-scoring speed will increase for front goal zones at the four-minute mark, and middle goal zones at the six-minute mark.
-Battle_Notify_Decs_21855_001 =  appears on the top and bottom path {0} minutes into the match. <color=#ff9966>When  appears on the top path</color>, it will use Light Screen to reduce damage from ranged attacks.
-<color=#ff9966>When  appears on the bottom path</color>, it will use Discharge to deal damage to nearby Pokémon.
-When  is defeated, it will advance toward one of the opposing goal zones and make it defenseless.  will reappear on the map {1} [Grm:Qty S="second" P="seconds" Idx="1" ] after being knocked out.
-Battle_Notify_Decs_21856_001 = Defeating  will reduce your Pokémon’s move cooldowns. Your Pokémon’s basic attacks will also deal damage over time for {0} seconds.
-Battle_Notify_Decs_21857_001 =  or  will appear on the top path. Defeating them will increase your Pokémon’s max HP, Defense, and Sp. Def.
-Battle_Notify_Decs_21858_001 = When both of your team’s <color=#ff9966>front goal zones</color> are destroyed,  with a narrow field of vision appears.
-When either of your team’s <color=#ff9966>middle goal zones</color> is destroyed,  with a wide field of vision appears.
- will reappear after {0} [Grm:Qty S="second" P="seconds" Idx="0" ].
-Battle_Notify_Decs_21859_001 =  or  will appear in the central area of the map {0} minutes into the match. The Pokémon on the team that defeats  will be unstoppable and gain an increased goal-scoring speed.
-It will reappear {1} [Grm:Qty S="second" P="seconds" Idx="1" ] after being knocked out.
-Battle_Notify_Decs_21860_001 =  or  will appear in the central area of the map {0} minutes into the match. When  is defeated, it will advance towards one of the opposing team’s goal zones and deposit a large amount of Aeos energy. If it is knocked out while advancing towards opposing team’s goal zones, it will reappear after {1} [Grm:Qty S="second" P="seconds" Idx="1" ].
-Battle_Notify_Decs_21861_001 =  will appear on the bottom path. When defeated, your Pokémon gains increased attack speed, Attack, and Sp. Atk.
-It will reappear {0} [Grm:Qty S="second" P="seconds" Idx="0" ] after being knocked out.
-Battle_Notify_Decs_21862_001 =  will appear in the central area of the map eight minutes into the match.
-When  is defeated, it will advance towards one of the opposing team’s goal zones and make it defenseless after it charges for a set amount of time. <color=#ffd061> gains a shield when it begins charging. The charging can be canceled if the shield is destroyed or hindrances like incapacitation are inflicted.</color>
-It will reappear {0} [Grm:Qty S="second" P="seconds" Idx="0" ] after being knocked out.
-Battle_Notify_Decs_21863_001 = Superjump springboards have appeared at the top and bottom of the map!
+8:00: Derrote o  quando ele aparecer na área central do mapa para virar a batalha a favor da sua equipe. Quando o  aparecer aos 10:00, ele estará extremamente poderoso. Derrotá-lo vai deixar as áreas de gol dos oponentes indefesas, dando a você uma chance de marcar gols.
+Battle_Notify_Decs_21843_001 = A Tecnologia Aeos é um sistema exclusivo para este tipo de batalha. Você vai poder selecionar aleatoriamente um entre três itens de Tecnologia Aeos no início da batalha e, quando seu time marcar 50, 100, 200 e 350 pontos no total, vai poder selecionar outra vez. Avalie muito bem seu Pokémon e o progresso da batalha quando fizer sua escolha!
+Battle_Notify_Decs_21844_001 = O Estádio Mar Remoto tem três rotas: as rotas superior e inferior e a área central.
+Derrote os Pokémon selvagens e os da equipe oponente para coletar energia Aeos. Depois marque pontos e destrua as áreas do gol oponentes.
+O mapa contém várias engenhocas que você pode usar de modo estratégico para alcançar a vitória! 
+Battle_Notify_Decs_21845_001 = Recomendações: Versátil, Defensor, Corpo a Corpo
+Battle_Notify_Decs_21846_001 = As áreas de gol da rota superior exigem menos energia para destruir, por isso é esperado que ocorram batalhas mais acirradas desde o início da partida.
+Quando o Rotom aparecer na rota superior vai usar Tela de Luz para reduzir o dano causado por ataques de longo alcance, por isso os ataques corpo a corpo são recomendáveis.
+Battle_Notify_Decs_21847_001 = Recomendações: Versátil, Veloz, Corpo a Corpo
+Battle_Notify_Decs_21848_001 = O jogo independente é a chave para a área central, assim como mudar de tática dependendo da situação em cada uma das três rotas. Os Pokémon com mobilidade alta são recomendáveis, pois os jogadores precisam também estar atentos aos Pokémon selvagens na área central.
+Battle_Notify_Decs_21849_001 = Recomendações: Atacante, Suporte, Longa Distância
+Battle_Notify_Decs_21850_001 = Há mais energia na rota inferior, necessária para destruir áreas de gol. Os Pokémon podem subir de nível com segurança neste caminho.
+Quando Rotom aparecer na rota inferior, vai usar Descarga para causar dano ao redor de si, por isso são recomendáveis os ataques à distância.
+Battle_Notify_Decs_21851_001 = Quando uma ou outra das zonas do gol médias do seu time é destruída, um trampolim de superpulo vai aparecer próximo à base da sua equipe. Você pode usá-lo para saltar até a área central do mapa, o que vai também aumentar sua velocidade de movimento por um curto período.
+Às {0}:00, os trampolins de superpulo vão aparecer próximos à área central do mapa.
+Às {1}:{2}, os trampolins de superpulo vão aparecer nas partes superior e inferior do mapa.
+Você pode usar qualquer um deles para saltar até a área central do mapa.
+Battle_Notify_Decs_21852_001 = Pokémon como  e  podem deixar as áreas do gol aliadas indefesas. Quando isso acontecer, elas não vão mais oferecer recuperação de PS ou dar um escudo aos Pokémon. Os Pokémon da equipe oponente podem ainda marcar gols instantaneamente nas áreas aliadas indefesas.
+Battle_Notify_Decs_21853_001 = Pokémon como  e  podem deixar as áreas do gol oponentes indefesas. Quando isso acontecer, elas não vão mais oferecer recuperação de PS ou dar um escudo aos Pokémon. Os Pokémon aliados podem ainda marcar gols instantaneamente nas áreas oponentes indefesas.
+Battle_Notify_Decs_21854_001 = Você pode depositar a energia Aeos que coletou nas áreas do gol do oponente.
+As áreas do gol são destruídas quando alcançam o limite de pontos delas.
+Conforme você progride de uma área do gol para outra, sua velocidade de marcação de gol reduz. Marcar gols vai demorar {0}s nas áreas do gol dianteiras, {1}s nas áreas do gol do meio e {2}s nas áreas do gol da base.
+Quanto menos energia você coletar, mais rápido vai marcar!
+Além disso, aos 4:00 e 6:00, sua velocidade de marcação de gol vai aumentar para as áreas do gol dianteiras e do meio (respectivamente).
+Battle_Notify_Decs_21855_001 = Aos {0}:00, o  vai aparecer nas rotas superior e inferior.
+<color=#ff9966>Quando o  aparecer na rota superior</color>, vai usar Tela de Luz para reduzir o dano dos ataques de longo alcance.
+<color=#ff9966>Quando o  aparecer na rota inferior</color>, vai usar Descarga para causar dano aos Pokémon próximos.
+Quando o  for derrotado, ele vai avançar em direção a uma das áreas do gol do oponente e torná-la indefesa. O  vai reaparecer no mapa {1} [Grm:Qty S="segundo" P="segundos" Idx="1" ] após ser derrotado.
+Battle_Notify_Decs_21856_001 = Derrotar o  vai reduzir as recargas de movimento do seu Pokémon Além disso, por {0} segundos, os ataques básicos do seu Pokémon vão causar dano ao longo do tempo.
+Battle_Notify_Decs_21857_001 = O  ou o  vai aparecer na rota superior. Derrotar um ou outro vai aumentar os PS máx., a Defesa e a Defesa Especial do seu Pokémon.
+Battle_Notify_Decs_21858_001 = Quando ambas as <color=#ff9966>áreas de gol frontais</color> da sua equipe são destruídas, aparece um  com um campo de visão limitado.
+Quando uma ou outra das <color=#ff9966>áreas de gol médias</color> é destruída, aparece um  com um campo de visão limitado.
+O  vai reaparecer após {0} [Grm:Qty S="segundo" P="segundos" Idx="0" ].
+Battle_Notify_Decs_21859_001 = O  ou o  vão aparecer na área central do mapa aos {0}:00. A equipe que derrotar o  vai se tornar imparável e ganhar aumento na velocidade da marcação de gols.
+Após o Pokémon que aparecer for derrotado, ou  ou   vão reaparecer {1} [Grm:Qty S="second" P="seconds" Idx="1" ] depois.
+Battle_Notify_Decs_21860_001 = O  ou o  vão aparecer na área central do mapa aos {0}:00. Se o  for derrotado, ele vai avançar na direção de uma das áreas de gol da equipe oponente e depositar uma grande quantidade de energia Aeos. Se ele for derrotado enquanto estiver fazendo esse avanço, ou  ou   vão reaparecer {1} [Grm:Qty S="second" P="seconds" Idx="1" ] depois.
+Battle_Notify_Decs_21861_001 = O  vai aparecer na rote inferior. Derrotá-lo vai aumentara velocidade de ataque básico, o Ataque e o Ataque Especial do seu Pokémon.
+O  vai reaparecer {0} [Grm:Qty S="segundo" P="segundos" Idx="0" ] após ser derrotado.
+Battle_Notify_Decs_21862_001 = O  vai aparecer na área central do mapa após 8 minutos do início da marcha. Quando o  for derrotado, ele vai avançar na direção de uma das áreas de gol da equipe oponente e torná-la indefesa após carregar por um certo período.<color=#ffd061>
+O  ganha um escudo quando começa a carregar. O carregamento pode ser cancelado se o escudo for destruído ou ele for afetado por interferências como incapacitação.</color>
+Ele vai reaparecer {0} [Grm:Qty S="segundo" P="segundos" Idx="0" ] após sofrer nocaute.
+Battle_Notify_Decs_21863_001 = O trampolim de superpulo apareceu nas partes superior e inferior do mapa!
 Battle_Notify_Decs_21864_001 = Trampolins de superpulo apareceram próximos ao centro do mapa!
 Battle_Notify_Decs_21865_001 = Um trampolim de superpulo apareceu próximo à base!
 Battle_Notify_Decs_21866_001 = A velocidade da marcação de gols aumentou nas áreas de gol avançadas!
 Battle_Notify_Decs_21867_001 = A velocidade da marcação de gols aumentou nas áreas de gol centrais!
 Battle_Notify_Decs_21868_001 = A velocidade da marcação de gols aumentou nas áreas de gol da base!
-Battle_Notify_Decs_21869_001 = There is more tall grass on the top path, which means there will be more close-quarters battles. All-Rounder or Defender Pokémon will prove useful here.
-Battle_Notify_Decs_22258_001 = は上ルートに出現します。KOすると、最大HPと、防御や特防を上げる効果を獲得できます。このポケモンがKOされた{0}秒後に再びランダムで出現します。
-Battle_Notify_Decs_22259_001 = は下ルートに出現します。KOすると、攻撃、特攻、攻撃速度を上げる効果を獲得できます。出現の位置は該当チームの下のルートのゴールエリアの破壊によって後ろの方に移動します。このポケモンはKOした{0}秒後に再び出現します。
-Battle_Notify_Decs_22260_001 = かは、バトル開始後{0}分にマップの中央に出現します。KOしたチームのポケモンは妨害無効、ゴール速度アップの効果（KOされた場合は無効になります）を獲得し、{1}～{2}のエオスエナジーも獲得できます。
-KOされると{3}秒後にかは再びランダムで出現します。
-Battle_Notify_Rules_21839_001 = The first team to score 500 points wins.
-The amount of Exp. Points gained, the time a Pokémon takes to revive, and the amount of Aeos energy lost after being knocked out will change based on the difference in level and scores of both teams.
+Battle_Notify_Decs_21869_001 = Há mais grama alta na rota superior, o que se traduz em mais batalhas de muito perto. Os Pokémon Versáteis ou Defensores serão úteis aqui.
+Battle_Notify_Decs_22258_001 = O  vai aparecer na rota superior. Derrotá-lo vai aumentar os PS Máx., a Defesa e a Defesa Especial do seu Pokémon. Ele vai reaparecer no mapa {0} [Grm:Qty S="segundo" P="segundos" Idx="0" ] após ser derrotado.
+Battle_Notify_Decs_22259_001 = O  vai aparecer na rota inferior. Derrotá-lo vai aumentar o Ataque, o Ataque Especial e a velocidade de ataque básico do seu Pokémon. Ele vai aparecer em um local diferente dependendo do número de áreas de gol destruídas na rota inferior. Ele vai reaparecer no mapa {0} [Grm:Qty S="segundo" P="segundos" Idx="0" ] após ser derrotado.
+Battle_Notify_Decs_22260_001 = O  ou o  vai aparecer na área central do mapa aos {0}:00. A equipe que derrotar um ou outro vai ganhar aumento na velocidade de marcação de gols e ser imparável quando marcar. Esse efeito se encerra quando houver um nocaute. Além disso, será coletada de {1} a {2} de energia Aeos.
+O  ou o  vão reaparecer {3} [Grm:Qty S="segundo" P="segundos" Idx="0" ] após serem derrotados.
+Battle_Notify_Rules_21839_001 = A primeira equipe que marcar 500 pontos vence.
+A quantidade de Pontos de Exp. ganha, o tempo que um Pokémon leva para reviver e a quantidade de energia Aeos perdida após um nocaute vão mudar com base nas diferenças de nível dos Pokémon e nas pontuações das equipes.
 Battle_Notify_Tab_21840_001 = Fases da batalha
-Battle_Notify_Tab_21842_001 = Sistema de Tecnologia Aeos
+Battle_Notify_Tab_21842_001 = Tecnologia Aeos
 Battle_Offline_BtnNote_6829_001 = Pausar batalha
 Battle_Offline_Continue_Btn_6831_001 = Retomar batalha
 Battle_Offline_Paused_Title_6830_001 = Pausado
@@ -3767,17 +3772,17 @@ BattleMap_Help_Tips_6092_001 = Progressão de Pokémon
 BattleMap_Help_Tips_Desc_6092_001 = Os Pokémon ganham Pontos de Experiência com o tempo, bem como marcando gols e derrotando outros Pokémon. Os Pokémon sobem de nível à medida que ganham PE, e alguns evoluem em certos níveis. No entanto, a Evolução só ocorre lutando e derrotando outros Pokémon e não com os PE ganhos com o tempo. Quando um Pokémon atinge um nível em que pode evoluir, quaisquer PE ganhos serão acumulados até que ele evolua, e os PE acumulados serão atribuídos após a Evolução. Participe de lutas e evolua seu Pokémon para continuar subindo de nível!
 BattleMap_Help_Tips_Desc_6094_001 = Os Movimentos Unite podem ser usados quando o medidor de Movimento Unite carrega 100%. O medidor de Movimento Unite carrega automaticamente ao longo do tempo e também quando o Pokémon marca gols, derrota Pokémon selvagens ou nocauteia Pokémon da equipe oponente.
 BattleNotify_Buff_Avalugg_001 = Anula uma porção do dano recebido. Causando dano a Pokémon oponentes próximos e diminuindo a velocidade de movimento deles por um curto período.
-BattleNotify_Buff_Decs_22052_001 = Attack and Sp. Atk +10%, basic attack speed +20%
-BattleNotify_Buff_Decs_22053_001 = Max HP +10%, Defense +25%
-BattleNotify_Buff_Decs_22054_001 = Max HP +10%, Sp. Def +25%
-BattleNotify_Buff_Decs_22055_001 = Move cooldowns -10%, basic attacks now deal damage over time (3s)
-BattleNotify_Buff_Decs_22183_001 = Ally  is advancing!
-BattleNotify_Buff_Decs_22184_001 = Opposing  is advancing!
-BattleNotify_Buff_Decs_22185_001 = Left team’s  is advancing!
-BattleNotify_Buff_Decs_22186_001 = Right team’s  is advancing!
-BattleNotify_Buff_Decs_22195_001 = Max Hp +10%, Defense and Sp. Def +25%
-BattleNotify_Buff_Decs_22244_001 = 攻撃と特攻が少しあがり、わざの待ち時間が少し短くなる。
-BattleNotify_Buff_Decs_22245_001 = 攻撃速度が少しあがり、わざの待ち時間が少し短くなる。
+BattleNotify_Buff_Decs_22052_001 = Ataque e Ataque Especial +10%, velocidade de ataque básico +20%
+BattleNotify_Buff_Decs_22053_001 = PS Máx. +10%, Defesa +25%
+BattleNotify_Buff_Decs_22054_001 = PS Máx. +10%, Def. Esp. +25%
+BattleNotify_Buff_Decs_22055_001 = Recargas de movimento −10%, ataques básicos causam dano ao longo do tempo (3s)
+BattleNotify_Buff_Decs_22183_001 = O  aliado está avançando!
+BattleNotify_Buff_Decs_22184_001 = O  oponente está avançando!
+BattleNotify_Buff_Decs_22185_001 = O  da equipe à esquerda está avançando!
+BattleNotify_Buff_Decs_22186_001 = O  da equipe à direita está avançando!
+BattleNotify_Buff_Decs_22195_001 = PS máx. +10%, Defesa e Def. Esp. +25%
+BattleNotify_Buff_Decs_22244_001 = Aumento no Ataque e no Atq. Esp., redução na recarga de movimento
+BattleNotify_Buff_Decs_22245_001 = Aumento na velocidade de ataque básico, redução na recarga de movimento
 BattleNotify_Buff_Regigigas_001 = Velocidade de marcação de gol aumentada e tentativas de marcar gol não podem ser bloqueadas.
 BattleNotify_DrednawKOByAlly_001 = Sua equipe ganhou PE e escudos!
 BattleNotify_DrednawKOByEnemy_001 = A equipe oponente ganhou PE e escudos!
@@ -3833,6 +3838,7 @@ BattlePass_HistoryTitle = Recorde da temporada
 BattlePass_HistoryTitle_002 = Estatísticas do passe de batalha
 Battlepass_Item_Received_001 = Você já resgatou esta recompensa do passe de batalha.
 BattlePass_Level = Nível do passe de batalha
+BattlePass_Level_Tips_22274_001 = Você precisa obter um passe de batalha antes de poder fazer a troca por níveis do passe de batalha.
 BattlePass_LevelBought = Troca por níveis
 BattlePass_LevelBuyTip = Trocar por <color=#ff9c00><size=20>{0}–{1}</size></color> níveis lhe permitirá receber imediatamente as seguintes recompensas.
 BattlePass_Name_10619_001 = Pokébuki
@@ -4209,6 +4215,7 @@ Chat_Flash_Pkm_20763_001 = Eu escolho Darkrai!
 Chat_Flash_Pkm_20768_001 = Eu escolho Psyduck!
 Chat_Flash_Pkm_21574_001 = Eu escolho Tinkaton!
 Chat_Flash_Pkm_21637_001 = Eu escolho Rapidash de Galar!
+Chat_Flash_Pkm_22355_001 = Eu escolho Suicune!
 Chat_Flash_Pkm_5707_001 = Eu escolho Mamoswine!
 Chat_Flash_Pkm_5708_001 = Eu escolho Sylveon!
 Chat_Flash_Pkm_6016_001 = Eu escolho Zeraora!
@@ -6521,6 +6528,7 @@ Map_Close_Countdown_HM_001 = Mapa disponível por {0}h {1}min.
 Map_Close_Countdown_HM_002 = Mapa disponível por <color=#e6b643>{0}h {1}m</color>
 Map_Close_Countdown_MS_001 = Mapa disponível por {0}min. {1}seg.
 Map_Close_Countdown_MS_002 = Mapa disponível por <color=#e6b643>{0}m {1}s</color>
+Map_Mode_Name_22326_001 = PT500
 Map_Name_5911_001 = Estádio Mar Remoto Gélido
 Map_Name_5911_lowcase = Estádio Mar Remoto (neve e gelo)
 Map_Name_5912_001 = Batalha de bolas de neve na Cidade de Criópolis
@@ -7407,8 +7415,9 @@ OpsEvents_Banner_Title_21647_001 = Estilo Formal Colorido
 OpsEvents_Banner_Title_21648_001 = Estilo Doce
 OpsEvents_Banner_Title_21649_001 = Estilo Sagrado
 OpsEvents_Banner_Title_21675_001 = Estilo Bronze
-OpsEvents_Banner_Title_21678_001 = Estilo Ano-novo
+OpsEvents_Banner_Title_21678_001 = Estilo Ano-Novo
 OpsEvents_Banner_Title_21769_001 = Estilo Conto de Fadas
+OpsEvents_Banner_Title_22272_001 = Estilo Festival de Ano Novo
 OpsEvents_Banner_Title_7617_001 = A campanha de energia + começou!
 OpsEvents_Banner_Title_8913_001 = O evento de início de sessão do Ano-Novo Lunar começou!
 OpsEvents_Banner_Title_8914_001 = Um evento especial começou!
@@ -7453,6 +7462,9 @@ OpsEvents_BP_Rewards_Desc_21546_001 = Recompensas especiais do passe de batalha 
 OpsEvents_BP_Rewards_Desc_21549_001 = Recompensas especiais do passe de batalha da Temporada 18!
 OpsEvents_BP_Rewards_Desc_21564_001 = Recompensas especiais do passe de batalha da Temporada 13!
 OpsEvents_BP_Rewards_Desc_22058_001 = Recompensas especiais do passe de batalha da Temporada 19!
+OpsEvents_BP_Rewards_Desc_22346_001 = バトルパスシーズン23のスペシャル報酬！
+OpsEvents_BP_Rewards_Desc_22349_001 = バトルパスシーズン21のスペシャル報酬！
+OpsEvents_BP_Rewards_Desc_22352_001 = バトルパスシーズン9のスペシャル報酬！
 OpsEvents_BP05_Name_001 = Novo Xerife na Cidade
 OpsEvents_BP06_Name_001 = Espetáculo UNITE
 OpsEvents_BPTab_Name_21588_001 = Recompensas
@@ -7463,6 +7475,7 @@ OpsEvents_Button_Name_21117_001 = Comprar gemas Aeos
 OpsEvents_Button_Name_21124_001 = Comprar gemas Aeos
 OpsEvents_Button_Name_21526_001 = Posto de troca
 OpsEvents_Button_Name_22048_001 = Pacote de personalização de botões :  (exclusivo para dispositivos móveis)
+OpsEvents_Button_Name_22371_001 = Pacote de personalização de botões Blastoise: Estilo Festival de Ano Novo (exclusivo para dispositivos móveis)
 OpsEvents_Card_Btn_14307_001 = Raspar
 OpsEvents_Card_Desc_14306_001 = Raspe para obter recompensas!
 OpsEvents_CDK_Btn_7394_001 = Trocar
@@ -7536,7 +7549,7 @@ OpsEvents_Coupon_Desc_20155_001 = Você pode receber um desconto de {0}% ao troc
 Você pode usar apenas um cupom por item.
 Este cupom não pode ser usado com outros descontos.
 Após este cupom expirar, você não poderá mais usá-lo, e ele será convertido em {1} [Grm:Qty S="cupom" P="cupons" Idx="1" ] Aeos, que serão enviados para o seu correio.
-OpsEvents_Coupon_Name_22040_001 = Cupom de desconto de {0}% em gemas Aeos no passe premium
+OpsEvents_Coupon_Name_22040_001 = Cupom de desconto no passe premium
 OpsEvents_Daily_Task_Btn_14749_001 = Dar uma caminhada
 OpsEvents_Daily_Task_Desc_14750_001 = Você pode concluir missões ocultas para ganhar recompensas
 OpsEvents_Daily_Task_Desc_14751_001 = Participe de uma batalha na qual cinco jogadores escolheram jogar com Evoluções diferentes de 
@@ -7850,6 +7863,7 @@ OpsEvents_Event_Decs_21527_001 = É possível trocar por itens na Troca de Moeda
 OpsEvents_Event_Decs_21528_001 = É possível trocar por itens na Troca de Moeda Misteriosa.
 OpsEvents_Event_Decs_21529_001 = Pode ser usada para melhorar baús de tesouro. Toda vez que uma carta é usada, o baú de tesouro aumenta um grau.
 OpsEvents_Event_Decs_21530_001 = Para obter moedas especiais do bônus de gemas Aeos ao longo de 3 dias, você pode comprar qualquer quantidade de gemas Aeos uma vez (restrito às gemas Aeos compradas no menu Comprar gemas Aeos). É possível trocar as moedas especiais do bônus de gemas Aeos por recompensas na Troca de Moedas Especiais do Bônus de gemas Aeos.
+OpsEvents_Event_Decs_21530_002 = Para obter moedas especiais do bônus de gemas Aeos ao longo de 3 dias, você pode comprar qualquer quantidade de gemas Aeos uma vez (restrito às gemas Aeos compradas no menu Comprar gemas Aeos). É possível trocar as moedas especiais do bônus de gemas Aeos por recompensas na Troca de Moedas Especiais do Bônus de gemas Aeos.
 OpsEvents_Event_Decs_21550_001 = Você pode comprar um determinado número de gemas Aeos (ação limitada à compra de gemas Aeos no menu de compras de gemas Aeos dentro do jogo) para resgatar Moedas Misteriosas, dependendo do total de gemas Aeos compradas. É possível trocar as Moedas Misteriosas por recompensas na Troca de Moedas Misteriosas.
 OpsEvents_Event_Decs_21552_001 = Você não tem giros suficientes para usar consecutivamente.
 OpsEvents_Event_Decs_21556_001 = Você pode alugar Conjunto Elegante 3 por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
@@ -7874,8 +7888,8 @@ OpsEvents_Event_Decs_21624_001 = 1. Você pode completar missões para coletar m
 2. É possível coletar moedas comemorativas de Rapidash de Galar para resgatar recompensas com base no número de moedas que tiver obtido.
 OpsEvents_Event_Decs_21628_001 = Tenha a licença Unite de Rapidash de Galar durante o evento.
 OpsEvents_Event_Decs_21628_Common_001 = Tenha a licença Unite de  durante o evento.
-OpsEvents_Event_Decs_21711_001 = During the event, participate in battles with designated Pokémon and win {0} [Grm:Qty S="time" P="times" Idx="0" ] to complete the challenge (custom battles, Boss Rush, and Panic Parade do not count for this challenge).
-Complete the challenge with a total of {1} Pokémon to receive all the rewards!
+OpsEvents_Event_Decs_21711_001 = Durante o evento, participe de batalhas com os Pokémon designados e vença {0} [Grm:Qty S="vez" P="vezes" Idx="0" ] para concluir o desafio (batalhas personalizadas, Desafio do Chefão e Marcha Maluca não contam para este desafio).
+Conclua o desafio com um total de {1} Pokémon para receber todas as recompensas!
 OpsEvents_Event_Decs_21803_001 = Você pode rolar os dados para avançar pelo mapa e obter recompensas!
 OpsEvents_Event_Decs_21804_001 = 1. Ao participar do Desafio Fluxo Glacial do , você pode obter moedas do fluxo glacial e trocá-las por recompensas na Troca do Fluxo Glacial.
 
@@ -7883,28 +7897,28 @@ OpsEvents_Event_Decs_21804_001 = 1. Ao participar do Desafio Fluxo Glacial do , 
 OpsEvents_Event_Decs_21805_001 = Moedas do fluxo glacial insuficientes. Não é possível trocar.
 OpsEvents_Event_Decs_21806_001 = Trocar {0} [Grm:Qty S="moeda" P="moedas" Idx="0" ] do fluxo glacial por {1}?
 OpsEvents_Event_Decs_21807_001 = Usar {0} [Grm:Qty S="gema" P="gemas" Idx="0" ] Aeos para concluir a missão do quadrado?
-OpsEvents_Event_Decs_21808_001 = By completing one of the missions below, you will be able to claim a reward and advance to the next square.
-OpsEvents_Event_Decs_21809_001 = Can be obtained by progressing through ʼs Glacial Stream Challenge, and can be exchanged for rewards at the Glacial Stream Exchange.
-OpsEvents_Event_Decs_21818_001 = During the event, progress through the maps and collect glacial stream coins!
+OpsEvents_Event_Decs_21808_001 = Ao concluir uma das missões abaixo, você vai poder resgatar uma recompensa e avançar para o próximo quadrado.
+OpsEvents_Event_Decs_21809_001 = Obtém-se ao progredir pelo Desafio Fluxo Glacial do  e pode-se trocar por recompensas na Troca do Fluxo Glacial.
+OpsEvents_Event_Decs_21818_001 = Avance durante o evento pelos mapas e colete moedas do fluxo glacial!
 
-1. When you log in during the event, you can obtain up to {0} [Grm:Qty S="die" P="dice" Idx="0" ] per day. You can roll a die to advance the number of squares rolled.
-You can only own one die obtained by logging in at a time.
+1. Quando fizer login durante o evento, você pode obter até {0} [Grm:Qty S="dado" P="dados" Idx="0" ] por dia. Você pode rolar um dado para avançºar o número de quadrados que tirar.
+É possível possuir apenas um dado obtido ao fazer login de cada vez.
 
-2. If you are not happy with the number you rolled, you can reroll the die by using Aeos coins. If you roll again, you will get a number higher than the previous one.
-You can reroll each die a maximum of {1} [Grm:Qty S="time" P="times" Idx="1" ].
+2. Se não estiver contente com o número que tirou, você pode rolar o dado de novo usando gemas Aeos. Se o fizer, vai tirar um número maior que o anterior.
+Você pode rolar cada dado de novo {1} [Grm:Qty S="vez" P="vezes" Idx="1" ] no máximo.
 
-3. When you land on a square, you will unlock tile missions. You cannot roll the die again until you have completed one of the tile missions of the square you are currently on. You can also complete tile missions by using {2} Aeos [Grm:Qty S="gem" P="gems" Idx="2" ].
+3. Quando você parar em um quadrado, vai desbloquear as missões nele. Você não pode rolar o dado de novo até ter concluído todas as missões do quadrado onde estiver. Mas você pode concluir as missões do quadrado usando {2} [Grm:Qty S="gema" P="gemas" Idx="2" ] Aeos.
 
-4. The number of glacial stream coins you can obtain from reaching the end of each map is random:
-{3} glacial stream [Grm:Qty S="coin" P="coins" Idx="3" ]: {4}%
-{5} glacial stream [Grm:Qty S="coin" P="coins" Idx="5" ]: {6}%
+4. O número de moedas do fluxo glacial que você pode obter ao alcançar o final de cada mapa é aleatório:
+{3} [Grm:Qty S="moeda" P="moedas" Idx="3" ] do fluxo glacial: {4}%
+{5} [Grm:Qty S="moeda" P="moedas" Idx="5" ] do fluxo glacial: {6}%
 
-5. Landing on a lucky square will allow you to advance {7}–{8} squares randomly.
+5. Parar em um Quadrado da Sorte vai permitir que você avance {7}–{8} quadrados aleatoriamente.
 
-6. If you have more than one die, you will roll the die obtained by logging in first.
+6. Se você tiver mais de um dado, vai rolar primeiro o dado que recebeu ao fazer login.
 
-7. Other than logging in every day, you can obtain a maximum of {9} additional [Grm:Qty S="die" P="dice" Idx="9" ] from the Glacial Stream — Support Log-In Bonus and Glacial Stream Coin Collection Challenge!
-OpsEvents_Event_Decs_21829_001 = During the event, you can complete missions and collect Remoat coins to obtain rewards.
+7. Além do login diário, você pode obter no máximo {9} [Grm:Qty S="die" P="dice" Idx="9" ] adicionais no Bônus de Login de Suporte do Fluxo Glacial e no Desafio Coleta de Moedas do Fluxo Glacial!
+OpsEvents_Event_Decs_21829_001 = Durante o evento, você pode obter recompensas ao concluir missões e coletar moedas do Mar Remoto.
 OpsEvents_Event_Decs_22037_001 = Você pode conseguir três tipos de sprays de efeito para Holowear ao iniciar uma sessão durante o evento. Além disso, você pode obter recompensas bônus se participar de uma batalha com Holowear que tenha um spray de efeito para Holowear aplicado! Tente agora mesmo!
 OpsEvents_Event_Decs_22039_001 = Promoção!
 OpsEvents_Event_Decs_22044_001 = Os passes de batalha permitem que você conclua missões durante uma temporada para subir seu nível do passe de batalha e receber recompensas com base nesse nível.
@@ -7915,7 +7929,7 @@ Missões diárias:
 As missões diárias são zeradas diariamente às {0}. Isso encerra as missões do dia anterior.
 
 Missões semanais:
-As missões semanais são zeradas em {1}, às {2}. Missões adicionais são desbloqueadas toda semana durante a temporada.
+As missões semanais são zeradas toda {1}, às {2}. Missões adicionais são desbloqueadas toda semana durante a temporada.
 
 Missões de temporada:
 As missões de temporada são zeradas ao fim de cada temporada. Após a temporada terminar, você não poderá resgatar as recompensas das missões que concluir, por isso não se esqueça de resgatá-las a tempo.
@@ -7927,6 +7941,26 @@ As missões de temporada são zeradas ao fim de cada temporada. Após a temporad
 Há também missões premium e recompensas para quem tiver passes de batalha. Atualize a lista para mudar as missões premium e aceite as que preferir.
 
 (Você não poderá elevar o nível do seu passe de batalha trocando gemas Aeos ou concluindo missões se o seu passe de batalha tiver alcançado o nível máximo. O passe premium e o passe premium plus tornam-se nulos após uma temporada do passe de batalha terminar e precisam ser obtidos outra vez assim que uma nova temporada começar.)
+OpsEvents_Event_Decs_22044_002 = Os passes de batalha permitem que você conclua missões durante uma temporada para subir seu nível do passe de batalha e receber recompensas com base nesse nível.
+
+1. Missões
+
+Missões diárias:
+As missões diárias são zeradas diariamente às {0}. Isso encerra as missões do dia anterior.
+
+Missões semanais:
+As missões semanais são zeradas em {1}, às {2}. Missões adicionais são desbloqueadas toda semana durante a temporada.
+
+Missões de temporada:
+As missões de temporada são zeradas ao fim de cada temporada. Após a temporada terminar, as recompensas das missões concluídas que não foram resgatadas serão enviadas a você pelo correio, então não se esqueça de resgatá-las!
+
+2. Para obter passes de batalha
+
+É possível obter um passe premium ou premium plus em troca de gemas Aeos. Se não tiver determinadas licenças Unite para a temporada atual, você pode obtê-las com desconto como parte de um pacote de passe premium ou pacote de passe premium plus. Com um passe premium ou premium plus, você poderá resgatar ainda mais recompensas conforme seu passe de batalha subir de nível. Você também poderá elevar o nível do seu passe de batalha trocando gemas Aeos. Obter um passe premium plus também permitirá a você obter níveis do passe de batalha e bônus adicionais.
+
+Há também missões premium e recompensas para quem tiver passes de batalha. Atualize a lista para mudar as missões premium diárias e aceite as que preferir.
+
+(Você não poderá elevar o nível do seu passe de batalha trocando gemas Aeos ou concluindo missões se o seu passe de batalha tiver alcançado o nível máximo. O passe premium e o passe premium plus tornam-se nulos após uma temporada do passe de batalha terminar e precisam ser obtidos outra vez assim que uma nova temporada começar.)
 OpsEvents_Event_Decs_22045_001 = Seu passe de batalha atingiu o nível máximo.
 OpsEvents_Event_Decs_22047_001 = O Fim de Semana do Pokémon UNITE é de 01/02/2025 a 02/02/2025!
 OpsEvents_Event_Decs_22243_001 = 1. Durante o evento, você pode concluir missões para obter moedas de Neo-Street.
@@ -7934,7 +7968,50 @@ OpsEvents_Event_Decs_22243_001 = 1. Durante o evento, você pode concluir missõ
 2. É possível trocar as moedas de Neo-Street por recompensas na Troca de Neo-Street.
 
 3. As moedas de Neo-Street são válidas apenas por um determinado período e desaparecem automaticamente assim que expiram.
-OpsEvents_Event_Decs_22249_001 = タキシードスタイル特別販売！
+OpsEvents_Event_Decs_22249_001 = Promoção especial de Holowear Estilo Smoking!
+OpsEvents_Event_Decs_22339_001 = 1. Durante o evento, conclua missões para obter energia da caixa de presente.
+2. Por cada {0} em energia da caixa de presente que você coletar, você pode abrir {1} [Grm:Qty S="caixa" P="caixas" Idx="1" ] de presente da Batalha Furiosa.
+3. As recompensas e as probabilidades de obter cada recompensa em uma caixa de presente da Batalha Furiosa são as seguintes:
+{2}: {3}%
+{4}: {5}%
+{6}: {7}%
+{8}: {9}%
+{10}: {11}%
+{12}: {13}%
+{14}: {15}%
+{16}: {17}%
+{18}: {19}%
+{20}: {21}%
+{22}: {23}%
+{24}: {25}%
+{26}: {27}%
+{28}: {29}%
+{30}: {31}%
+{32}: {33}%
+{34}: {35}%
+{36}: {37}%
+{38}: {39}%
+{40}: {41}%
+{42}: {43}%
+{44}: {45}%
+Spray Cintilante (Cintilante) por 30 dias: {46}%
+Spray Cintilante (Cintilante) por 14 dias: {47}%
+Spray Cintilante (Cintilante) por 7 dias: {48}%
+Spray Cintilante (Coração) por 30 dias: {51}%
+Spray Cintilante (Coração) por 14 dias: {50}%
+Spray Cintilante (Coração) por 7 dias: {49}%
+{52}: {53}%
+{54}: {55}%
+{56}: {57}%
+{58} ×{59}: {60}%
+{61} ×{62}: {63}%
+{64} ×{65}: {66}%
+{67} ×{68}: {69}%
+OpsEvents_Event_Decs_22368_001 = 1. Durante o evento, você pode concluir missões para obter moedas de Conto de Fadas.
+
+2. É possível trocar as moedas de Conto de Fadas por recompensas na Troca de Conto de Fadas.
+
+3. As moedas de Conto de Fadas são válidas apenas por um determinado período e desaparecem automaticamente assim que expiram.
 OpsEvents_Event_Desc_10247_001 = Você pode concluir missões para ganhar itens especiais!
 OpsEvents_Event_Desc_10319_001 = Você pode concluir missões diárias para colecionar pontos de missão e ganhar recompensas.
 OpsEvents_Event_Desc_10320_001 = O Desafio começa em {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
@@ -8134,69 +8211,107 @@ Baú de Tesouro (Grau 2): {2}%
 Baú de Tesouro (Grau 3): {1}%
 Baú de Tesouro (Grau 4): {0}%
 Essas probabilidades são válidas apenas nos períodos indicados acima.
-OpsEvents_Event_Desc_22200_001 = Tournament Duration
-OpsEvents_Event_Desc_22201_001 = Entry Period
-OpsEvents_Event_Desc_22208_001 = During the event, from 2025-01-16 at 07:00 UTC to 2025-01-19 at 23:59 UTC and the following Saturday and Sunday, the probability of obtaining Treasure Chests (Grade 3) and Treasure Chests (Grade 4) will be greatly increased!
-OpsEvents_Event_Desc_22209_001 = During the event, from 2025-01-16 at 07:00 UTC to 2025-01-19 at 23:59 UTC and the following Saturday and Sunday, the probability of obtaining Treasure Chests (Grade 3) and Treasure Chests (Grade 4) will be greatly increased! The probability of obtaining each grade of treasure chest will be as follows:
-Treasure Chest (Grade 1): {3}%
-Treasure Chest (Grade 2): {2}%
-Treasure Chest (Grade 3): {1}%
-Treasure Chest (Grade 4): {0}%
-These probabilities only apply to the times noted above.
-OpsEvents_Event_Desc_22215_001 = 1. イベント期間中、特別チャレンジイベントミッションをクリアすると、サプライズボックスエネルギーを獲得できます。
-2.サプライズボックスエネルギーを{0}点集めるごとに、サプライズボックスを{1}回開けることができます。
-3. サプライズボックス報酬の獲得確率は以下となります：
-{2}x{3}%
-{4}x{5}%
-{6}x{7}%
-{8}x{9}%
-{10}x{11}%
-{12}x{13}%
-{14}x{15}%
-{16}x{17}%
-{18}x{19}%
-{20}x{21}%
-{22}x{23}%
-{24}x{25}%
-{26}x{27}%
-{28}x{29}%
-{30}x{31}%
-{32}x{33}%
-{34}x{35}%
-{36}x{37}%
-{38}x{39}%
-{40}x{41}%
-{42}x{43}%
-{44}x{45}%
-{46}x{47}%
-{48}x{49}%
-{50}x{51}%
-{52}x{53}%
-{54}x{55}%
-{56}x{57}%
-{58}x{59}%
-{60}x{61}%
-キラキラスプレー（キラキラ）30日x{62}%
-キラキラスプレー（キラキラ）14日x{63}%
-キラキラスプレー（キラキラ）7日x{64}%
-キラキラスプレー（キラキラ）7日x{65}%
-キラキラスプレー（ハート）14日x{66}%
-キラキラスプレー（ハート）30日x{67}%
-{68}x{69}%
-{70}x{71}%
-{72}x{73}%
-{74}*{75}x{76}%
-{77}*{78}x{79}%
-{80}*{81}x{82}%
-{83}*{84}x{85}%
-OpsEvents_Event_Desc_22221_001 = You can use Holowear effect spray () when you have collected all of the Holowear for each Pokémon!
-OpsEvents_Event_Desc_22222_001 = You do not own all of the Holowear.
-OpsEvents_Event_Desc_22223_001 = Owned
-OpsEvents_Event_Desc_22224_001 = Claimable
-OpsEvents_Event_Desc_22225_001 = Obtain designated Holowear and receive points to unlock Holowear effect spray ()!
-OpsEvents_Event_Desc_22226_001 = Points: {0}
-OpsEvents_Event_Desc_22227_001 = Holowear effect spray () can only be used on designated Holowear.
-OpsEvents_Event_Desc_22228_001 = You do not have a Unite license for that Pokémon.
+OpsEvents_Event_Desc_22200_001 = Duração do torneio
+OpsEvents_Event_Desc_22201_001 = Período de acesso
+OpsEvents_Event_Desc_22208_001 = Durante o evento, de 16/01/2025, às 7h UTC, até 19/01/2025, às 23h59 UTC, e no sábado e domingo seguintes, as chances de obter Baús de Tesouro (Grau 3) e Baús de Tesouro (Grau 4) serão muito maiores!
+OpsEvents_Event_Desc_22209_001 = Durante o evento, de 16/01/2025, às 7h UTC, até 19/01/2025, às 23h59 UTC, e no sábado e domingo seguintes, as chances de obter Baús de Tesouro (Grau 3) e Baús de Tesouro (Grau 4) serão muito maiores! As probabilidades de obter cada grau de baú são:
+Baú de Tesouro (Grau 1): {3}%
+Baú de Tesouro (Grau 2): {2}%
+Baú de Tesouro (Grau 3): {1}%
+Baú de Tesouro (Grau 4): {0}%
+Essas probabilidades aplicam-se apenas aos períodos indicados acima.
+OpsEvents_Event_Desc_22215_001 = 1. イベント期間中、ミッションをクリアすると、プレゼントボックスエナジーを獲得できます。
+2.プレゼントボックスエナジーを{0}点集めるごとに、pt500チャレンジプレゼントボックスを{1}回開けることができます。
+3.PT500チャレンジプレゼントボックスの報酬及び獲得確率は以下となります：
+{2}：{3}%
+{4}：{5}%
+{6}：{7}%
+{8}：{9}%
+{10}：{11}%
+{12}：{13}%
+{14}：{15}%
+{16}：{17}%
+{18}：{19}%
+{20}：{21}%
+{22}：{23}%
+{24}：{25}%
+{26}：{27}%
+{28}：{29}%
+{30}：{31}%
+{32}：{33}%
+{34}：{35}%
+{36}：{37}%
+{38}：{39}%
+{40}：{41}%
+{42}：{43}%
+{44}：{45}%
+{46}：{47}%
+{48}：{49}%
+{50}：{51}%
+{52}：{53}%
+{54}：{55}%
+{56}：{57}%
+{58}：{59}%
+{60}：{61}%
+ホロウェアエフェクトスプレー（キラキラ）30日：{62}%
+ホロウェアエフェクトスプレー（キラキラ）14日：{63}%
+ホロウェアエフェクトスプレー（キラキラ）7日：{64}%
+ホロウェアエフェクトスプレー（ハート）7日：{65}%
+ホロウェアエフェクトスプレー（ハート）14日：{66}%
+ホロウェアエフェクトスプレー（ハート）30日：{67}%
+{68}：{69}%
+{70}：{71}%
+{72}：{73}%
+{74}×{75}：{76}%
+{77}×{78}：{79}%
+{80}×{81}：{82}%
+{83}×{84}：{85}%
+OpsEvents_Event_Desc_22221_001 = Você pode usar o spray de efeito para Holowear () quando tiver coletado todos os Holowear designados para cada Pokémon!
+OpsEvents_Event_Desc_22222_001 = Você não possui todos os Holowear designados.
+OpsEvents_Event_Desc_22223_001 = Possui
+OpsEvents_Event_Desc_22224_001 = Resgatável
+OpsEvents_Event_Desc_22225_001 = Obtenha o Holowear designado e receba pontos para desbloquear o sSpray de efeito para Holowear ()!
+OpsEvents_Event_Desc_22226_001 = Pontos: {0}
+OpsEvents_Event_Desc_22227_001 = O spray de efeito para Holowear () pode ser usado somente no Holowear designado.
+OpsEvents_Event_Desc_22228_001 = Você não tem uma licença Unite para esse Pokémon.
+OpsEvents_Event_Desc_22269_001 = Durante o evento, de 13/02/2025 às 07h UTC até 16/02/2025 às 23h59 UTC e ainda no sábado e domingo seguintes, as chances de obter Baús de Tesouro (Graus 3 e 4) serão muito maiores!
+OpsEvents_Event_Desc_22270_001 = Durante o evento, de 13/02/2025 às 07h UTC até 16/02/2025 às 23h59 UTC e ainda no sábado e domingo seguintes, as chances de obter Baús de Tesouro (Graus 3 e 4) serão muito maiores! As probabilidades de obter cada grau de baú serão de:
+Baú de Tesouro (Grau 1): {3}%
+Baú de Tesouro (Grau 2): {2}%
+Baú de Tesouro (Grau 3): {1}%
+Baú de Tesouro (Grau 4): {0}%
+Essas probabilidades são válidas apenas nos períodos indicados acima.
+OpsEvents_Event_Desc_22315_001 = 本イベントで獲得できるクーポンで下記のポケモンを購入する時、{0}%割引の価格で購入できます。
+{1}
+{2}
+{3}
+{4}
+{5}
+{6}
+{7}
+{8}
+{9}
+{10}
+{11}
+{12}
+{13}
+{14}
+{15}
+{16}
+{17}
+{18}
+{19}
+{20}
+{21}
+{22}
+{23}
+{24}
+{25}
+{26}
+{27}
+{28}
+{29}
+{30}
 OpsEvents_Event_Duration_11902_001 = Duração do evento: {0} – {1}
 OpsEvents_Event_Email_Content_10352_001 = Agradecemos sua participação no evento Dezenas de Vitórias.
 Você ainda tem alguns prêmios para receber. Solicite seus prêmios através dessa mensagem.
@@ -8264,7 +8379,7 @@ OpsEvents_Event_Name_21238_001 = Loja de ofertas de Ano-Novo
 OpsEvents_Event_Name_21525_001 = Bônus de gemas Aeos
 OpsEvents_Event_Name_21555_001 = Conjunto Elegante 3 (aluguel de {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
 OpsEvents_Event_Name_21555_Common_001 =  (aluguel de {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
-OpsEvents_Event_Name_21826_001 = Participate in a total of {0} Remoat ranked [Grm:Qty S="match" P="matches" Idx="0" ].
+OpsEvents_Event_Name_21826_001 = Participe de {0} [Grm:Qty S="partida ranqueada" P="partidas ranqueadas" Idx="0" ] no total no Estádio Mar Remoto.
 OpsEvents_Event_Notice_11514_001 = Disponível em {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
 OpsEvents_Event_Pkm_Desc_16305_001 = 遁影奇袭，察觉到的时候已经来不及了！
 OpsEvents_Event_Pkm_Desc_16373_001 = 遁影奇袭
@@ -8383,15 +8498,15 @@ OpsEvents_Event_Rule_19702_001 = Conclua missões do passe de evento para poder 
 OpsEvents_Event_Rule_19806_001 = 1. Você pode completar missões para coletar moedas comemorativas de .
 
 2. É possível coletar moedas comemorativas de  para resgatar recompensas com base no número de moedas que tiver obtido.
-OpsEvents_Event_Rule_22212_001 = 1. During the event, you can complete daily missions and challenge missions to obtain event pass points.
+OpsEvents_Event_Rule_22212_001 = 1. Durante o evento, você pode concluir missões diárias e missões de desafio para obter pontos do passe de evento.
 
-2. Once you obtain a certain amount of event pass points, you can obtain rewards based on the number of points you have earned. Rewards are divided into regular rewards and premium rewards. Premium rewards are obtainable after exchanging Aeos gems for a premium event pass.
+2. Assim que conseguir uma certa quantidade de pontos do passe de evento, você pode obter recompensas com base no número de pontos que conseguiu. As recompensas são divididas entre comuns e premium. Você pode obter as recompensas premium após trocar gemas Aeos por um passe de evento premium.
 
-3. You can exchange Aeos gems for event pass points.
+3. Você pode trocar gemas Aeos por pontos do passe de evento.
 
-4. Event pass points are only valid during this event period. Points cannot be carried over to the next mini event pass period.
+4. Os pontos do passe de evento são válidos apenas enquanto o evento durar. Não é possível transferir os pontos para o período do seguinte passe de minievento.
 
-5. Please note that there are event pass rewards that can only be received when an event pass is obtained in addition to exchanging Aeos gems for event pass points.
+5. Observe que algumas recompensas do passe de evento só podem ser recebidas quando um passe de evento for obtido junto com a troca de gemas Aeos por pontos do passe de evento.
 OpsEvents_Event_Rule_Btn_14992_001 = Regras
 OpsEvents_Event_Rule_Btn_14993_001 = Equipes
 OpsEvents_Event_Rule_Desc_18840_001 = Durante o período do evento, você pode obter {0} [Grm:Qty S="Bola" P="Bolas" Idx="0" ] de Festas todos os dias sem nenhum custo, até o máximo de {1} Bolas de Festas. Você pode usar as Bolas de Festas somente nas coleções designadas e no mesmo dia em que as obtiver, uma vez que elas serão zeradas no dia seguinte após obtê-las.
@@ -8551,8 +8666,8 @@ OpsEvents_Event_Rules_21810_Common_001 = Possua a licença Unite do  durante o e
 OpsEvents_Event_Rules_21820_001 = Participe de {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] nas quais Suicune faz parte de uma das equipes.
 OpsEvents_Event_Rules_21821_001 = Participe de {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] nas quais Tinkaton faz parte de uma das equipes.
 OpsEvents_Event_Rules_21822_001 = Participe de {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] nas quais Rapidash de Galar faz parte de uma das equipes.
-OpsEvents_Event_Rules_21833_001 = pt500のバトルに{0}回参加しよう
-OpsEvents_Event_Rules_21834_001 = pt500のバトルを{0}回勝利しよう
+OpsEvents_Event_Rules_21833_001 = Participe de {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] do Primeiro a Marcar 500
+OpsEvents_Event_Rules_21834_001 = Vença {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] do Primeiro a Marcar 500
 OpsEvents_Event_Rules_Desc_15007_001 = Você pode obter {0} [Grm:Qty S="ponto" P="pontos" Idx="0" ] por cada equipe nas três melhores posições que prever corretamente.
 OpsEvents_Event_Rules_Desc_15008_001 = Você pode obter {0} [Grm:Qty S="ponto" P="pontos" Idx="0" ] se fizer as previsões corretas de quais equipes forem as três melhores.
 OpsEvents_Event_Rules_Desc_15010_001 = Você pode obter {0} [Grm:Qty S="ponto" P="pontos" Idx="0" ] por cada previsão correta de equipe e posição.
@@ -8763,20 +8878,20 @@ OpsEvents_Event_Tab_21632_001 = Passe de evento de Rapidash de Galar
 OpsEvents_Event_Tab_21633_001 = Passe de evento de Rapidash de Galar
 OpsEvents_Event_Tab_21634_001 = Missões do Passe de Evento
 OpsEvents_Event_Tab_21634_Common_001 = Missões do Passe de Evento
-OpsEvents_Event_Tab_21823_001 = Remoat Stadium Returns!
-OpsEvents_Event_Tab_21824_001 = Remoat Challenge Event
-OpsEvents_Event_Tab_21825_001 = Remoat Challenge Missions
-OpsEvents_Event_Tab_21830_001 = pt500チャレンジイベント
-OpsEvents_Event_Tab_21831_001 = pt500チャレンジプレゼントボックス
-OpsEvents_Event_Tab_21837_001 = Pokémon Day commemoration! Discount Coupon Gift
-OpsEvents_Event_Tab_22175_001 = Evento Fairy-Tale
-OpsEvents_Event_Tab_22176_001 = Missões de Desafio Fairy-Tale 
-OpsEvents_Event_Tab_22177_001 = Troca de Fairy-Tale
-OpsEvents_Event_Tab_22178_001 = Troca de Fairy-Tale
-OpsEvents_Event_Tab_22179_001 = Moeda de Fairy-Tale
-OpsEvents_Event_Tab_22180_001 = É possível obter ao concluir Missões de Desafio Fairy-Tale e trocar por recompensas na Troca de Fairy-Tale.
-OpsEvents_Event_Tab_22181_001 = Moedas de Fairy-Tale insuficientes. Não é possível trocar.
-OpsEvents_Event_Tab_22182_001 = Trocar {0} [Grm:Qty S="moeda" P="moedas" Idx="0" ] de Fairy-Tale por {1}?
+OpsEvents_Event_Tab_21823_001 = O Estádio Mar Remoto está de volta!
+OpsEvents_Event_Tab_21824_001 = Evento Desafio Mar Remoto
+OpsEvents_Event_Tab_21825_001 = Missões do Desafio Mar Remoto
+OpsEvents_Event_Tab_21830_001 = Evento Desafio Primeiro a Marcar 500
+OpsEvents_Event_Tab_21831_001 = Caixa de Presente do Desafio Primeiro a Marcar 500
+OpsEvents_Event_Tab_21837_001 = Comemoração pelo Dia do Pokémon! Cupom Presente de desconto
+OpsEvents_Event_Tab_22175_001 = Evento Conto de Fadas
+OpsEvents_Event_Tab_22176_001 = Missões de Desafio Conto de Fadas 
+OpsEvents_Event_Tab_22177_001 = Troca de Conto de Fadas
+OpsEvents_Event_Tab_22178_001 = Troca de Conto de Fadas
+OpsEvents_Event_Tab_22179_001 = Moeda de Conto de Fadas
+OpsEvents_Event_Tab_22180_001 = É possível obter ao concluir Missões de Desafio Conto de Fadas e trocar por recompensas na Troca de Conto de Fadas.
+OpsEvents_Event_Tab_22181_001 = Moedas de Conto de Fadas insuficientes. Não é possível trocar.
+OpsEvents_Event_Tab_22182_001 = Trocar {0} [Grm:Qty S="moeda" P="moedas" Idx="0" ] de Conto de Fadas por {1}?
 OpsEvents_Event_Tab_Name_18247_001 = Você pode obter Holowear de luxo!
 OpsEvents_Event_Tab_Name_18843_001 = Desafio Solo
 OpsEvents_Event_Tab_Name_18913_001 = Evento do Mágico
@@ -8792,6 +8907,7 @@ OpsEvents_Event_TabName_21011_001 = Prévia de movimento de Darkrai
 OpsEvents_Event_TabName_21046_001 = Prévia de movimento de Psyduck
 OpsEvents_Event_TabName_21378_001 = Prévia de movimento de Tinkaton
 OpsEvents_Event_TabName_21630_001 = Prévia de movimento de Rapidash de Galar
+OpsEvents_Event_TabName_22266_001 = Prévia de movimento de Suicune
 OpsEvents_Event_Task_19299_001 = Compre qualquer quantidade de gemas Aeos {0} [Grm:Qty S="vez" P="vezes" Idx="0" ]
 OpsEvents_Event_Task_19549_001 = Derrote  {0} [Grm:Qty S="vez" P="vezes" Idx="0" ] na Batalha Explosiva! Confronto Dracônico
 OpsEvents_Event_Task_19550_001 = Derrote Regidrago {0} [Grm:Qty S="vez" P="vezes" Idx="0" ] na Batalha Explosiva! Confronto Dracônico
@@ -9087,6 +9203,7 @@ OpsEvents_Event_Tips_21234_001 = O evento começa em
 OpsEvents_Event_Tips_21436_001 = Copa Zapdos — Passe premium do torneio
 
 OpsEvents_Event_Tips_21582_001 = Evento especial de Psyduck
+OpsEvents_Event_Tips_22353_001 = Bônus de Troca Antecipada de Rapidash de Galar
 OpsEvents_Event_Tips_Desc_11452_001 = Insira o código de convite
 OpsEvents_Event_Title_10211_001 = Chegou o lutador!
 OpsEvents_Event_Title_10212_001 = Treinamento de luta
@@ -9481,7 +9598,7 @@ OpsEvents_Event_Title_21149_001 = Obtenha {0} [Grm:Qty S="moeda" P="moedas" Idx=
 OpsEvents_Event_Title_21149_Common_001 = Obtenha {0} [Grm:Qty S="moeda" P="moedas" Idx="0" ] de Às Margens do Pesadelo
 OpsEvents_Event_Title_21194_001 = Comemoração de Festas! Cupom de desconto de presente
 OpsEvents_Event_Title_21195_001 = Ajustes no equilíbrio serão feitos em {1}/{0}
-OpsEvents_Event_Title_21195_002 = Ajustes no equilíbrio serão feitos em {1}/{0}
+OpsEvents_Event_Title_21195_002 = Ajustes no equilíbrio serão feitos em {1:D2}/{0:D2}
 OpsEvents_Event_Title_21197_001 = Durante o evento, você vai ganhar uma recompensa especial se possuir a licença Unite de Tinkaton!
 OpsEvents_Event_Title_21197_Common_001 = Durante o evento, você vai ganhar uma recompensa especial se possuir a licença Unite de !
 OpsEvents_Event_Title_21199_001 = Evento Comemorativo de Tinkaton
@@ -9567,20 +9684,39 @@ OpsEvents_Event_Title_21814_001 = Fluxo Glacial — Bônus de Login de Suporte
 OpsEvents_Event_Title_21815_001 = Desafio Coleta de Moedas do Fluxo Glacial
 OpsEvents_Event_Title_21816_001 = Tente coletar moedas do fluxo glacial!
 OpsEvents_Event_Title_21817_001 = Obtenha {0} [Grm:Qty S="moeda" P="moedas" Idx="0" ] do fluxo glacial
-OpsEvents_Event_Title_21819_001 = You can participate in ’s Glacial Stream Challenge to obtain ’s Unite license and other rewards!
-OpsEvents_Event_Title_21832_001 = エナジーを集めてプレゼントボックスを開けよう！
-OpsEvents_Event_Title_21838_001 = Pokémon Day commemoration! You can use coupons to obtain items at a discount!
+OpsEvents_Event_Title_21819_001 = Você pode participar do Desafio Fluxo Glacial do  para obter a licença Unite do  e outras recompensas!
+OpsEvents_Event_Title_21832_001 = Você pode coletar energia de caixa de presente para abrir caixas de presente!
+OpsEvents_Event_Title_21838_001 = Comemoração pelo Dia do Pokémon! Você pode usar cupons para obter itens com desconto!
 OpsEvents_Event_Title_22021_001 = Durante o evento, se possuir uma licença Unite de Rapidash de Galar, você ganhará uma recompensa especial!
 OpsEvents_Event_Title_22021_Common_001 = Durante o evento, se possuir uma licença Unite de , você ganhará uma recompensa especial!
 OpsEvents_Event_Title_22031_001 = Você pode participar do Desafio do Chefão para obter recompensas fabulosas!
 OpsEvents_Event_Title_22056_001 = Coleção Inteleon: Estilo Ladrão Fantasma
 OpsEvents_Event_Title_22057_001 = A Coleção Inteleon: Estilo Ladrão Fantasma já está disponível! Você pode ganhar prêmios fabulosos na Máquina de Prêmios!
-OpsEvents_Event_Title_22174_001 = Fairy-Tale
-OpsEvents_Event_Title_22218_001 = Holowear Effect Spray ()
-OpsEvents_Event_Title_22219_001 = Completion Bonus
-OpsEvents_Event_Title_22220_001 = Dark Theme
-OpsEvents_Event_Title_22247_001 = 3月1日と2日は「ポケモンユナイトの日」！
-OpsEvents_Event_Title_22248_001 = 4月5日と6日は「ポケモンユナイトの日」！
+OpsEvents_Event_Title_22174_001 = Conto de Fadas
+OpsEvents_Event_Title_22218_001 = Spray de efeito para Holowear ()
+OpsEvents_Event_Title_22219_001 = Bônus de conclusão
+OpsEvents_Event_Title_22220_001 = Tema das Sombras
+OpsEvents_Event_Title_22247_001 = De 01/03/2025 a 02/03/2025 é o Fim de Semana Pokémon UNITE!
+OpsEvents_Event_Title_22248_001 = De 05/04/2025 a 06/04/2025 é o Fim de Semana Pokémon UNITE!
+OpsEvents_Event_Title_22265_001 = Suicune está chegando à Ilha de Aeos!
+OpsEvents_Event_Title_22267_001 = Suicune está indo para a Ilha de Aeos!
+OpsEvents_Event_Title_22278_001 = Cupons de desconto no passe premium já disponíveis!
+Eles serão enviados por correio aos Treinadores que tenham obtido um passe de batalha da Temporada 28! 
+OpsEvents_Event_Title_22340_001 = Caixa de Presente Batalha Furiosa
+OpsEvents_Event_Title_22341_001 = Caixa de Presente Batalha Furiosa
+OpsEvents_Event_Title_22344_001 = みやびスタイル
+コレクション
+OpsEvents_Event_Title_22345_001 = みやびスタイルコレクション特別開催！
+豪華な賞品を手に入れよう！
+OpsEvents_Event_Title_22347_001 = しばいスタイル
+コレクション
+OpsEvents_Event_Title_22348_001 = しばいスタイルコレクション特別開催！
+豪華な賞品を手に入れよう！
+OpsEvents_Event_Title_22350_001 = バンドスタイル
+コレクション
+OpsEvents_Event_Title_22351_001 = バンドスタイルコレクション特別開催！
+豪華な賞品を手に入れよう！
+OpsEvents_Event_Title_22362_001 = Spray de efeito para Holowear (Tema das Sombras)
 OpsEvents_Event_Titles_20365_001 = 3º Aniversário - Presente especial
 OpsEvents_Event_Titles_20371_001 = Começou o CMP 2024!
 OpsEvents_Event_Unlock_Tips_16993_001 = 任务将于第{0}天解锁
@@ -9672,8 +9808,8 @@ OpsEvents_Friends_Invite_Rules_13927_001 = 1. Quando o Nível de Treinador chega
 3. Quando um Treinador usa um código de convite enviado a ele, o Treinador que enviou o convite recebe um presente (os Treinadores podem obter até {4} [Grm:Qty S="presente" P="presentes" Idx="4" ]). Quando um Treinador convidado conclui suas missões, o Treinador que o convidou recebe emblemas de bronze de Mew (os Treinadores podem conseguir até {5} [Grm:Qty S="emblema" P="emblemas" Idx="5" ] de bronze de Mew).
 
 4. Os Treinadores com contas de convidado também podem usar códigos de convite enviados por outros, mas eles não vão contar para o progresso das missões a convite do amigo.
-OpsEvents_GemSales_Tab_21794_001 = 「ポケモンユナイトの日」ジェムスペシャルセール
-OpsEvents_GemSales_Title_21795_001 = お得なジェム商品販売中！
+OpsEvents_GemSales_Tab_21794_001 = Fim de Semana Pokémon UNITE - Promoção especial de gemas Aeos
+OpsEvents_GemSales_Title_21795_001 = Gemas Aeos em promoção!
 OpsEvents_Gfit_Tips_12840_001 = Não é possível mandar presentes porque a versão de jogo do seu amigo está desatualizada.
 OpsEvents_Gift_Give_Btn_12979_001 = Presente
 OpsEvents_Giftbox_Tips_6237_001 = Escolha seu presente.
@@ -9814,14 +9950,16 @@ Estilo Andarilho: Garchomp
 Estilo Dama: Comfey
 Estilo Marinho: Dragonite
 OpsEvents_Item_Decs_21603_001 = Efeito de movimento
-OpsEvents_Item_Decs_21828_001 = Can be obtained by completing Remoat Challenge Event.
-OpsEvents_Item_Decs_21836_001 = pt500チャレンジイベントのミッションをクリアすることで獲得できます。
+OpsEvents_Item_Decs_21828_001 = Você pode obter ao concluir o Evento Desafio Mar Remoto.
+OpsEvents_Item_Decs_21836_001 = Você pode obter ao concluir missões do Evento Desafio Primeiro a Marcar 500
 OpsEvents_Item_Decs_22032_001 = Selecione a licença Unite que preferir como recompensa.
 OpsEvents_Item_Decs_22033_001 = Selecione o Holowear que preferir como recompensa.
 OpsEvents_Item_Decs_22034_001 = Selecione o item fashion de Treinador que preferir como recompensa.
 OpsEvents_Item_Decs_22035_001 = Selecione o item que preferir como recompensa.
-OpsEvents_Item_Decs_22042_001 = Você tem {0}% de desconto ao trocar gemas Aeos por um passe premium e pode usar apenas este cupom no passe premium da Temporada {1}.
-Quando esse item expirar ele será convertido em 100 cupons Aeos, a serem enviados para o seu correio.
+OpsEvents_Item_Decs_22042_001 = Você pode receber um desconto de {0}% ao trocar gemas Aeos pelo passe premium e {1}% de desconto ao trocar gemas por um passe premium plus. Este cupom só pode ser usado no passe premium da Temporada {2}.
+Após este cupom expirar, ele será convertido em 100 cupons Aeos, que serão enviados para o seu correio.
+OpsEvents_Item_Decs_22042_002 = Você pode receber um desconto de {0}% ao trocar gemas Aeos pelo passe premium e {1}% de desconto ao trocar gemas por um passe premium plus. Este cupom só pode ser usado no passe premium da Temporada {2}.
+Após este cupom expirar, ele será convertido em 100 cupons Aeos, que serão enviados para o seu correio.
 OpsEvents_Item_Decs_22046_001 = Você pode obter este Holowear como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
 OpsEvents_Item_Desc_10223_001 = Você pode juntar pontos para ganhar recompensas!
 OpsEvents_Item_Desc_10306_001 = Permite obter {0} [Grm:Qty S="item" P="itens" Idx="0" ] de Holowear da caixa à sua escolha.
@@ -10110,10 +10248,15 @@ OpsEvents_Item_Desc_22165_001 = Você pode obter Sableye: Estilo Nobre como alug
 OpsEvents_Item_Desc_22166_001 = Você pode obter Comfey: Estilo Mercador como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
 OpsEvents_Item_Desc_22167_001 = Você pode obter Lapras: Estilo Quentinho como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
 OpsEvents_Item_Desc_22168_001 = Você pode obter Tinkaton: Estilo Festas como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
-OpsEvents_Item_Desc_22205_001 = Cannot be used on this Holowear.
-OpsEvents_Item_Desc_22206_001 = You do not own this Holowear effect spray.
-OpsEvents_Item_Desc_22207_001 = There are no rewards to claim.
+OpsEvents_Item_Desc_22205_001 = Não é possível usar com este Holowear.
+OpsEvents_Item_Desc_22206_001 = Você não possui este spray de efeito para Holowear.
+OpsEvents_Item_Desc_22207_001 = Não há recompensas para resgatar.
 OpsEvents_Item_Desc_22230_001 = Você pode obter Pikachu: Estilo Turista como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
+OpsEvents_Item_Desc_22288_001 = Você pode obter Rapidash de Galar: Estilo Sagrado como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
+OpsEvents_Item_Desc_22312_001 = ジェムを使ってユナイトライセンスを購入するとき、{0}%割引の価格で購入できます。
+1商品につき、1枚だけ使えます。
+期限切れ後は{1}エオスチケットに変換されてメールで送られます。
+OpsEvents_Item_Desc_22360_001 = Você pode obter Ceruledge: Estilo Neo-Street como aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ].
 OpsEvents_Item_Desc_7330_001 = Colete corações e troque-os por itens.
 OpsEvents_Item_Desc_7334_001 = Colete distintivos de prata e troque-os por itens.
 OpsEvents_Item_Desc_7336_001 = Colete distintivos de ouro e troque-os por itens.
@@ -10356,6 +10499,7 @@ OpsEvents_Item_Name_17495_001 = Cinderace: Estilo Smoking (aluguel de Holowear p
 OpsEvents_Item_Name_17496_001 = Charizard: Estilo Capitão (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
 OpsEvents_Item_Name_17736_001 = Cor de cabelo (azul-claro)
 OpsEvents_Item_Name_17737_001 = Lentes de contato coloridas (roxo-claro)
+OpsEvents_Item_Name_17737_002 = Lentes de contato coloridas (roxo-claro)
 OpsEvents_Item_Name_17789_001 = 持有物自选箱
 OpsEvents_Item_Name_17825_001 = 牵绊值加速卡（{0}天）
 OpsEvents_Item_Name_17837_001 = Dado
@@ -10573,7 +10717,7 @@ OpsEvents_Item_Name_21100_001 = Lentes de contato coloridas (floral)
 OpsEvents_Item_Name_21100_002 = Lentes de contato coloridas (laranja-escuro)
 OpsEvents_Item_Name_21127_001 = Moeda especial da primeira recarga
 OpsEvents_Item_Name_21127_Common_001 = Moeda especial da primeira recarga
-OpsEvents_Item_Name_21127_Common_002 = Moeda especial da primeira recarga
+OpsEvents_Item_Name_21127_Common_002 = Moeda especial bônus de gemas Aeos
 OpsEvents_Item_Name_21128_001 = Moeda Misteriosa
 OpsEvents_Item_Name_21152_001 = Armarouge: Estilo Nobre (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
 OpsEvents_Item_Name_21154_001 = Blastoise: Estilo Bombeiro (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
@@ -10596,8 +10740,8 @@ OpsEvents_Item_Name_21601_001 = Pacote de presente aleatório {0}
 OpsEvents_Item_Name_21625_001 = Moeda comemorativa de Rapidash de Galar
 OpsEvents_Item_Name_21656_001 = Lentes de contato coloridas (lilás)
 OpsEvents_Item_Name_21657_001 = Cor de cabelo (vermelhão)
-OpsEvents_Item_Name_21680_001 = Miraidon: Estilo Neo-Street (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
-OpsEvents_Item_Name_21681_001 = Blastoise: Estilo Ano-novo (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
+OpsEvents_Item_Name_21680_001 = Miraidon: Estilo Bronze (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
+OpsEvents_Item_Name_21681_001 = Blastoise: Estilo Ano-Novo (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
 OpsEvents_Item_Name_21686_001 = Adesivo (Conjunto Celestial)
 OpsEvents_Item_Name_21687_001 = Moldura (Conjunto Celestial)
 OpsEvents_Item_Name_21688_001 = Plano de fundo (Conjunto Celestial)
@@ -10605,18 +10749,18 @@ OpsEvents_Item_Name_21689_001 = Plano de fundo (Conjunto Celestial) 2
 OpsEvents_Item_Name_21690_001 = Plano de fundo (Estilo Bronze)
 OpsEvents_Item_Name_21691_001 = Moldura (Estilo Bronze)
 OpsEvents_Item_Name_21692_001 = Adesivo (Estilo Bronze)
-OpsEvents_Item_Name_21693_001 = Plano de fundo (Estilo Ano-novo) 2
-OpsEvents_Item_Name_21694_001 = Moldura (Estio Ano-novo) 2
-OpsEvents_Item_Name_21695_001 = Plano de fundo (Estilo Ano-novo)
-OpsEvents_Item_Name_21696_001 = Moldura (Estilo Ano-novo)
-OpsEvents_Item_Name_21697_001 = Adesivo (Estilo Ano-novo)
+OpsEvents_Item_Name_21693_001 = Plano de fundo (Estilo Ano-Novo) 2
+OpsEvents_Item_Name_21694_001 = Moldura (Estilo Ano-Novo) 2
+OpsEvents_Item_Name_21695_001 = Plano de fundo (Estilo Ano-Novo)
+OpsEvents_Item_Name_21696_001 = Moldura (Estilo Ano-Novo)
+OpsEvents_Item_Name_21697_001 = Adesivo (Estilo Ano-Novo)
 OpsEvents_Item_Name_21791_001 = Moldura (Temporada 26)
 OpsEvents_Item_Name_21792_001 = Plano de fundo (Temporada 26)
 OpsEvents_Item_Name_21793_001 = Adesivo (Temporada 26)
 OpsEvents_Item_Name_21800_001 = Moeda do Fluxo Glacial
 OpsEvents_Item_Name_21800_Common_001 = Moeda do Fluxo Glacial
-OpsEvents_Item_Name_21827_001 = Remoat Coin
-OpsEvents_Item_Name_21835_001 = サプライズプレゼントボックス
+OpsEvents_Item_Name_21827_001 = Moeda do Mar Remoto
+OpsEvents_Item_Name_21835_001 = Energia de caixa de presente
 OpsEvents_Item_Name_22022_001 = Adesivo (VIP)
 OpsEvents_Item_Name_22023_001 = Adesivo (VIP) 2
 OpsEvents_Item_Name_22024_001 = Moldura (VIP)
@@ -10675,13 +10819,18 @@ OpsEvents_Item_Name_22121_001 = Sableye: Estilo Nobre (aluguel de Holowear por {
 OpsEvents_Item_Name_22122_001 = Comfey: Estilo Mercador (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
 OpsEvents_Item_Name_22123_001 = Lapras: Estilo Quentinho (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
 OpsEvents_Item_Name_22124_001 = Tinkaton: Estilo Festas (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
-OpsEvents_Item_Name_22192_001 = Frame (Season 27)
-OpsEvents_Item_Name_22193_001 = Background (Season 27)
-OpsEvents_Item_Name_22194_001 = Sticker (Season 27)
-OpsEvents_Item_Name_22202_001 = Spray de efeito para Holowear (Unite) por {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
-OpsEvents_Item_Name_22203_001 = Spray de efeito para Holowear (Unite)
-OpsEvents_Item_Name_22204_001 = Unite
+OpsEvents_Item_Name_22192_001 = Moldura (Temporada 27)
+OpsEvents_Item_Name_22193_001 = Plano de Fundo (Temporada 27)
+OpsEvents_Item_Name_22194_001 = Adesivo (Temporada 27)
+OpsEvents_Item_Name_22202_001 = Spray de efeito para Holowear (UNITE) por {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
+OpsEvents_Item_Name_22203_001 = Spray de efeito para Holowear (UNITE)
+OpsEvents_Item_Name_22204_001 = UNITE
 OpsEvents_Item_Name_22229_001 = Pikachu: Estilo Turista (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
+OpsEvents_Item_Name_22276_001 = Blastoise: Estilo Festival de Ano Novo (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
+OpsEvents_Item_Name_22287_001 = Rapidash de Galar: Estilo Sagrado (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
+OpsEvents_Item_Name_22311_001 = 特定ユナイトライセンスクーポン
+OpsEvents_Item_Name_22321_001 = Plano de fundo (Suicune)
+OpsEvents_Item_Name_22359_001 = Ceruledge: Estilo Neo-Street (aluguel de Holowear por {0} [Grm:Qty S="dia" P="dias" Idx="0" ])
 OpsEvents_Item_Name_5499_001 = Festa à Fantasia de Holowear!
 OpsEvents_Item_Name_5500_001 = Moda Doces ou Travessuras
 OpsEvents_Item_Name_7071_001 = Donut
@@ -11220,31 +11369,32 @@ Melhorador de Item ×{10}: {11}%
 Cupom Aeos ×{12}: {13}%
 Caixa de emblema prata ×{14}: {15}%
 OpsEvents_Rule_Decs_21683_001 = Já começou o Desafio Baú de Tesouro!
-Você pode abrir os baús de tesouro que tenha obtido para receber recompensas aleatórias! Ao abrir baús de tesouro você obtém cupons de troca do tesouro, que pode trocar por determinados itens!
-(Assim que o Desafio Baú de Tesouro terminar, você não poderá mais usar os cupons de troca do tesouro. Eles serão convertidos automaticamente em 10 cupons Aeos).
+Você pode abrir seus Baús de Tesouro para receber recompensas aleatórias! É possível fazer a troca por determinados itens com Cupons de Troca de Tesouro, disponíveis ao abrir Baús de Tesouro!
+(Assim que o Desafio Baú de Tesouro terminar, você não poderá mais usar os Cupons de Troca de Tesouro. Eles serão convertidos automaticamente em 10 cupons Aeos).
 
-Para conseguir baús de tesouro
-É possível obter {0} [Grm:Qty S="baú" P="baús" Idx="0" ] de tesouro ao fazer login todos os dias e {2} [Grm:Qty S="baú" P="baús" Idx="2" ] de tesouro ao participar de {1} [Grm:Qty S="batalha" P="batalhas" Idx="1" ]. Você pode ter até {3} [Grm:Qty S="baú" P="baús" Idx="3" ] de tesouro de uma vez.
+Como conseguir Baús de Tesouro
+É possível obter {0} [Grm:Qty S="Baú" P="Baús" Idx="0" ] de Tesouro ao iniciar uma sessão todos os dias e {2} [Grm:Qty S="Baú" P="Baús" Idx="2" ] de Tesouro ao participar de {1} [Grm:Qty S="batalha" P="batalhas" Idx="1" ]. Você pode ter até {3} [Grm:Qty S="Baú" P="Baús" Idx="3" ] de Tesouro de uma vez.
 
-Taxas de obtenção de baús de tesouro
-Há diferentes probabilidades de obter cada tipo de baú de tesouro. Ao obter um baú, você pode obter um dos quatro tipos a seguir:
+Taxas de obtenção de Baús de Tesouro
+A probabilidade de obter cada tipo de Baú de Tesouro é diferente.
 Baú de Tesouro (Grau 4): {4}%
 Baú de Tesouro (Grau 3): {5}%
 Baú de Tesouro (Grau 2): {6}%
 Baú de Tesouro (Grau 1): {7}%
 
-Melhoria dos baús de tesouro
-Você pode usar cartas de melhoria para melhorar os baús de tesouro. Os baús melhorados sobem um grau.
+Melhoria dos Baús de Tesouro
+Para melhorar os Baús de Tesouro, você pode usar cartas de melhoria. Baús de Tesouro melhorados ficarão com um grau mais alto.
 
-Desbloqueio dos baús de tesouro
-Os baús de tesouro serão desbloqueados automaticamente após um determinado período. É possível desbloquear apenas um baú de cada vez. O tempo necessário para desbloquear um baú de tesouro varia de acordo com o grau dele. Os baús de tesouro podem ser desbloqueados apenas um após o outro. Você pode usar gemas Aeos para encurtar o tempo necessário para desbloquear um baú de tesouro.
-O tempo necessário para desbloquear cada tipo de baú é:
+Desbloqueio dos Baús de Tesouro
+Os Baús de Tesouro serão desbloqueados automaticamente após um determinado período. É possível desbloquear apenas um baú por vez. O tempo necessário para desbloquear um Baú de Tesouro varia de acordo com o grau. Os Baús de Tesouro só podem ser desbloqueados em ordem.
+Você pode usar gemas Aeos para reduzir o tempo necessário para desbloquear um Baú de Tesouro.
+O tempo necessário para desbloquear cada tipo de Baú de Tesouro é:
 Baú de Tesouro (Grau 4): {11} [Grm:Qty S="hora" P="horas" Idx="11" ]
 Baú de Tesouro (Grau 3): {10} [Grm:Qty S="hora" P="horas" Idx="10" ]
 Baú de Tesouro (Grau 2): {9} [Grm:Qty S="hora" P="horas" Idx="9" ]
 Baú de Tesouro (Grau 1): {8} [Grm:Qty S="hora" P="horas" Idx="8" ]
 
-Recompensas dos baús de tesouro
+Recompensas dos Baús de Tesouro
 Baú de Tesouro (Grau 4)
 Recompensa garantida: {12} ×{13}
 {14} ×{15}: {16}%
@@ -11261,52 +11411,46 @@ Recompensa garantida: {12} ×{13}
 {47} ×{48}: {49}%
 {50} ×{51}: {52}%
 
-Se os baús de tesouro (Grau 4) tiverem sido abertos {53} vezes no total e o jogador não tiver conseguido {54}, as recompensas e as chances de conseguir cada recompensa ao abrir um baú de tesouro (Grau 4) vão mudar.
-Recompensa garantida: {55} ×{56}
-{57} ×{58}: {59}%
+Se os baús de tesouro (Grau 4) tiverem sido abertos {53} vezes no total e o jogador não tiver conseguido {54}, as recompensas e as chances de conseguir cada recompensa ao abrir um Baú de Tesouro (Grau 4) mudarão.
+{55} ×{56}: {57}%
+
+Baú de Tesouro (Grau 3)
+Recompensa garantida: {58} ×{59}
 {60} ×{61}: {62}%
 {63} ×{64}: {65}%
 {66} ×{67}: {68}%
 {69} ×{70}: {71}%
-Assim que você conseguir {72}, as recompensas e as chances de obter cada recompensa vão voltar ao normal.
-
-Baú de Tesouro (Grau 3)
-Recompensa garantida: {73} ×{74}
+{72} ×{73}: {74}%
 {75} ×{76}: {77}%
 {78} ×{79}: {80}%
 {81} ×{82}: {83}%
 {84} ×{85}: {86}%
 {87} ×{88}: {89}%
-{90} ×{91}: {92}%
-{93} ×{94}: {95}%
-{96} ×{97}: {98}%
-{99} ×{100}: {101}%
-{102} ×{103}: {104}%
 
 Baú de Tesouro (Grau 2)
-Recompensa garantida: {105} ×{106}
+Recompensa garantida: {90} ×{91}
+{92} ×{93}: {94}%
+{95} ×{96}: {97}%
+{98} ×{99}: {100}%
+{101} ×{102}: {103}%
+{104} ×{105}: {106}%
 {107} ×{108}: {109}%
 {110} ×{111}: {112}%
 {113} ×{114}: {115}%
-{116} ×{117}: {118}%
-{119} ×{120}: {121}%
-{122} ×{123}: {124}%
-{125} ×{126}: {127}%
-{128} ×{129}: {130}%
 
 Baú de Tesouro (Grau 1)
-Recompensa garantida: {131} ×{132}
-{133} ×{134}: {135}%
-{136} ×{137}: {138}%
-{139} ×{140}: {141}%
-{142} ×{143}: {144}%
-{145} ×{146}: {147}%
+Recompensa garantida: {116} ×{117}
+{118} ×{119}: {120}%
+{121} ×{122}: {123}%
+{124} ×{125}: {126}%
+{127} ×{128}: {129}%
+{130} ×{131}: {132}%
 OpsEvents_Rule_Decs_21684_001 = Começou o Evento Picolé da Sorte!
 Conclua missões específicas durante o evento para obter uma certa quantidade de Picolés da Sorte. Você pode comer os Picolés da Sorte para obter recompensas aleatórias. Recompensas adicionais estarão disponíveis com base na quantidade de recompensas já recebidas.
 (Os Picolés da Sorte não serão perdidos após o evento terminar e podem ser usados no evento seguinte.)
 
 Taxas de oferta das recompensas:
-Conjunto Celestial () ×{0}: {1}%
+Conjunto Celestial ×{0}: {1}%
 Conjunto Celestial: lentes de contato coloridas ×{2}: {3}%
 Moeda Aeos ×{4}: {5}%
 Melhorador de Item ×{6}: {7}%
@@ -11315,31 +11459,32 @@ Melhorador de Item ×{10}: {11}%
 Cupom Aeos ×{12}: {13}%
 Caixa de emblema prata ×{14}: {15}%
 OpsEvents_Rule_Decs_21685_001 = Já começou o Desafio Baú de Tesouro!
-Você pode abrir os baús de tesouro que tenha obtido para receber recompensas aleatórias! Ao abrir baús de tesouro você obtém cupons de troca do tesouro, que pode trocar por determinados itens!
-(Assim que o Desafio Baú de Tesouro terminar, você não poderá mais usar os cupons de troca do tesouro. Eles serão convertidos automaticamente em 10 cupons Aeos).
+Você pode abrir seus Baús de Tesouro para receber recompensas aleatórias! É possível fazer a troca por determinados itens com Cupons de Troca de Tesouro, disponíveis ao abrir Baús de Tesouro!
+(Assim que o Desafio Baú de Tesouro terminar, você não poderá mais usar os Cupons de Troca de Tesouro. Eles serão convertidos automaticamente em 10 cupons Aeos).
 
-Para conseguir baús de tesouro
-É possível obter {0} [Grm:Qty S="baú" P="baús" Idx="0" ] de tesouro ao fazer login todos os dias e {2} [Grm:Qty S="baú" P="baús" Idx="2" ] de tesouro ao participar de {1} [Grm:Qty S="batalha" P="batalhas" Idx="1" ]. Você pode ter até {3} [Grm:Qty S="baú" P="baús" Idx="3" ] de tesouro de uma vez.
+Como conseguir Baús de Tesouro
+É possível obter {0} [Grm:Qty S="Baú" P="Baús" Idx="0" ] de Tesouro ao iniciar uma sessão todos os dias e {2} [Grm:Qty S="Baú" P="Baús" Idx="2" ] de Tesouro ao participar de {1} [Grm:Qty S="batalha" P="batalhas" Idx="1" ]. Você pode ter até {3} [Grm:Qty S="Baú" P="Baús" Idx="3" ] de Tesouro de uma vez.
 
-Taxas de obtenção de baús de tesouro
-Há diferentes probabilidades de obter cada tipo de baú de tesouro. Ao obter um baú, você pode obter um dos quatro tipos a seguir:
+Taxas de obtenção de Baús de Tesouro
+A probabilidade de obter cada tipo de Baú de Tesouro é diferente.
 Baú de Tesouro (Grau 4): {4}%
 Baú de Tesouro (Grau 3): {5}%
 Baú de Tesouro (Grau 2): {6}%
 Baú de Tesouro (Grau 1): {7}%
 
-Melhoria dos baús de tesouro
-Você pode usar cartas de melhoria para melhorar os baús de tesouro. Os baús melhorados sobem um grau.
+Melhoria dos Baús de Tesouro
+Para melhorar os Baús de Tesouro, você pode usar cartas de melhoria. Baús de Tesouro melhorados ficarão com um grau mais alto.
 
-Desbloqueio dos baús de tesouro
-Os baús de tesouro serão desbloqueados automaticamente após um determinado período. É possível desbloquear apenas um baú de cada vez. O tempo necessário para desbloquear um baú de tesouro varia de acordo com o grau dele. Os baús de tesouro podem ser desbloqueados apenas um após o outro. Você pode usar gemas Aeos para encurtar o tempo necessário para desbloquear um baú de tesouro.
-O tempo necessário para desbloquear cada tipo de baú é:
+Desbloqueio dos Baús de Tesouro
+Os Baús de Tesouro serão desbloqueados automaticamente após um determinado período. É possível desbloquear apenas um baú por vez. O tempo necessário para desbloquear um Baú de Tesouro varia de acordo com o grau. Os Baús de Tesouro só podem ser desbloqueados em ordem.
+Você pode usar gemas Aeos para reduzir o tempo necessário para desbloquear um Baú de Tesouro.
+O tempo necessário para desbloquear cada tipo de Baú de Tesouro é:
 Baú de Tesouro (Grau 4): {11} [Grm:Qty S="hora" P="horas" Idx="11" ]
 Baú de Tesouro (Grau 3): {10} [Grm:Qty S="hora" P="horas" Idx="10" ]
 Baú de Tesouro (Grau 2): {9} [Grm:Qty S="hora" P="horas" Idx="9" ]
 Baú de Tesouro (Grau 1): {8} [Grm:Qty S="hora" P="horas" Idx="8" ]
 
-Recompensas dos baús de tesouro
+Recompensas dos Baús de Tesouro
 Baú de Tesouro (Grau 4)
 Recompensa garantida: {12} ×{13}
 {14} ×{15}: {16}%
@@ -11356,46 +11501,40 @@ Recompensa garantida: {12} ×{13}
 {47} ×{48}: {49}%
 {50} ×{51}: {52}%
 
-Se os baús de tesouro (Grau 4) tiverem sido abertos {53} vezes no total e o jogador não tiver conseguido {54}, as recompensas e as chances de conseguir cada recompensa ao abrir um baú de tesouro (Grau 4) vão mudar.
-Recompensa garantida: {55} ×{56}
-{57} ×{58}: {59}%
+Se os baús de tesouro (Grau 4) tiverem sido abertos {53} vezes no total e o jogador não tiver conseguido {54}, as recompensas e as chances de conseguir cada recompensa ao abrir um Baú de Tesouro (Grau 4) mudarão.
+{55} ×{56}: {57}%
+
+Baú de Tesouro (Grau 3)
+Recompensa garantida: {58} ×{59}
 {60} ×{61}: {62}%
 {63} ×{64}: {65}%
 {66} ×{67}: {68}%
 {69} ×{70}: {71}%
-Assim que você conseguir {72}, as recompensas e as chances de obter cada recompensa vão voltar ao normal.
-
-Baú de Tesouro (Grau 3)
-Recompensa garantida: {73} ×{74}
+{72} ×{73}: {74}%
 {75} ×{76}: {77}%
 {78} ×{79}: {80}%
 {81} ×{82}: {83}%
 {84} ×{85}: {86}%
 {87} ×{88}: {89}%
-{90} ×{91}: {92}%
-{93} ×{94}: {95}%
-{96} ×{97}: {98}%
-{99} ×{100}: {101}%
-{102} ×{103}: {104}%
 
 Baú de Tesouro (Grau 2)
-Recompensa garantida: {105} ×{106}
+Recompensa garantida: {90} ×{91}
+{92} ×{93}: {94}%
+{95} ×{96}: {97}%
+{98} ×{99}: {100}%
+{101} ×{102}: {103}%
+{104} ×{105}: {106}%
 {107} ×{108}: {109}%
 {110} ×{111}: {112}%
 {113} ×{114}: {115}%
-{116} ×{117}: {118}%
-{119} ×{120}: {121}%
-{122} ×{123}: {124}%
-{125} ×{126}: {127}%
-{128} ×{129}: {130}%
 
 Baú de Tesouro (Grau 1)
-Recompensa garantida: {131} ×{132}
-{133} ×{134}: {135}%
-{136} ×{137}: {138}%
-{139} ×{140}: {141}%
-{142} ×{143}: {144}%
-{145} ×{146}: {147}%
+Recompensa garantida: {116} ×{117}
+{118} ×{119}: {120}%
+{121} ×{122}: {123}%
+{124} ×{125}: {126}%
+{127} ×{128}: {129}%
+{130} ×{131}: {132}%
 OpsEvents_Season_Desc_14457_001 = Fase {0}
 OpsEvents_Share_Slogan_6229_001 = Colete flocos de neve para completar a foto!
 OpsEvents_Shop_Btn_13170_001 = Conferir oferta especial
@@ -11500,6 +11639,19 @@ OpsEvents_SpecialEvent_Title_9292_001 = Missão diária: Pokébuki
 OpsEvents_SpecialEvent_Title_9298_001 = Presente semanal
 OpsEvents_SpecialEvent_Title_9299_001 = Presente diário
 OpsEvents_Store_Name_11897_001 = Troca de batalha de Treinador
+OpsEvents_Tab_Name_22303_001 = Greninjaセットイベントパス
+OpsEvents_Tab_Name_22303_Common_001 = セットイベントパス
+OpsEvents_Tab_Name_22304_001 = Greninjaセットイベントパス
+OpsEvents_Tab_Name_22304_Common_001 = セットイベントパス
+OpsEvents_Tab_Name_22305_001 = Greninjaセットイベントパスミッション
+OpsEvents_Tab_Name_22305_Common_001 = セットイベントパスミッション
+OpsEvents_Tab_Name_22306_001 = Greninjaセットイベントパス
+OpsEvents_Tab_Name_22306_Common_001 = セットイベントパス
+OpsEvents_Tab_Name_22307_001 = Miraidonセットイベントパス
+OpsEvents_Tab_Name_22308_001 = Miraidonセットイベントパス
+OpsEvents_Tab_Name_22309_001 = Miraidonセットイベントパスミッション
+OpsEvents_Tab_Name_22310_001 = Miraidonセットイベントパス
+OpsEvents_Tab_Name_22313_001 = ユナイトライセンス指向割引き！
 OpsEvents_Tag_7025_001 = Missão especial de hoje
 OpsEvents_Task_Bonus_Desc_9932_001 = Bônus de subida de ranque da equipe:
 {0}/{1} restantes
@@ -11724,6 +11876,8 @@ OpsEvents_Task_Desc_21377_001 = Derrote Regice, Registeel, Regirock ou Drednaw u
 OpsEvents_Task_Desc_21593_001 = Participe de {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] com Tsareena
 OpsEvents_Task_Desc_21594_001 = Vença {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] com Tsareena
 OpsEvents_Task_Desc_21595_001 = Nocauteie um total de {0} Pokémon da equipe oponente com Tsareena
+OpsEvents_Task_Desc_22285_001 = Participe de {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] com Rapidash de Galar
+OpsEvents_Task_Desc_22286_001 = Vença {0} [Grm:Qty S="batalha" P="batalhas" Idx="0" ] com Rapidash de Galar
 OpsEvents_Task_Desc_6362_001 = Inicie sessão um total de {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
 OpsEvents_Task_Desc_7047_001 = Use o trampolim de superpulo um total de {0} [Grm:Qty S="vez" P="vezes" Idx="0" ]
 OpsEvents_Task_Desc_7048_001 = Use o trampolim do superpulo um total de {0} [Grm:Qty S="vez" P="vezes" Idx="0" ] em partidas ranqueadas
@@ -12233,6 +12387,7 @@ OpsEvents_Title_8887_001 = Evento do Ano-Novo Lunar
 OpsEvents_Title_8888_001 = Presente especial
 OpsEvents_Title_8889_001 = Bônus de início de sessão
 OpsEvents_Title_Linebreak_7020_001 = Desafio da caixa Hiperespaço
+OpsEvents_Title_Name_22314_001 = ユナイトライセンス指向割引き！
 OpsEvents_Token_Desc_19296_001 = x{0}
 OpsEvents_Trainner_Item_Desc_6630_001 = Pode refletir no seu retrato Unite.
 OpsEvents_Trainner_Item_Desc_6637_001 = Pode usar no seu retrato Unite.
@@ -12294,6 +12449,7 @@ OpsEvents_WCS_Task_Desc_15313_001 = Compartilhar evento
 OpsEvents_WCS_Task_Desc_15315_001 = Assistir
 OpsEvents_WCS_Team_Label_15513_001 = Não selecionado
 OpsEvents_WCS_Title_15299_001 = Campanha de espectador do CM
+OpsEvents_WCS_Title_22358_001 = マーチカップ
 OpsEvents_Welcome_Desc_16261_001 = 您在删档测试期间有充值记录，现在可以<color=#f8560b>领取充值返利</color>啦~
 OpsEvents_Welcome_Desc_16262_001 = 1、在删档测试期间，我们会根据训练家您的累计充值金额，在游戏正式上线（具体时间请关注游戏官网及平台官方账号）后，按照一定比例来返还宝石。
 2、当累计充值金额≤{0}元时，可获得{1}%的宝石返还；
@@ -12316,20 +12472,32 @@ OpsSystem_Button_Tips_21701_001 = Aplicado
 OpsSystem_Button_Tips_21702_001 = Você somente pode aplicar pacotes de personalização de botões (exclusivos da versão para dispositivos móveis) se possuir o Holowear do mesmo estilo.
 OpsSystem_Button_Tips_21703_001 = Método de aquisição
 OpsSystem_Button_Tips_21704_001 = Você não pode obter individualmente os pacotes de personalização de botões (exclusivos da versão para dispositivos móveis), já que não é possível aplicá-los se você não tiver o Holowear do mesmo estilo.
+OpsSystem_Button_Tips_21704_002 = Você não pode obter individualmente os pacotes de personalização de botões (exclusivos da versão para dispositivos móveis), já que não é possível aplicá-los se você não tiver o Holowear do mesmo estilo.
 OpsSystem_Button_Tips_21705_001 = O pacote de personalização de botões (exclusivo da versão para dispositivos móveis) foi aplicado automaticamente. Confira na batalha!
 OpsSystem_Button_Tips_21706_001 = Pacote de personalização de botões (exclusivo da versão para dispositivos móveis) aplicado
 OpsSystem_Button_Tips_21707_001 = Botões padrão aplicados
 OpsSystem_Button_Tips_21708_001 = Obteve o pacote de personalização de botões (exclusivo da versão para dispositivos móveis). Atualmente aplicado.
 OpsSystem_Button_Tips_21709_001 = É possível obter e usar o pacote de personalização de botões Pikachu: Estilo Palco (exclusivo da versão para dispositivos móveis) somente na versão para dispositivos móveis. Você precisa ter o Holowear do mesmo estilo para usá-lo.
 OpsSystem_Button_Tips_21709_Common_001 = É possível obter e usar o pacote de personalização de botões :  (exclusivo da versão para dispositivos móveis) somente na versão para dispositivos móveis. Você precisa ter o Holowear do mesmo estilo para usá-lo.
+OpsSystem_Button_Tips_22369_001 = É possível obter e usar o pacote de personalização de botões Blastoise: Estilo Festival de Ano Novo (exclusivo da versão para dispositivos móveis) somente na versão para dispositivos móveis. Você precisa ter o Holowear do mesmo estilo para usá-lo.
+OpsSystem_Help_Desc_22262_001 = 「ホロウェア収集特典」ルール説明
+1.ホロウェア収集特典は恒常のユナイトテーマと定期更新のスタイルテーマに分けてます。
+2.1.ユナイトテーマでは、ポケモンのホロウェアを全部集めると、そのポケモンの全ホロウェアにユナイトテーマスプレーを使用することができます。
+2.2.ユナイトテーマスプレーは全ホロウェアを所持しているポケモンのみに使えます。今後そのポケモンが新たなホロウェアが追加された場合、改めて全ホロウェアを集めないと、ユナイトテーマスプレーは使えません。
+2.3.ホロウェアを複数あるポケモンのみ、ホロウェア収集特典に参加できます。
+3.1.各スタイルテーマはそのスタイルテーマの色んなポケモンと色んなホロウェアが含まれます。ホロウェアを獲得した後、ホロウェアのレア度によって異なる量の収集ポイントを獲得できます。収集ポイントが一定数に達すると、報酬を獲得できます。
+3.2収集ポイントを増やすことでスタイルテーマプレーを獲得すると、そのスタイルの全ホロウェアにそのスタイルのテーマプレーを使用できます。
 OpsSystem_Item_Name_21409_001 = Arte de licença {0} de Pikachu
 OpsSystem_Item_Name_21409_Common_001 = Arte de licença {0} de 
 OpsSystem_Item_Name_22049_001 = Arte de licença {0} de Dragonite
 OpsSystem_Item_Name_22059_001 = Aluguel de Holowear
+OpsSystem_Item_Tips_22323_001 = 新しいホロウェアが追加されたため、{0}のユナイトスプレーが無効になりました。
 OpsSystem_Shop_Name_21410_001 = Arte licenciada
 OpsSystem_System_Name_21531_001 = Arte licenciada
 OpsSystem_System_Name_21533_001 = Padrão
-OpsSystem_System_Name_22217_001 = Holowear Collection Bonus
+OpsSystem_System_Name_22217_001 = Bônus de coleta de Holowear
+OpsSystem_Tips_Desc_22263_001 = ポケモンを選択していません
+OpsSystem_Tips_Desc_22264_001 = ホロウェアを選択していません
 OpsSystems_CharacterSprite_Tips_21177_001 = Você não pode obter mais porque alcançou a quantidade máxima de arte licenciada que pode ter.
 OpsSystems_CharacterSprite_Tips_21178_001 = Você já possui esse item.
 OpsSystems_CharacterSprite_Tips_21179_001 = Você não pode obter mais deste item.
@@ -12437,13 +12605,16 @@ Pkm_Avatar_Name_21517_001 = Urshifu: Estilo Guardião
 Pkm_Avatar_Name_21517_Common_001 = : Estilo Guardião
 Pkm_Avatar_Name_21674_001 = Miraidon: Estilo Bronze
 Pkm_Avatar_Name_21674_Common_001 = : Estilo Bronze
-Pkm_Avatar_Name_21677_001 = Blastoise: Estilo Ano-novo
-Pkm_Avatar_Name_21677_Common_001 = : Estilo Ano-novo
+Pkm_Avatar_Name_21677_001 = Blastoise: Estilo Ano-Novo
+Pkm_Avatar_Name_21677_Common_001 = : Estilo Ano-Novo
 Pkm_Avatar_Name_21765_001 = Estilo Conto de Fadas: Ho-Oh
 Pkm_Avatar_Name_21765_Common_001 = Estilo Conto de Fadas: 
 Pkm_Avatar_Name_21766_001 = Estilo Conto de Fadas: Suicune
 Pkm_Avatar_Name_21767_001 = Estilo Conto de Fadas: Scizor
 Pkm_Avatar_Name_21768_001 = Estilo Conto de Fadas: Espeon
+Pkm_Avatar_Name_22271_001 = Estilo Festival de Ano Novo: Blastoise
+Pkm_Avatar_Name_22271_Common_001 = Estilo Festival de Ano Novo: 
+Pkm_Avatar_Name_22289_001 = Estilo Conto de Fadas: Greninja
 Pkm_Avatar_Name_6360_001 = Gengar: Estilo Mascarado
 Pkm_Avatar_Name_6360_Common_001 = : Estilo Mascarado
 Pkm_Avatar_Name_6414_001 = Absol: Estilo Formal Escuro
@@ -16008,6 +16179,9 @@ Pkm_Skill_Desc_21222_001 = Melhoria: reduz ainda mais o Ataque e o Ataque Especi
 Pkm_Skill_Desc_21224_001 = Aumenta a velocidade de movimento do usuário por um curto período.
 Quando o usuário estiver se movendo na direção de um Pokémon oponente com interferências, a velocidade de movimento dele aumenta ainda mais.
 Além disso, quando o usuário causar dano a Pokémon oponentes com o próximo ataque básico dele, rouba para si uma porção da Defesa e da Defesa Especial do Pokémon que acertar, por um curto período. 
+Pkm_Skill_Desc_21224_002 = Aumenta a velocidade de movimento do usuário por um curto período.
+Quando o usuário estiver se movendo na direção de um Pokémon oponente com interferências, a velocidade de movimento dele aumenta ainda mais.
+Além disso, quando o usuário causar dano a Pokémon oponentes com o próximo ataque básico dele, rouba para si uma porção da Defesa e da Defesa Especial do Pokémon que acertar, por um curto período. 
 Pkm_Skill_Desc_21226_001 = Melhoria: aumenta a quantidade de Defesa e a Defesa Especial que o usuário rouba.
 Pkm_Skill_Desc_21228_001 = Lança beijos cheios de charme para o Pokémon designado da equipe oponente e para outros Pokémon próximos, deixando-os incapazes de agir por um curto período.
 O usuário bate o martelo no local designado se este movimento for usado outra vez, causando dano aos Pokémon oponentes que acertar.
@@ -16035,7 +16209,13 @@ Pkm_Skill_Desc_21266_001 = Melhoria: aplica um efeito de lentidão nos Pokémon 
 Pkm_Skill_Desc_21268_001 = Aumenta a velocidade de movimento do usuário quando este movimento for usado, e, por um determinado período, a velocidade de movimento aumenta continuamente.
 A duração deste movimento aumenta se o usuário se deslocar ou se acertar Pokémon oponentes com movimentos.
 Pkm_Skill_Desc_21270_001 = Melhoria: também recupera PS do usuário enquanto a velocidade de movimento é aumentada.
-Pkm_Skill_Desc_21272_001 = Ataca na direção designada, empurrando os Pokémon da equipe oponente que acerta para longe.
+Pkm_Skill_Desc_21272_001 = Avança na direção designada, empurrando os Pokémon da equipe oponente para longe.
+Quando o deslocamento terminar, um espaço misterioso se forma ao redor do primeiro Pokémon oponente que o usuário acertou, que fica impedido de sair dali.
+Se este movimento for usado outra vez, o usuário corre em alta velocidade na direção designada, causando dano aos Pokémon oponentes pelo caminho. Se o caminho cruzar com o espaço misterioso, este movimento pode ser usado mais uma vez. Este movimento pode ser repetido até {0} [Grm:Qty S="vez" P="vezes" Idx="0" ] adicionais.
+
+
+
+Ataca na direção designada, empurrando os Pokémon da equipe oponente que acerta para longe.
 Quando o ataque terminar, um espaço misterioso é criado ao redor do primeiro Pokémon da equipe oponente que o usuário acertou, que fica impossibilitado de sair.
 Se este movimento for usado outra vez, o usuário corre em alta velocidade na direção designada, causando dano aos Pokémon oponentes pelo caminho. Se o caminho cruzar com o espaço misterioso, este movimento pode ser usado mais uma vez.
 Este movimento pode ser usado até {0} [Grm:Qty S="vez" P="vezes" Idx="0" ] mais no total.
@@ -16043,69 +16223,46 @@ Pkm_Skill_Desc_21273_001 = Efeito Véu de Tons Pastéis: imune a interferências
 Pkm_Skill_Desc_21274_001 = Efeito Agilidade: aumento na velocidade de movimento.
 Pkm_Skill_Desc_21553_001 = Efeito Mente Calma: aumento no Ataque Especial, na Defesa Especial e na velocidade de movimento.
 Pkm_Skill_Desc_21554_001 = Efeito Trama Maldosa: o próximo ataque básico causa dano adicional.
-Pkm_Skill_Desc_21723_001 = Endless Ice Spikes
-Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, this Pokémon's next basic attack becomes a boosted attack. 
-強化攻撃は水を発射し続けてダメージを与え、こおり状態の相手のポケモンには追加ダメージを与える。
-Boosted attacks shoot water continuously and deals damage.  Deals additional damage to frozen opposing Pokémon.
-Pkm_Skill_Desc_21725_001 = こおり状態の相手のチームのポケモンにダメージを与えたとき、
-相手のチームのポケモンのHPが一定の割合を下回った場合、即座にKOする。
-わざを命中させるとシールド効果を獲得し、クリスタルゲージがたまる。
-シールド効果は重ねがけが可能。(最大{0}回)
-「うずしお」と「なみのり」を使用すると
-わざが通過した範囲を水で満たされたエリアにする。
-水で満たされたエリアを凍らせたとき、エリアの中にいる相手のポケモンをこおり状態にする。
-Pkm_Skill_Desc_21726_001 = 指定した方向に水の波動を発射して、相手のポケモンにダメージを与えてつきとばす。
-また、相手のポケモンを水で濡らしてマークを付与する。
-Pkm_Skill_Desc_21727_001 = 指定した場所に雪を落とし続けて、ダメージと減速効果を与える。
-最後に、多くの雪を落として相手のポケモンをこおり状態にし、
-水で満たされたエリアを凍らせる。
-Pkm_Skill_Desc_21728_001 = 指定した場所に渦を巻く水を発生させて、
-相手のポケモンにダメージを与えて、
-渦の中心に引き寄せる。また、相手のポケモンを
-水で濡らしてマークを付与する。
-このわざを再度使用すると、
-渦を指定した方向へ移動させて、
-渦が通過した範囲を水で満たされたエリアにする。
-Pkm_Skill_Desc_21729_001 = アップグレード後は、このわざの待ち時間が短くなる。
-Pkm_Skill_Desc_21730_001 = 指定した方向へ冷たいビームを発射して、
-相手のポケモンにダメージと減速効果を与える。
-相手のポケモンに水で濡らしたマークが
-付与されていると、こおり状態にする。
-水で満たされたエリアにこのわざが命中すると、
-水で満たされたエリアを凍らせる。
-わざの最大保有回数は{0}回。
-Pkm_Skill_Desc_21731_001 = アップグレード後は、
-このわざが命中したときの減速効果が強くなる。
-Pkm_Skill_Desc_21732_001 = 指定した方向に大きな波を発生させて、
-相手のポケモンにダメージを与えて、つきとばし、
-水で濡らしてマークを付与する。
-波が通過した範囲を水で満たされたエリアにする。
-「こごえるかぜ」による氷柱へ波が命中すると、
-氷柱が砕けて、相手のポケモンにダメージを与える。
-Pkm_Skill_Desc_21733_001 = アップグレード後は、
-このわざで与えるダメージが増加する。
-Pkm_Skill_Desc_21734_001 = 指定した場所に、凍てつく冷気を吹きつけて、
-相手のポケモンに減速効果を与える。
-冷気がたまると氷柱を作り出し、
-相手のポケモンにダメージと減速効果を与える。
-しばらくすると氷柱は砕けて、
-周囲の相手のポケモンにダメージを与える。
-氷柱が水で満たされたエリアに現れると、
-水で満たされたエリアを凍らせる。
-わざの最大保有回数は{0}回。
-Pkm_Skill_Desc_21735_001 = アップグレード後は、
-このわざの待ち時間が短くなる。
-Pkm_Skill_Desc_21736_001 = このわざは自分が行動不能のときにも使用できて、使用するときに、
-自分が受けている状態異常を回復する。
-指定した方向に無数の氷の棘を発生させて、相手のポケモンにダメージを与えて、
-こおり状態にする。
-しばらくすると、氷の棘が砕けて、相手のポケモンにダメージを与える。
-Pkm_Skill_Desc_21739_001 = The Pokémon can use its basic attacks while moving.
-When the Pokémon uses a boosted basic attack or a move, it dashes in the designated direction.
+Pkm_Skill_Desc_21723_001 = Unite Move: Endless Ice Spikes
+Pkm_Skill_Desc_21724_001 = When the crystal gauge is full, the user’s next basic attack becomes a boosted attack.
+Boosted attacks shoot water continuously and deal additional damage to frozen opposing Pokémon.
+Pkm_Skill_Desc_21725_001 = When this Pokémon deals damage to frozen Pokémon on the opposing team, when the HP of the Pokémon from the opposing team is below a set percentage, they are instantly knocked out.
+When this Pokémon hits opposing Pokémon with moves, the Pokémon is granted a shield, and its crystal gauge increases.
+The shield can stack up to {0} [Grm:Qty S="time" P="times" Idx="0" ].
+When this Pokémon uses Whirlpool or Surf, the area the move passes through will become flooded.
+If the user freezes a flooded area, opposing Pokémon in the area will also be frozen.
+Pkm_Skill_Desc_21726_001 = Has the user fire a pulse of water in the designated direction, dealing damage to opposing Pokémon it hits and shoving them.
+Also marks the opposing Pokémon by leaving them drenched.
+Pkm_Skill_Desc_21727_001 = Has the user make snow continuously fall at the designated location, dealing damage and applying a slowing effect to opposing Pokémon it hits.
+At the end of the move, the user drops a clump of snow, leaving flooded areas frozen.
+Also, if opposing Pokémon are drenched when hit, they are left frozen.
+Pkm_Skill_Desc_21728_001 = Has the user generate a vortex of water at the designated location, dealing damage to opposing Pokémon, pulling them toward its center, and leaving them drenched.
+If this move is used again, the vortex is moved in the designated direction, flooding the area it passes through.
+Pkm_Skill_Desc_21729_001 = Upgrade: Reduces this move’s cooldown.
+Pkm_Skill_Desc_21730_001 = Has the user fire an icy-cold beam of energy in the designated direction, dealing damage and applying a slowing effect to opposing Pokémon it hits.
+If the opposing Pokémon are drenched when hit, they are left frozen.
+If this move hits a flooded area, that area becomes frozen.
+A maximum of {0} [Grm:Qty S="use" P="uses" Idx="0" ] can be kept in reserve for this move.
+Pkm_Skill_Desc_21731_001 = Upgrade: Strengthens the slowing effect applied to opposing Pokémon hit by this move.
+Pkm_Skill_Desc_21732_001 = Has the user create a big wave in the designated direction, dealing damage to and shoving opposing Pokémon it hits and leaving them drenched.
+The area the wave passes through becomes flooded.
+If the wave hits a pillar of ice created by Icy Wind, the pillar breaks, dealing damage to opposing Pokémon it hits.
+Pkm_Skill_Desc_21733_001 = Upgrade: Increases the damage dealt by this move.
+Pkm_Skill_Desc_21734_001 = Has the user blow a gust of freezing air at the designated location, applying a slowing effect to opposing Pokémon it hits.
+Once the freezing air builds up, it creates a pillar of ice, dealing damage and applying a slowing effect to opposing Pokémon it hits.
+After a short time, the pillar of ice breaks, dealing damage to nearby opposing Pokémon.
+If a pillar of ice is created in a flooded area, that area becomes frozen.
+A maximum of {0} [Grm:Qty S="use" P="uses" Idx="0" ] can be kept in reserve for this move.
+Pkm_Skill_Desc_21735_001 = Upgrade: Reduces this move’s cooldown.
+Pkm_Skill_Desc_21736_001 = This move can be used while the user is unable to act, and when it is, all status conditions on the user are removed.
+Has the user create ice spikes in the designated direction, dealing damage to opposing Pokémon they hit and leaving them frozen.
+After a short time, the spikes explode, dealing damage to opposing Pokémon they hit.
+Pkm_Skill_Desc_21739_001 = The Pokémon can use basic attacks while moving.
+When the Pokémon uses a move or a boosted basic attack, it dashes in the designated direction.
 Pkm_Skill_Desc_21741_001 = Paralyzes all opponents near the Pokémon for a short time when the Pokémon receives damage. This Ability goes on cooldown after it’s triggered.
 Pkm_Skill_Desc_21742_001 = If this Pokémon hits an opposing Pokémon with a basic attack or move, its boosted basic attack gauge increases by 1.
 When the boosted basic attack gauge reaches 4, the Pokémon’s next basic attack becomes a boosted attack that deals increased damage and also deals damage to opposing Pokémon near its target (up to a maximum of 5 Pokémon).
-Pkm_Skill_Desc_21744_001 = Releases electricity on the designated opposing Pokémon, dealing damage to opposing Pokémon in the area of effect.
+Pkm_Skill_Desc_21744_001 = Releases electricity at the designated opposing Pokémon, dealing damage to opposing Pokémon in the area of effect.
 Also paralyzes opposing Pokémon for a short time.
 Pkm_Skill_Desc_21746_001 = Has the user discharge a weak jolt of electricity in the designated direction, dealing damage to opposing Pokémon and leaving them paralyzed for a short time.
 Pkm_Skill_Desc_21748_001 = For a short time, increases the user’s basic attack speed.
@@ -16113,16 +16270,17 @@ The user’s next 6 basic attacks also launch a star-shaped electric blast that 
 Pkm_Skill_Desc_21750_001 = Upgrade: The electric blasts decrease opposing Pokémon’s Sp. Def. This effect can stack up to {0} [Grm:Qty S="time" P="times" Idx="0" ].
 Pkm_Skill_Desc_21752_001 = Has the user release a strong electric blast in the designated direction, dealing damage to opposing Pokémon it hits and leaving them paralyzed.
 If this move hits an electric orb created by Electro Ball, the orb releases its electricity and deals damage to nearby opposing Pokémon.
-Pkm_Skill_Desc_21754_001 = Upgrade: Leaves opposing Pokémon unable to move instead of paralyzing them.
-Pkm_Skill_Desc_21756_001 = Has the user hurl an electric orb to the designated location. The electric orb remains at that location for a short time.
-When an electric orb touches an opposing Pokémon, it releases its electricity and deals damage to nearby opposing Pokémon.
+Pkm_Skill_Desc_21754_001 = Upgrade: Leaves opposing Pokémon unable to move instead of paralyzed.
+Pkm_Skill_Desc_21756_001 = Has the user hurl an electric orb to the designated location, where it remains for a short time.
+When an electric orb and an opposing Pokémon touch, the orb releases its electricity and deals damage to nearby opposing Pokémon.
 A maximum of {0} [Grm:Qty S="use" P="uses" Idx="0" ] can be kept in reserve for this move.
 Pkm_Skill_Desc_21758_001 = Upgrade: Deals damage over time to opposing Pokémon hit by this move.
-Pkm_Skill_Desc_21760_001 = Has the user release a strong telekinetic force in the designated area, dealing damage and applying a slowing effect to opposing Pokémon it hits. If the user hits opposing Pokémon that have this slowing effect applied to them with a basic attack, the user deals additional damage.
+Pkm_Skill_Desc_21760_001 = Has the user release a strong telekinetic force in the designated area, dealing damage and applying a slowing effect to opposing Pokémon it hits. If the user hits opposing Pokémon slowed by this effect with a basic attack, it deals additional damage.
 If this move hits an electric orb created by Electro Ball, the orb is pulled to the center of this move’s area of effect.
 Pkm_Skill_Desc_21762_001 = Upgrade: Deals damage over time in the designated area for a short time.
 Pkm_Skill_Desc_21764_001 = Has the user create a star-shaped zone of electricity in the designated area, dealing damage and applying a slowing effect to opposing Pokémon it hits.
-The zone remains on the field for a short time, and deals damage over time and applies a slowing effect. If the user hits opposing Pokémon in the zone with a basic attack, the user’s next basic attack becomes a boosted attack.
+The zone remains on the field for a short time, deals damage over time, and applies a slowing effect. If the user hits opposing Pokémon in the zone with a basic attack, the user’s next basic attack becomes a boosted attack.
+Pkm_Skill_Desc_22282_001 = Pastel Veil Effect: Movement speed increased.
 Pkm_Skill_Desc_7309_001 = Quando o Pokémon com esta Habilidade está com PS baixos, um efeito contínuo de recuperação de PS é acionado por um curto período. Esse efeito também reduz as recargas dos movimentos do Pokémon.
 Quando esse efeito de recuperação de PS termina, há um atraso até que ele possa ser acionado novamente. No entanto, esse atraso é reduzido cada vez que um dos movimentos do Pokémon atinge um Pokémon oponente.
 Pkm_Skill_Desc_7310_001 = Cada terceiro ataque vira um ataque potenciado, causando dano aumentado aos Pokémon oponentes e restaurando PS de si mesmo ao acertar.
@@ -16790,29 +16948,29 @@ Pkm_Skill_Name_21265_001 = Vento de Fada+
 Pkm_Skill_Name_21267_001 = Agilidade
 Pkm_Skill_Name_21269_001 = Agilidade+
 Pkm_Skill_Name_21271_001 = Movimento Unite: Blitz de Tríade
-Pkm_Skill_Name_21712_001 = Pressure
-Pkm_Skill_Name_21713_001 = Water Pulse
+Pkm_Skill_Name_21712_001 = Pressão
+Pkm_Skill_Name_21713_001 = Pulso d’Água
 Pkm_Skill_Name_21714_001 = Avalanche
-Pkm_Skill_Name_21715_001 = Whirlpool
-Pkm_Skill_Name_21716_001 = Whirlpool+
-Pkm_Skill_Name_21717_001 = Ice Beam
-Pkm_Skill_Name_21718_001 = Ice Beam+
-Pkm_Skill_Name_21719_001 = Surf
-Pkm_Skill_Name_21720_001 = Surf+
-Pkm_Skill_Name_21721_001 = Icy Wind
-Pkm_Skill_Name_21722_001 = Icy Wind+
-Pkm_Skill_Name_21738_001 = Surge Surfer
-Pkm_Skill_Name_21740_001 = Static
-Pkm_Skill_Name_21743_001 = Thunder Shock
-Pkm_Skill_Name_21745_001 = Thunder Wave
-Pkm_Skill_Name_21747_001 = Stored Power
-Pkm_Skill_Name_21749_001 = Stored Power+
-Pkm_Skill_Name_21751_001 = Thunderbolt
-Pkm_Skill_Name_21753_001 = Thunderbolt+
-Pkm_Skill_Name_21755_001 = Electro Ball
-Pkm_Skill_Name_21757_001 = Electro Ball+
-Pkm_Skill_Name_21759_001 = Psychic
-Pkm_Skill_Name_21761_001 = Psychic+
+Pkm_Skill_Name_21715_001 = Redemoinho
+Pkm_Skill_Name_21716_001 = Redemoinho+
+Pkm_Skill_Name_21717_001 = Raio Congelante
+Pkm_Skill_Name_21718_001 = Raio Congelante+
+Pkm_Skill_Name_21719_001 = Surfar
+Pkm_Skill_Name_21720_001 = Surfar+
+Pkm_Skill_Name_21721_001 = Vento Congelante
+Pkm_Skill_Name_21722_001 = Vento Congelante+
+Pkm_Skill_Name_21738_001 = Cauda Surfista
+Pkm_Skill_Name_21740_001 = Estática
+Pkm_Skill_Name_21743_001 = Trovoada de Choques
+Pkm_Skill_Name_21745_001 = Onda de Trovão
+Pkm_Skill_Name_21747_001 = Poder Armazenado
+Pkm_Skill_Name_21749_001 = Poder Armazenado+
+Pkm_Skill_Name_21751_001 = Relâmpago
+Pkm_Skill_Name_21753_001 = Relâmpago+
+Pkm_Skill_Name_21755_001 = Bola Elétrica
+Pkm_Skill_Name_21757_001 = Bola Elétrica+
+Pkm_Skill_Name_21759_001 = Psíquico
+Pkm_Skill_Name_21761_001 = Psíquico+
 Pkm_Skill_Name_21763_001 = Unite Move: Thunderstorm Aerial
 Pkm_Skill_Name_7303_001 = Fogo Fátuo
 Pkm_Skill_Name_7304_001 = Martelo de Madeira
@@ -16998,6 +17156,7 @@ Pkm_SkillDes_12_Slowpoke_001 = Olha fixamente para um dos Pokémon da equipe opo
 Pkm_SkillDes_12_Squirtle_003 = Gira rapidamente, causando dano prolongado a Pokémon oponentes próximos. Muda a mecânica de seus ataques básicos, bem como seus movimentos Jato d'Água e Jato Aquático. Usar este movimento zera a recarga do Jato d'Água ou do Jato Aquático. Enquanto este movimento estiver em vigor, fica resistente a interferências. Além disso, o próximo ataque básico após o término deste movimento vira um ataque potenciado.
 Pkm_SkillDes_12_Vulpix_001 = Ataca com neve e gelo, causando dano aos Pokémon oponentes na área de efeito quando acerta. Causa mais dano aos Pokémon oponentes que estiverem congelados.
 Pkm_SkillDes_13_Snorlax_001 = Dorme e começa a roncar, causando dano prolongado a Pokémon oponentes na área de efeito e lançando-os. Enquanto dorme, fica imune a interferências e seus PS são restaurados continuamente.
+Pkm_SkillDes_13_Snorlax_002 = Dorme e começa a roncar, causando dano prolongado a Pokémon oponentes na área de efeito e lançando-os. Enquanto dorme, fica imune a interferências e seus PS são restaurados continuamente.
 Pkm_SkillDes_13_Squirtle_001 = Melhoria: também reduz o dano que recebe ao usar este movimento.
 Pkm_SkillDes_14_Squirtle_001 = Para de girar.
 Pkm_SkillDes_15_Squirtle_001 = Jorra água para atacar enquanto gira, lançando Pokémon oponentes em uma grande área. Também concede um escudo a si mesmo.
@@ -18158,6 +18317,18 @@ Pkm_Suit_Name_22170_001 = Conjunto Miraidon
 Pkm_Suit_Name_22171_001 = Conjunto Miraidon: parte superior e inferior
 Pkm_Suit_Name_22172_001 = Conjunto Miraidon: meias
 Pkm_Suit_Name_22173_001 = Conjunto Miraidon: calçados
+Pkm_Suit_Name_22291_001 = Conjunto Gyarados
+Pkm_Suit_Name_22292_001 = Conjunto Gyarados: cabeça
+Pkm_Suit_Name_22293_001 = Conjunto Gyarados: parte superior
+Pkm_Suit_Name_22294_001 = Conjunto Gyarados: parte inferior
+Pkm_Suit_Name_22295_001 = Conjunto de Gyarados: luvas
+Pkm_Suit_Name_22296_001 = Conjunto Gyarados: calçados
+Pkm_Suit_Name_22297_001 = Conjunto Greninja
+Pkm_Suit_Name_22298_001 = Conjunto Greninja: cabeça
+Pkm_Suit_Name_22299_001 = Conjunto Greninja: parte superior e inferior
+Pkm_Suit_Name_22300_001 = Conjunto de Greninja: luvas
+Pkm_Suit_Name_22301_001 = Conjunto Greninja: meias
+Pkm_Suit_Name_22302_001 = Conjunto Greninja: calçados
 Pkm_Suit_Preview_Confirm_12620_001 = Quer ir à Arena de treino experimentar esse Holowear?
 Pkm_Suit_Preview_Desc_12619_001 = Pré-visualizar
 Pkm_Suit_Route_Desc_18340_001 = 通过通行证豪华宝箱概率获取
@@ -18276,6 +18447,8 @@ Pkm_UniteLicense_Desc_21573_001 = Permite levar Tinkaton para a batalha.
 Pkm_UniteLicense_Desc_21576_001 = Permite levar Tinkaton para batalha por {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
 Pkm_UniteLicense_Desc_21636_001 = Permite levar Rapidash de Galar para a batalha.
 Pkm_UniteLicense_Desc_21639_001 = Permite levar Rapidash de Galar para batalha por {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
+Pkm_UniteLicense_Desc_22354_001 = Permite levar Suicune para a batalha.
+Pkm_UniteLicense_Desc_22357_001 = Permite levar Suicune para batalha por {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
 Pkm_UniteLicense_Desc_9076_001 = Permite levar Espeon para a batalha.
 Pkm_UniteLicense_Desc_9079_001 = Permite levar Delphox para a batalha.
 Pkm_UniteLicense_Desc_9082_001 = Permite levar Espeon para batalha por {0} [Grm:Qty S="dia" P="dias" Idx="0" ]
@@ -18352,6 +18525,8 @@ Pkm_UniteLicense_Name_21572_001 = Licença Unite: Tinkaton
 Pkm_UniteLicense_Name_21575_001 = Licença temporária de Tinkaton ({0} dia[Grm:Qty S="" P="s" Idx="0" ])
 Pkm_UniteLicense_Name_216351_001 = Licença Unite: Rapidash de Galar
 Pkm_UniteLicense_Name_21638_001 = Licença temporária de Rapidash de Galar ({0} dia[Grm:Qty S="" P="s" Idx="0" ])
+Pkm_UniteLicense_Name_22356_001 = Licença temporária de Suicune ({0} dia[Grm:Qty S="" P="s" Idx="0" ])
+Pkm_UniteLicense_Name_22361_001 = Licença Unite: Suicune
 Pkm_UniteLicense_Name_9076_001 = Licença Unite: Espeon
 Pkm_UniteLicense_Name_9079_001 = Licença Unite: Delphox
 Pkm_UniteLicense_Name_9082_001 = Licença temporária de Espeon ({0} dia[Grm:Qty S="" P="s" Idx="0" ])
@@ -18728,7 +18903,7 @@ Ranking_ThumbUp = Classificações de recomendação
 Ranking_Winning = Classificações de sequência de vitórias
 Ranking_Winning_SelectMode = De qual modo de batalha você gostaria de ver as classificações de vitórias consecutivas?
 Ranking_WinningCnt = Recorde de vitórias consecutivas
-Rankmatch_Ban_Decs_22060_001 = {0} foi [M=banido, F=banida] de participar das partidas ranqueadas. (Até {1})
+Rankmatch_Ban_Decs_22060_001 = {0} foi [M=banido, F=banida] de participar das partidas ranqueadas (até {1}).
 RankMatch_Level_Advanced_001 = Expert
 RankMatch_Level_Advanced1_001 = Expert: classe 1
 RankMatch_Level_Advanced2_001 = Expert: classe 2
@@ -18961,7 +19136,7 @@ Shop_Filter_Content = Selecione as opções de filtro.
 Shop_Filter_SortType = Selecione as opções de ordenação.
 Shop_HeldItemRandomBag_DetailTitle = Detalhes
 Shop_InTryEquip = Experimentando
-Shop_Item_Category_22246_001 = チームアピール（の仲間たち）
+Shop_Item_Category_22246_001 = Plano de fundo pré-batalha (Amigos do )
 Shop_Item_DataTransfer_001 = Sincronizando itens. Aguarde.
 Shop_Item_Label_14422_001 = Return
 Shop_Item_Name_17044_001 = Cartão de proteção de ranque da temporada {0}
@@ -19087,7 +19262,7 @@ https://app-pu.pokemon-support.com/hc/ja
 
 Spectators_EnterCheck = Assistir à batalha deste Treinador?
 Spectators_TimeElapsed = Começou há {0} min.
-Spray_Error_Desc_22238_001 = No rewards.
+Spray_Error_Desc_22238_001 = Sem recompensas.
 Support_QRCode_Tips_001 = Suporte ao cliente do Pokémon UNITE
 Sure_Use_AvatarTiYanCard = Usar um cupom de aluguel de Holowear?
 Sure_Use_Name = Quer que esse seja o nome novo do seu Treinador?
@@ -19529,6 +19704,9 @@ System_Achievements_Desc_21239_002 = Use um Movimento Unite para lançar um tota
 System_Achievements_Desc_21243_001 = Nocauteie um total de {0} Pokémon da equipe oponente marcados com Sonhos Ruins
 System_Achievements_Desc_21303_001 = Use o Jato de Bolhas para deixar Pokémon da equipe oponente incapazes de agir {0} vezes
 System_Achievements_Desc_21303_002 = Use o Jato de Bolhas para deixar Pokémon da equipe oponente incapazes de agir {0} vezes
+System_Achievements_Desc_22330_001 = 「デカハンマー」または「デカハンマー+」を、相手チームのポケモン{0}匹以上に 同時に命中させよう （累計{1}回）
+System_Achievements_Desc_22334_001 = 「マジカルシャイン」または「マジカルシャイン+」の輪の外側を、相手チームのポケモンに命中させよう（累計{0}回）
+System_Achievements_Desc_22338_001 = 「プレッシャー」の効果で、相手チームのポケモンをKOしよう（累計{0}回）
 System_Achievements_Desc_8071_001 = Nocauteie {0} Pokémon oponentes seguidos {1} [Grm:Qty S="vez" P="vezes" Idx="1" ]
 System_Achievements_Desc_8072_001 = Noucauteie {1} Pokémon [Grm:Qty S="oponente" P="oponentes" Idx="0" ] com {0}% ou menos de PS
 System_Achievements_Desc_8073_001 = Marque {0} ou mais pontos em uma única batalha
@@ -19643,6 +19821,15 @@ System_Achievements_Name_8146_001 = Colecionador de licenças Unite (Mestre)
 System_Achievements_Name_8147_001 = Treinador em ascenção (Mestre)
 System_Achievements_Name_8148_001 = MVP (Mestre)
 System_Achievements_Tips_NXOnly_8159_001 = Progresso da missão: {0}
+System_Achievements_Title_22327_001 = デカハンマー見習い
+System_Achievements_Title_22328_001 = デカハンマーエキスパート
+System_Achievements_Title_22329_001 = デカハンマーマスター
+System_Achievements_Title_22331_001 = マジカルシャイン見習い
+System_Achievements_Title_22332_001 = マジカルシャインエキスパート
+System_Achievements_Title_22333_001 = マジカルシャインマスター
+System_Achievements_Title_22335_001 = プレッシャー見習い
+System_Achievements_Title_22336_001 = プレッシャーエキスパート
+System_Achievements_Title_22337_001 = プレッシャーマスター
 System_Achievements_Title_8157_001 = Conquistas (Tipo 1)
 System_Achievements_Title_8157_002 = Conquistas de Treinador
 System_Achievements_Title_8158_001 = Conquistas (Tipo 2)
@@ -21022,6 +21209,7 @@ System_Exchange_Tips_14326_001 = Você já possui este item e não pode obtê-lo
 System_Exchange_Tips_17331_001 = 当前参赛证券不足
 System_Exchange_Tips_17335_001 = 您暂未拥有该参赛证，是否继续兑换电子服？
 System_Exchange_Title_16264_001 = 货币兑换
+System_ExpShare_Tips_22365_001 = 该宝可梦不可携带{0}，请选择其他持有物。
 System_Fashion_Btn_18433_001 = 更换
 System_Fashion_Btn_18434_001 = 重置
 System_Fashion_Btn_18435_001 = 炫彩
@@ -22396,6 +22584,10 @@ System_Subscription_Desc_15201_001 = Como benefício da Assinatura do Clube UNIT
 System_Subscription_Desc_17293_001 = {0}倍返利！
 System_Subscription_Desc_17294_001 = 累计可得{0}宝石和{1}亿奥斯券！
 System_Subscription_Desc_17299_001 = 尊敬的Unite会员！
+System_Subscription_Desc_22280_001 = 無料体験
+System_Subscription_Desc_22281_001 = UNITEメンバーシップ（今回無料）に入会しますか？
+System_Subscription_Desc_22363_001 = 所有玩家都可获得一次为期一个月的免费订阅体验，正在订阅中的会员等当前订阅时长结束后方可获取。免费订阅体验期结束后，次月将按照原来的订阅费用自动续订 ，玩家可在免费订阅期内主动取消。
+（需空一行）
 System_Subscription_Desc_9321_001 = Validade dos benefícios atuais:
 {0}
 System_Subscription_Desc_9322_001 = Próximos benefícios
@@ -22575,6 +22767,7 @@ System_Survey_Title_18566_001 = 问卷三期
 System_Survey_Title_Trial_12712_001 = Theia Sky Ruins Questionnaire
 System_Survey_Title_Trial_12713_001 = Dodrio&Scyther Questionnaire
 System_Survey_Title_Trial_13521_001 = Questionnaire(new)
+System_TabName_AeosTech_22343_001 = エオステックボーナス
 System_Team_Invite_Tips_10184_001 = O ranque do Treinador não cumpre os requisitos.
 System_Team_Invite_Tips_10185_001 = Convite enviado.
 System_Team_Invite_Tips_10186_001 = O Treinador foi convidado. Aguarde.
@@ -25327,10 +25520,12 @@ Trainner_AvatarFrame_Desc_21407_Common_001 = Incluído com : Estilo Aurora
 Trainner_AvatarFrame_Desc_21650_001 = Incluído com Ceruledge: Estilo Neo-Street
 Trainner_AvatarFrame_Desc_21676_001 = Incluído com Estilo Bronze: Miraidon
 Trainner_AvatarFrame_Desc_21676_Common_001 = Incluído com Estilo Bronze: 
-Trainner_AvatarFrame_Desc_21679_001 = Incluído com Estilo Ano-novo: Blastoise
-Trainner_AvatarFrame_Desc_21679_Common_001 = Incluído com Estilo Ano-novo: 
+Trainner_AvatarFrame_Desc_21679_001 = Incluído com Estilo Ano-Novo: Blastoise
+Trainner_AvatarFrame_Desc_21679_Common_001 = Incluído com Estilo Ano-Novo: 
 Trainner_AvatarFrame_Desc_21770_001 = Incluído no Estilo Conto de Fadas: Ho-Oh
 Trainner_AvatarFrame_Desc_21770_Common_001 = Incluído no Estilo Conto de Fadas: 
+Trainner_AvatarFrame_Desc_22273_001 = Incluído no Estilo Festival de Ano Novo: Blastoise
+Trainner_AvatarFrame_Desc_22273_Common_001 = Incluído no Estilo Festival de Ano Novo: 
 Trainner_Background_15064_001 = Plano de fundo do menu principal (Panorama)
 Trainner_Background_Name_15063_001 = Plano de fundo do menu principal (Festival de  2023)
 Trainner_Background_Name_20960_001 = Plano de fundo do menu principal (Halloween 2024)
@@ -25558,7 +25753,7 @@ Trainner_Suit_Decs_21447_001 = Conjunto de Ano-Novo 2: cabeça
 Trainner_Suit_Decs_21448_001 = Conjunto de Ano-Novo 2: parte superior
 Trainner_Suit_Decs_21449_001 = Conjunto de Ano-Novo 2: acessórios
 Trainner_Suit_Decs_21450_001 = Conjunto de Ano-Novo 2: parte inferior
-Trainner_Suit_Decs_21451_001 = Conjunto de Ano-Novo 2: acessórios
+Trainner_Suit_Decs_21451_001 = Conjunto de Ano-Novo 2: meias
 Trainner_Suit_Decs_21452_001 = Conjunto de Ano-Novo 2: calçados
 Trainner_Suit_Decs_21453_001 = Conjunto Urshifu
 Trainner_Suit_Decs_21454_001 = Conjunto Urshifu: cabeça
@@ -25657,9 +25852,14 @@ Trainner_Suit_Decs_21779_001 = Conjunto Conto de Fadas (, verde-água)
 Trainner_Suit_Decs_21780_001 = Conjunto Conto de Fadas (, verde-água): cabeça
 Trainner_Suit_Decs_21781_001 = Conjunto Conto de Fadas (, verde-água): partes superior e inferior
 Trainner_Suit_Decs_21782_001 = Conjunto Conto de Fadas (, verde-água): acessórios
-Trainner_Suit_Decs_21783_001 = Colored Contact Lenses (Leaf Green)
+Trainner_Suit_Decs_21783_001 = Lentes de contato coloridas (verde-folha)
 Trainner_Suit_Decs_21784_001 = Cor de cabelo (ametista)
-Trainner_Suit_Decs_21785_001 = Colored Contact Lenses (Pokémon Day 2025)
+Trainner_Suit_Decs_21785_001 = Lentes de contato coloridas (Dia do Pokémon 2025)
+Trainner_Suit_Decs_22316_001 = ガーディアンセット（こおり）
+Trainner_Suit_Decs_22317_001 = ガーディアンセット（こおり）：カラーコンタクト
+Trainner_Suit_Decs_22318_001 = ガーディアンセット（こおり）：ヘアアクセサリー
+Trainner_Suit_Decs_22319_001 = ガーディアンセット（こおり）：上下
+Trainner_Suit_Decs_22320_001 = ガーディアンセット（こおり）：シューズ
 Trainner_Suit_Desc_14863_001 = Conjunto Fantasma
 Trainner_Suit_Desc_14864_001 = Conjunto Fantasma: parte superior e inferior
 Trainner_Suit_Desc_14865_001 = Conjunto Fantasma: cabeça
@@ -26133,17 +26333,17 @@ Trainner_Suit_Name_21506_001 = Conjunto Bronze (Miraidon): parte superior e infe
 Trainner_Suit_Name_21506_Common_001 = Conjunto Bronze (): parte superior e inferior
 Trainner_Suit_Name_21786_001 = Conjunto Ranqueado Unite (Temporada 26)
 Trainner_Suit_Name_21787_001 = Conjunto Ranqueado Unite (Temporada 26): cabeça
-Trainner_Suit_Name_21788_001 = Conjunto Ranqueado Unite (Temporada 26): partes superior e inferior
+Trainner_Suit_Name_21788_001 = Conjunto Ranqueado Unite (Temporada 26): parte superior e inferior
 Trainner_Suit_Name_21789_001 = Conjunto Ranqueado Unite (Temporada 26): luvas
 Trainner_Suit_Name_21790_001 = Conjunto Ranqueado Unite (Temporada 26): calçados
-Trainner_Suit_Name_22187_001 = Unite Ranked Set (Season 27)
-Trainner_Suit_Name_22188_001 = Unite Ranked Set (Season 27): Headwear
-Trainner_Suit_Name_22189_001 = Unite Ranked Set (Season 27): Top and Bottom
-Trainner_Suit_Name_22190_001 = Unite Ranked Set (Season 27): Gloves
-Trainner_Suit_Name_22191_001 = Unite Ranked Set (Season 27): Shoes
-Trainner_Suit_Name_22196_001 = Fairy-Tale Set (): Shoes
-Trainner_Suit_Name_22197_001 = Fairy-Tale Set (, Red): Shoes
-Trainner_Suit_Name_22198_001 = Fairy-Tale Set (, Aqua Green): Shoes
+Trainner_Suit_Name_22187_001 = Conjunto Ranqueado Unite (Temporada 27)
+Trainner_Suit_Name_22188_001 = Conjunto Ranqueado Unite (Temporada 27): cabeça
+Trainner_Suit_Name_22189_001 = Conjunto Ranqueado Unite (Temporada 27): partes superior e inferior
+Trainner_Suit_Name_22190_001 = Conjunto Ranqueado Unite (Temporada 27): luvas
+Trainner_Suit_Name_22191_001 = Conjunto Ranqueado Unite (Temporada 27): calçados
+Trainner_Suit_Name_22196_001 = Conjunto Conto de Fadas (): calçados
+Trainner_Suit_Name_22197_001 = Conjunto Conto de Fadas (, vermelho): calçados
+Trainner_Suit_Name_22198_001 = Conjunto Conto de Fadas (, verde-água): calçados
 Trainner_Suit_Name_9799_001 = Conjunto Glaceon
 Trainner_Suit_Name_9800_001 = Conjunto Glaceon: cabeça
 Trainner_Suit_Name_9801_001 = Conjunto Glaceon: parte superior e inferior
@@ -26297,6 +26497,7 @@ Tutorial_Dialog_NS_60020_001 = Troque energia uma vez
 Tutorial_Dialog_NS_60029_001 = Prepare-se para a batalha
 Tutorial_Dialog_NS_60030_001 = Confira os itens de batalha
 Tutorial_Dialog_NS_60036_002 = Pressione <emoji=111> para conferir as missões do passe de batalha
+Tutorial_Dialog_NS_60036_003 = Pressione <emoji=111> para conferir as missões do passe de batalha
 Tutorial_Dialog_NS_60039_001 = Confira os itens de segurar
 Tutorial_Dialog_NS_60043_001 = Conferir os itens de segurar
 Tutorial_Dialog_NS_60046_002 = Vá às lojas
@@ -26627,10 +26828,10 @@ Tutorial_Tips_80002_001 = Você se moveu! Gol interrompido!
 Tutorial_Tips_80003_001 = Vá para uma <color=#ff7c00>área do gol oponente</color> para marcar um gol!
 Tutorial_Tips_80004_001 = Antes, vá para a <color=#ff7c00>área do gol dianteira</color> para marcar um gol!
 Tutorial_Tips_81004_001 = Antes, vá para a <color=#ff7c00>área do gol dianteira</color>!
-Tutorial_Tips_Desc_22254_001 = ユナイトバトルを始めよう！
-Tutorial_Tips_Desc_22255_001 = もう一度挑戦してみましょう！
-Tutorial_Tips_Desc_22256_001 = もう一度ソロチャレンジに参加しよう！
-Tutorial_Tips_Desc_22257_001 = ソロチャレンジを始めよう！
+Tutorial_Tips_Desc_22254_001 = Vamos começar uma Batalha Unite!
+Tutorial_Tips_Desc_22255_001 = Vamos tentar outra vez!
+Tutorial_Tips_Desc_22256_001 = Vamos tentar o desafio individual outra vez!
+Tutorial_Tips_Desc_22257_001 = Vamos tentar o desafio individual!
 Tutorial_Tips_NS_50002_002 = Pressione <emoji=109> para abrir o menu de Nível do Treinador[Grm:Gen M="" F="a" ]
 Tutorial_Tips_NS_50003_001 = Pressione <emoji=101> para receber a recompensa
 Tutorial_Tips_NS_60012_002 = Pressione <emoji=111> para abrir o menu
@@ -26656,7 +26857,7 @@ Ui_Common_MBFormat = {0} MB
 Ui_Common_PercentFormat = {0} %
 UnopenRechargeFunction = A compra de gemas Aeos não foi desbloqueada.
 UnopenRechargeFunction_002 = As compras no jogo estão restritas.
-Update_Tips_Desc_22216_001 = New items will be available in the shop when the game is updated. Update now?
+Update_Tips_Desc_22216_001 = A versão mais recente do jogo está disponível. Atualizar agora?
 URL_Jump = Toque aqui
 Use_Avatar_Tip = Você não tem a licença Unite necessária para usar o Holowear deste Pokémon.
 Use_Time_Ntf = Menos de cinco minutos restantes de duração do item.
