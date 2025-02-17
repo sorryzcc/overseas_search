@@ -1,0 +1,3 @@
+curl -X GET 'https://devops.apigw.o.woa.com/prod/v4/apigw-user/projects/pmgame/build_detail?buildId=b-70ffa6a28bd143c589e99367cc48e40e&pipelineId=p-d23f990367e64c5e8069d7634fe17175' \
+-H 'Content-Type: application/json' \
+-H 'X-Bkapi-Authorization:{"access_token":"EVgipDAoFliOrzP2ZSefGX03MEzPjX"}'
