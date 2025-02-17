@@ -1,0 +1,758 @@
+[
+  {
+    "id": "ID2",
+    "name": "ID2",
+    "desc": "",
+    "type": 100,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "ID",
+    "name": "唯一的数值参考",
+    "desc": "",
+    "type": 8,
+    "value": "",
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "desc",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "number",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Simp_TIMI_Status",
+    "name": "文本审核备注",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "TextChangeTag",
+    "name": "文本变动信息",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "SubKey",
+    "name": "原始key",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "PO",
+    "name": "文本负责人",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "InGameKey",
+    "name": "客户端读取的key",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "{\"count\":false,\"countType\":\"char\"}",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Origin",
+    "name": "原文",
+    "desc": "",
+    "type": 2,
+    "required": false,
+    "args": "{\"count\":true,\"countType\":\"char\"}",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "string",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "MsKey",
+    "name": "MS上使用的Key",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "MsSource",
+    "name": "MS上的原文",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Used",
+    "name": "文本状态",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "MsStatus",
+    "name": "在MS的文本状态",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Version",
+    "name": "版本信息",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Region",
+    "name": "文本所属区域",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Platform",
+    "name": "文本所属平台",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Context",
+    "name": "文本场景信息",
+    "desc": "",
+    "type": 2,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "string",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Style",
+    "name": "Style",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Note",
+    "name": "备注信息",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "KeyAttributes",
+    "name": "是配置表还是程序字",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "Branch",
+    "name": "分支信息",
+    "desc": "",
+    "type": 1,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  },
+  {
+    "id": "creator",
+    "name": "创建人",
+    "desc": "",
+    "type": 14,
+    "required": false,
+    "args": "",
+    "maxlength": "",
+    "inputlength": "",
+    "pattern": "",
+    "sort": "",
+    "readonly": false,
+    "unique": false,
+    "notAutoSpace": false,
+    "isHidden": false,
+    "width": 0,
+    "triggers": "",
+    "searchable": false,
+    "defaultOperator": [],
+    "valueType": "string",
+    "hideSearchable": false,
+    "canBackfill": false,
+    "encrypt": false,
+    "disabledPlatformDefault": false,
+    "defaultValue": "",
+    "score": 0,
+    "_clientEditState": {
+      "existing": true
+    },
+    "output": {
+      "calc": ""
+    },
+    "input": {
+      "type": ""
+    }
+  }
+]
