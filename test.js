@@ -12,7 +12,9 @@ async function readJsonFile() {
     // 解析JSON数据
     const jsonData = JSON.parse(data);
     
-    console.log(jsonData);
+    console.log(jsonData.map(item => 
+        item.id)
+    );
   } catch (err) {
     console.error('Error reading or parsing the JSON file:', err);
   }
