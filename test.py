@@ -1,17 +1,26 @@
 import requests
+import json  # 确保导入json模块
 
-# 假设这是你的API请求信息
-url = 'YOUR_API_URL'
+# 确保使用了完整的URL
+url = 'https://devops.apigw.o.woa.com/prod/v4/apigw-user/projects/pmgame/build_detail'
+params = {
+    'buildId': 'b-70ffa6a28bd143c589e99367cc48e40e',
+    'pipelineId': 'p-d23f990367e64c5e8069d7634fe17175'
+}
 headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer YOUR_ACCESS_TOKEN'
+    'X-Bkapi-Authorization': '{"access_token":"EVgipDAoFliOrzP2ZSefGX03MEzPjX"}'
 }
 
-response = requests.get(url, headers=headers)
+response = requests.get(url, headers=headers, params=params)
 
 if response.status_code == 200:
     data = response.json()
-    latest_build_num = data.get('latestBuildNum')
+    # 打印整个响应内容以供检查
+    print(json.dumps(data, indent=4))  # 使用json.dumps格式化输出
+    
+    # 假设latestBuildNum在data键下
+    latest_build_num = data.get('data', {}).get('latestBuildNum')
     
     if latest_build_num is not None:
         print(f"Latest Build Number: {latest_build_num}")
